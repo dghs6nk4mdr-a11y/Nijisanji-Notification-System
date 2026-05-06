@@ -1,0 +1,492 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>推しジャンル スケジュール</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;400;500;700&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --bg: #0a0a0f;
+      --surface: #13131a;
+      --surface2: #1c1c28;
+      --border: #2a2a3a;
+      --accent: #7c6af7;
+      --accent2: #f76ab4;
+      --onair: #22d37a;
+      --scheduled: #6ab4f7;
+      --text: #e8e8f0;
+      --text-muted: #6b6b85;
+      --card-hover: #1e1e2e;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: 'Noto Sans JP', sans-serif;
+      min-height: 100vh;
+    }
+
+    /* ── ヘッダー ── */
+    header {
+      padding: 2rem 2rem 1.5rem;
+      border-bottom: 1px solid var(--border);
+      display: flex;
+      align-items: flex-end;
+      justify-content: space-between;
+      gap: 1rem;
+      flex-wrap: wrap;
+    }
+
+    .header-title h1 {
+      font-size: 1.5rem;
+      font-weight: 700;
+      letter-spacing: 0.05em;
+      background: linear-gradient(135deg, var(--accent), var(--accent2));
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+    }
+
+    .header-title p {
+      font-size: 0.75rem;
+      color: var(--text-muted);
+      margin-top: 0.25rem;
+      font-family: 'Space Mono', monospace;
+    }
+
+    .header-meta {
+      text-align: right;
+      font-size: 0.72rem;
+      color: var(--text-muted);
+      font-family: 'Space Mono', monospace;
+      line-height: 1.8;
+    }
+
+    /* ── タブ ── */
+    .tabs {
+      display: flex;
+      gap: 0;
+      padding: 1.25rem 2rem 0;
+      border-bottom: 1px solid var(--border);
+    }
+
+    .tab-btn {
+      background: none;
+      border: none;
+      border-bottom: 2px solid transparent;
+      color: var(--text-muted);
+      font-family: 'Noto Sans JP', sans-serif;
+      font-size: 0.85rem;
+      padding: 0.5rem 1.25rem 0.75rem;
+      cursor: pointer;
+      transition: color 0.2s, border-color 0.2s;
+      white-space: nowrap;
+    }
+
+    .tab-btn.active {
+      color: var(--text);
+      border-bottom-color: var(--accent);
+    }
+
+    .tab-btn:hover:not(.active) {
+      color: var(--text);
+    }
+
+    /* ── メインコンテンツ ── */
+    main {
+      padding: 1.5rem 2rem;
+      max-width: 960px;
+    }
+
+    /* ── ステータスヘッダー ── */
+    .section-label {
+      font-size: 0.7rem;
+      font-family: 'Space Mono', monospace;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--text-muted);
+      margin: 1.5rem 0 0.75rem;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+
+    .section-label::before {
+      content: '';
+      display: inline-block;
+      width: 6px;
+      height: 6px;
+      border-radius: 50%;
+      background: currentColor;
+    }
+
+    .section-label.onair { color: var(--onair); }
+    .section-label.scheduled { color: var(--scheduled); }
+
+    /* ── カード ── */
+    .card-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+      gap: 0.75rem;
+    }
+
+    .card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      overflow: hidden;
+      transition: background 0.2s, border-color 0.2s, transform 0.15s;
+      text-decoration: none;
+      color: inherit;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .card:hover {
+      background: var(--card-hover);
+      border-color: var(--accent);
+      transform: translateY(-2px);
+    }
+
+    .card-thumb {
+      width: 100%;
+      aspect-ratio: 16/9;
+      object-fit: cover;
+      background: var(--surface2);
+      display: block;
+    }
+
+    .card-thumb-placeholder {
+      width: 100%;
+      aspect-ratio: 16/9;
+      background: var(--surface2);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: var(--text-muted);
+      font-size: 1.5rem;
+    }
+
+    .card-body {
+      padding: 0.85rem;
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      gap: 0.5rem;
+    }
+
+    .card-liver {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+
+    .liver-icon {
+      width: 24px;
+      height: 24px;
+      border-radius: 50%;
+      object-fit: cover;
+      background: var(--surface2);
+      flex-shrink: 0;
+    }
+
+    .liver-name {
+      font-size: 0.78rem;
+      color: var(--text-muted);
+      font-weight: 500;
+    }
+
+    .card-title {
+      font-size: 0.88rem;
+      font-weight: 500;
+      line-height: 1.45;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    .card-footer {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-top: auto;
+    }
+
+    .badge {
+      font-size: 0.65rem;
+      font-family: 'Space Mono', monospace;
+      padding: 0.2em 0.6em;
+      border-radius: 4px;
+      font-weight: 700;
+      letter-spacing: 0.05em;
+    }
+
+    .badge-onair {
+      background: rgba(34, 211, 122, 0.15);
+      color: var(--onair);
+      border: 1px solid rgba(34, 211, 122, 0.3);
+    }
+
+    .badge-scheduled {
+      background: rgba(106, 180, 247, 0.12);
+      color: var(--scheduled);
+      border: 1px solid rgba(106, 180, 247, 0.25);
+    }
+
+    .card-time {
+      font-size: 0.72rem;
+      color: var(--text-muted);
+      font-family: 'Space Mono', monospace;
+    }
+
+    /* ── キーワードタグ ── */
+    .keywords {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.35rem;
+      margin-top: 0.25rem;
+    }
+
+    .kw-tag {
+      font-size: 0.65rem;
+      padding: 0.1em 0.5em;
+      border-radius: 3px;
+      background: rgba(124, 106, 247, 0.15);
+      color: var(--accent);
+      border: 1px solid rgba(124, 106, 247, 0.25);
+    }
+
+    /* ── 空状態 ── */
+    .empty {
+      text-align: center;
+      padding: 4rem 2rem;
+      color: var(--text-muted);
+    }
+
+    .empty-icon { font-size: 2.5rem; margin-bottom: 0.75rem; }
+    .empty p { font-size: 0.85rem; line-height: 1.7; }
+
+    /* ── ローディング ── */
+    .loading {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 4rem;
+      gap: 0.5rem;
+      color: var(--text-muted);
+      font-size: 0.85rem;
+    }
+
+    .spinner {
+      width: 16px; height: 16px;
+      border: 2px solid var(--border);
+      border-top-color: var(--accent);
+      border-radius: 50%;
+      animation: spin 0.8s linear infinite;
+    }
+
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    /* ── エラー ── */
+    .error-bar {
+      background: rgba(247, 106, 106, 0.1);
+      border: 1px solid rgba(247, 106, 106, 0.3);
+      color: #f76a6a;
+      padding: 0.75rem 1rem;
+      border-radius: 6px;
+      font-size: 0.82rem;
+      margin: 1rem 0;
+    }
+
+    /* ── レスポンシブ ── */
+    @media (max-width: 600px) {
+      header { padding: 1.25rem 1rem 1rem; }
+      .tabs { padding: 1rem 1rem 0; }
+      main { padding: 1rem; }
+      .card-grid { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <div class="header-title">
+    <h1>推しジャンル スケジュール</h1>
+    <p id="updated-at">読み込み中...</p>
+  </div>
+  <div class="header-meta" id="header-meta"></div>
+</header>
+
+<div class="tabs" id="tabs-container">
+  <button class="tab-btn active" data-tab="all">すべて</button>
+</div>
+
+<main id="main-content">
+  <div class="loading"><div class="spinner"></div>データを取得中...</div>
+</main>
+
+<script>
+// GitHub Pages から相対パスでデータ取得
+const DATA_URL = "./data/streams.json";
+
+let allStreams = [];
+let keywords = [];
+let activeTab = "all";
+
+// ── データ取得 ────────────────────────────────────────────
+async function loadData() {
+  try {
+    const res = await fetch(DATA_URL + "?t=" + Date.now());
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const data = await res.json();
+    allStreams = data.streams || [];
+    keywords = data.keywords || [];
+    renderMeta(data.updated_at, data.keywords);
+    buildTabs();
+    renderStreams();
+  } catch (e) {
+    document.getElementById("main-content").innerHTML =
+      `<div class="error-bar">データの取得に失敗しました: ${e.message}</div>`;
+  }
+}
+
+// ── メタ情報 ─────────────────────────────────────────────
+function renderMeta(updatedAt, kws) {
+  const dt = updatedAt ? new Date(updatedAt).toLocaleString("ja-JP", { timeZone: "Asia/Tokyo" }) : "不明";
+  document.getElementById("updated-at").textContent = `更新: ${dt}`;
+  document.getElementById("header-meta").innerHTML =
+    `キーワード: ${(kws || []).join(" / ")}`;
+}
+
+// ── タブ生成 ─────────────────────────────────────────────
+function buildTabs() {
+  const matchedKws = [...new Set(allStreams.flatMap(s => s.matched_keywords || []))];
+  const container = document.getElementById("tabs-container");
+  container.innerHTML = "";
+
+  const allBtn = makeTab("all", "すべて");
+  container.appendChild(allBtn);
+
+  matchedKws.forEach(kw => {
+    container.appendChild(makeTab(kw, kw));
+  });
+}
+
+function makeTab(tabId, label) {
+  const btn = document.createElement("button");
+  btn.className = "tab-btn" + (tabId === activeTab ? " active" : "");
+  btn.dataset.tab = tabId;
+  btn.textContent = label;
+  btn.addEventListener("click", () => {
+    activeTab = tabId;
+    document.querySelectorAll(".tab-btn").forEach(b => b.classList.remove("active"));
+    btn.classList.add("active");
+    renderStreams();
+  });
+  return btn;
+}
+
+// ── ストリーム描画 ────────────────────────────────────────
+function renderStreams() {
+  const main = document.getElementById("main-content");
+
+  let streams = activeTab === "all"
+    ? allStreams
+    : allStreams.filter(s => (s.matched_keywords || []).includes(activeTab));
+
+  if (streams.length === 0) {
+    main.innerHTML = `
+      <div class="empty">
+        <div class="empty-icon">📭</div>
+        <p>該当する配信が見つかりませんでした。<br>キーワードを変更するか、しばらく待ってから再確認してください。</p>
+      </div>`;
+    return;
+  }
+
+  // ステータス別に分類
+  const onair = streams.filter(s => s.status === "onair" || s.status === "live");
+  const scheduled = streams.filter(s => s.status !== "onair" && s.status !== "live");
+
+  let html = "";
+
+  if (onair.length > 0) {
+    html += `<div class="section-label onair">配信中 (${onair.length})</div>`;
+    html += `<div class="card-grid">${onair.map(cardHTML).join("")}</div>`;
+  }
+
+  if (scheduled.length > 0) {
+    html += `<div class="section-label scheduled">配信予定 (${scheduled.length})</div>`;
+    html += `<div class="card-grid">${scheduled.map(cardHTML).join("")}</div>`;
+  }
+
+  main.innerHTML = html;
+}
+
+// ── カードHTML ────────────────────────────────────────────
+function cardHTML(s) {
+  const isOnair = s.status === "onair" || s.status === "live";
+  const badge = isOnair
+    ? `<span class="badge badge-onair">● LIVE</span>`
+    : `<span class="badge badge-scheduled">予定</span>`;
+
+  const thumb = s.thumbnail
+    ? `<img class="card-thumb" src="${esc(s.thumbnail)}" alt="" loading="lazy" />`
+    : `<div class="card-thumb-placeholder">📺</div>`;
+
+  const icon = s.liver_icon
+    ? `<img class="liver-icon" src="${esc(s.liver_icon)}" alt="" loading="lazy" />`
+    : `<div class="liver-icon" style="background:var(--surface2)"></div>`;
+
+  const time = formatTime(s.start_time);
+
+  const kws = (s.matched_keywords || []).map(kw =>
+    `<span class="kw-tag">${esc(kw)}</span>`).join("");
+
+  const url = s.url || "#";
+
+  return `
+    <a class="card" href="${esc(url)}" target="_blank" rel="noopener">
+      ${thumb}
+      <div class="card-body">
+        <div class="card-liver">
+          ${icon}
+          <span class="liver-name">${esc(s.liver_name || "")}</span>
+        </div>
+        <div class="card-title">${esc(s.title || "")}</div>
+        ${kws ? `<div class="keywords">${kws}</div>` : ""}
+        <div class="card-footer">
+          ${badge}
+          <span class="card-time">${time}</span>
+        </div>
+      </div>
+    </a>`;
+}
+
+function formatTime(iso) {
+  if (!iso) return "";
+  try {
+    return new Date(iso).toLocaleString("ja-JP", {
+      timeZone: "Asia/Tokyo",
+      month: "numeric", day: "numeric",
+      hour: "2-digit", minute: "2-digit"
+    });
+  } catch { return ""; }
+}
+
+function esc(str) {
+  return String(str ?? "")
+    .replace(/&/g, "&amp;").replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;").replace(/"/g, "&quot;");
+}
+
+// ── 起動 & 5分おき自動更新 ───────────────────────────────
+loadData();
+setInterval(loadData, 5 * 60 * 1000);
+</script>
+</body>
+</html>

@@ -1,0 +1,37 @@
+name: Fetch Nijisanji Streams
+
+on:
+  schedule:
+    - cron: '*/20 * * * *'  # 20分おきに実行
+  workflow_dispatch:          # 手動実行も可能
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run fetch script
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: python scripts/fetch.py
+
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add data/streams.json
+          git diff --staged --quiet || git commit -m "Update streams data [$(date '+%Y-%m-%d %H:%M')]"
+          git push
