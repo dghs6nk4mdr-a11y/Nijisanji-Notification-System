@@ -38,6 +38,9 @@ def fetch_streams(day_offset: int) -> list:
 
 # ── フィルタリング ────────────────────────────────────────
 def filter_streams(streams: list, keywords: list) -> list:
+    for s in streams:
+        attrs = s.get("attributes", {})
+        print(f"[DEBUG] {attrs.get('title','')[:20]} | status: {attrs.get('status','')}")
     results = []
     for s in streams:
         attrs = s.get("attributes", {})
