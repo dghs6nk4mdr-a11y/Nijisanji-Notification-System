@@ -43,10 +43,13 @@ def filter_streams(streams: list, keywords: list) -> list:
         attrs = s.get("attributes", {})
         title = attrs.get("title", "")
         if any(kw in title for kw in keywords):
+            # ライバー名を relationships から取得
+            livers = s.get("relationships", {}).get("youtube_events_livers", {}).get("data", [])
+            liver_name = livers[0].get("id", "") if livers else ""
             results.append({
                 "id": s.get("id", ""),
                 "title": title,
-                "liver_name": "",
+                "liver_name": liver_name,
                 "liver_icon": "",
                 "thumbnail": attrs.get("thumbnail_url", attrs.get("fallback_thumbnail_url", "")),
                 "status": attrs.get("status", ""),
