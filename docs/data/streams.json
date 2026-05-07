@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-07T19:52:06.255391+09:00",
+  "updated_at": "2026-05-07T23:31:46.621660+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -143,11 +143,37 @@
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/HmybaNJvcRQ/maxresdefault_live.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-05-07T22:00:00.000+09:00",
+      "status": "on_air",
+      "start_time": "2026-05-07T22:05:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=HmybaNJvcRQ",
       "matched_keywords": [
         "ラジオ"
+      ]
+    },
+    {
+      "id": "01KR15H2YMPJXPTPQF1PRSVJ9T",
+      "title": "【雑談】来週末にじフェスって本当ですか？【にじさんじ/東堂コハク】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/n7ZwXleCUzo/maxresdefault.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-07T21:30:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=n7ZwXleCUzo",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
+      "id": "01KR12CPY08DZQHCEVCKNCY0F1",
+      "title": "【 雑談 】学力テスト算数100点社会6点１位の回答用紙を見る会【小清水 透 / にじさんじ】",
+      "liver_name": "01K41YXJKFS56EEZWBV5QX5H8G",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/J_pu87syzSY/maxresdefault.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-07T20:30:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=J_pu87syzSY",
+      "matched_keywords": [
+        "雑談"
       ]
     },
     {
@@ -155,7 +181,7 @@
       "title": "【雑談】ざつだんきぶん【長尾景/にじさんじ】【#ながおしゃべり】",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/GZNaH-WaGtc/maxresdefault_live.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/GZNaH-WaGtc/maxresdefault.jpg",
       "status": "not_on_air",
       "start_time": "2026-05-07T20:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=GZNaH-WaGtc",
@@ -168,7 +194,7 @@
       "title": "製麵雑談ロケ旅編！！その３：合計１２時間超 オリジナルラーメン完成！【一橋綾人/五木左京/にじさんじ】#えりぶりもう1周年",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/UD1ZA40KnC8/maxresdefault_live.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/UD1ZA40KnC8/maxresdefault.jpg",
       "status": "not_on_air",
       "start_time": "2026-05-07T20:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=UD1ZA40KnC8",
