@@ -40,17 +40,18 @@ def fetch_streams(day_offset: int) -> list:
 def filter_streams(streams: list, keywords: list) -> list:
     results = []
     for s in streams:
-        title = s.get("title", "")
+        attrs = s.get("attributes", {})
+        title = attrs.get("title", "")
         if any(kw in title for kw in keywords):
             results.append({
                 "id": s.get("id", ""),
                 "title": title,
-                "liver_name": s.get("liver", {}).get("name", s.get("liver_name", "")),
-                "liver_icon": s.get("liver", {}).get("icon_image_url", s.get("liver_icon", "")),
-                "thumbnail": s.get("thumbnail_image_url", s.get("thumbnail", "")),
-                "status": s.get("status", ""),          # "onair" / "scheduled" など
-                "start_time": s.get("start_time", s.get("scheduled_start_time", "")),
-                "url": s.get("url", s.get("stream_url", "")),
+                "liver_name": "",
+                "liver_icon": "",
+                "thumbnail": attrs.get("thumbnail_url", attrs.get("fallback_thumbnail_url", "")),
+                "status": attrs.get("status", ""),
+                "start_time": attrs.get("start_at", ""),
+                "url": attrs.get("url", ""),
                 "matched_keywords": [kw for kw in keywords if kw in title],
             })
     return results
