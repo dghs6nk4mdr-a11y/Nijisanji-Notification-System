@@ -449,8 +449,8 @@ function render() {
     ? allStreams
     : allStreams.filter(s => (s.matched_keywords || []).includes(activeTab));
 
-  const onair = streams.filter(s => s.status === "on air");
-  const scheduled = streams.filter(s => s.status !== "on air");
+  const onair = streams.filter(s => s.status === "on_air");
+  const scheduled = streams.filter(s => s.status !== "on_air");
 
   const today = toJSTDateStr(new Date());
   const yesterday = toJSTDateStr(new Date(Date.now() - 86400000));
