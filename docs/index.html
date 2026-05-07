@@ -453,8 +453,10 @@ function render() {
   const scheduled = streams.filter(s => s.status !== "on air");
 
   const today = toJSTDateStr(new Date());
+  const yesterday = toJSTDateStr(new Date(Date.now() - 86400000));
+  const yesterdayStreams = scheduled.filter(s => toJSTDateStr(new Date(s.start_time)) === yesterday);
   const todayStreams = scheduled.filter(s => toJSTDateStr(new Date(s.start_time)) === today);
-  const tomorrowStreams = scheduled.filter(s => toJSTDateStr(new Date(s.start_time)) !== today);
+  const tomorrowStreams = scheduled.filter(s => toJSTDateStr(new Date(s.start_time)) !== today && toJSTDateStr(new Date(s.start_time)) !== yesterday);
 
   if (streams.length === 0) {
     document.getElementById("page-body").innerHTML =
@@ -469,6 +471,11 @@ function render() {
     html += `<div class="onair-list">${onair.map(onairCard).join("")}</div>`;
   }
 
+  if (yesterdayStreams.length > 0) {
+  html += `<div class="section-head">YESTERDAY</div>`;
+  html += `<div class="schedule-section">${renderScheduled(yesterdayStreams)}</div>`;
+  }
+ 
   if (todayStreams.length > 0) {
     html += `<div class="section-head">TODAY</div>`;
     html += `<div class="schedule-section">${renderScheduled(todayStreams)}</div>`;
