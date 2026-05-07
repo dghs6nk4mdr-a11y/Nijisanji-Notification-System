@@ -2,7 +2,7 @@ name: Fetch Nijisanji Streams
 
 on:
   schedule:
-    - cron: '*/20 * * * *'  # 20分おきに実行
+    - cron: '*/30 * * * *'  # 30分おきに実行
   workflow_dispatch:          # 手動実行も可能
 
 jobs:
