@@ -1,24 +1,11 @@
 {
-  "updated_at": "2026-05-07T12:11:46.613210+09:00",
+  "updated_at": "2026-05-07T12:19:36.919341+09:00",
   "keywords": [
     "雑談",
     "朝活",
-    "トモダチコレクション"
+    "ドラクエ"
   ],
   "streams": [
-    {
-      "id": "01KR041QNJF22HHZZPM81DN9V7",
-      "title": "【#09 トモダチコレクション わくわく生活】にじさんじライバー達で暮らしたらきっと魔法のような新体験ができるはず！！✨【ニュイ・ソシエール / にじさんじ】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/YV7VN13LPz0/maxresdefault_live.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-05-07T20:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=YV7VN13LPz0",
-      "matched_keywords": [
-        "トモダチコレクション"
-      ]
-    },
     {
       "id": "01KQMFJD650ES6VFAYEPG2ZAEB",
       "title": "製麵雑談ロケ旅編！！その３：合計１２時間超 オリジナルラーメン完成！【一橋綾人/五木左京/にじさんじ】#えりぶりもう1周年",
@@ -33,29 +20,16 @@
       ]
     },
     {
-      "id": "01KQZTM3ARHDCREF2TRCDRD241",
-      "title": "BUILDING 1! [Tomodachi Life: Living the Dream /トモダチコレクション わくわく生活]【NIJISANJI EN | Doppio Dropscythe】",
+      "id": "01KQYKPMAZKF253658BCMNHVYG",
+      "title": "【ドラクエ2リメイク】デルコンダルに一生つかない※ネタバレ注意【ルイス・キャミー/にじさんじ】",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/ESAdK5sd9g4/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-05-07T08:48:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=ESAdK5sd9g4",
+      "thumbnail": "https://i.ytimg.com/vi/qPfgsE2Sjss/maxresdefault_live.jpg",
+      "status": "on_air",
+      "start_time": "2026-05-07T11:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=qPfgsE2Sjss",
       "matched_keywords": [
-        "トモダチコレクション"
-      ]
-    },
-    {
-      "id": "01KQXFN9JH14NFPN19V5EKM3KP",
-      "title": "【トモダチコレクション わくわく生活】新しい住民作っていく！～にじさんじダンス部編～｜＃04【レイン・パターソン/にじさんじ】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/tAeyS3T8HQo/maxresdefault_live.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-05-07T08:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=tAeyS3T8HQo",
-      "matched_keywords": [
-        "トモダチコレクション"
+        "ドラクエ"
       ]
     },
     {
@@ -95,32 +69,6 @@
       "url": "https://www.youtube.com/watch?v=K4ugUqdWqfw",
       "matched_keywords": [
         "朝活"
-      ]
-    },
-    {
-      "id": "01KQYVQB0QAPK3K656XE6WW4E6",
-      "title": "【トモダチコレクション￤Tomodachi Life】New ppl 新メンバー追加【NIJISANJI EN￤Meloco Kyoran】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/oOWXewyQk5A/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-05-07T00:15:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=oOWXewyQk5A",
-      "matched_keywords": [
-        "トモダチコレクション"
-      ]
-    },
-    {
-      "id": "01KQYKPJ2M80586C0GJK2W56XJ",
-      "title": "【 トモダチコレクション わくわく生活 】#04　トモコレ最新作✨ 入居者多数！島拡大！！ 【 にじさんじ / 夜見れな 】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/Ue6_1b_-mSc/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-05-07T00:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=Ue6_1b_-mSc",
-      "matched_keywords": [
-        "トモダチコレクション"
       ]
     },
     {
