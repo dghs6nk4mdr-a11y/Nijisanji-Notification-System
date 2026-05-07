@@ -1,0 +1,562 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Streaming Schedule</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;400;500;700&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet" />
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg: #f5f4f0;
+      --surface: #ffffff;
+      --border: #e0ddd6;
+      --border-strong: #c8c5bc;
+      --text: #1a1a18;
+      --text-sub: #6b6860;
+      --text-hint: #a8a59e;
+      --accent: #d14f3a;
+      --live-dot: #e03a2a;
+      --tag-bg: #eeecea;
+    }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: 'Noto Sans JP', sans-serif;
+      min-height: 100vh;
+    }
+
+    .site-header {
+      background: var(--surface);
+      border-bottom: 1px solid var(--border);
+      padding: 1.25rem 2rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-end;
+    }
+
+    .site-title {
+      font-size: 1.35rem;
+      font-weight: 700;
+      letter-spacing: -0.01em;
+      color: var(--text);
+    }
+
+    .site-sub {
+      font-size: 0.75rem;
+      color: var(--text-sub);
+      margin-top: 0.2rem;
+    }
+
+    .last-update {
+      text-align: right;
+      font-family: 'DM Mono', monospace;
+      font-size: 0.68rem;
+      color: var(--text-hint);
+      line-height: 1.7;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+    }
+
+    .tab-bar {
+      background: var(--surface);
+      border-bottom: 1px solid var(--border);
+      padding: 0 2rem;
+      display: flex;
+      gap: 0;
+      overflow-x: auto;
+    }
+
+    .tab-btn {
+      background: none;
+      border: none;
+      border-bottom: 2px solid transparent;
+      font-family: 'Noto Sans JP', sans-serif;
+      font-size: 0.82rem;
+      font-weight: 500;
+      color: var(--text-hint);
+      padding: 0.75rem 1.1rem;
+      cursor: pointer;
+      white-space: nowrap;
+      transition: color 0.15s, border-color 0.15s;
+      letter-spacing: 0.04em;
+    }
+
+    .tab-btn.active { color: var(--text); border-bottom-color: var(--accent); }
+    .tab-btn:hover:not(.active) { color: var(--text-sub); }
+
+    .page-body {
+      max-width: 780px;
+      margin: 0 auto;
+      padding: 2rem 1.5rem;
+    }
+
+    .section-head {
+      font-family: 'DM Mono', monospace;
+      font-size: 0.68rem;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--text-hint);
+      margin-bottom: 0.85rem;
+      display: flex;
+      align-items: center;
+      gap: 0.6rem;
+    }
+
+    .section-head::after {
+      content: '';
+      flex: 1;
+      height: 1px;
+      background: var(--border);
+    }
+
+    /* ON AIR — コンパクト横長カード */
+    .onair-list {
+      display: flex;
+      flex-direction: column;
+      gap: 0.6rem;
+      margin-bottom: 2rem;
+    }
+
+    .onair-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-left: 3px solid var(--live-dot);
+      border-radius: 8px;
+      display: flex;
+      align-items: center;
+      gap: 0.85rem;
+      padding: 0.75rem 1rem;
+      text-decoration: none;
+      color: inherit;
+      transition: border-color 0.15s, background 0.15s;
+    }
+
+    .onair-card:hover {
+      border-color: var(--border-strong);
+      border-left-color: var(--live-dot);
+      background: #fafaf8;
+    }
+
+    .onair-thumb {
+      width: 80px;
+      height: 45px;
+      object-fit: cover;
+      border-radius: 4px;
+      background: var(--tag-bg);
+      flex-shrink: 0;
+    }
+
+    .onair-thumb-ph {
+      width: 80px;
+      height: 45px;
+      background: var(--tag-bg);
+      border-radius: 4px;
+      flex-shrink: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 1rem;
+    }
+
+    .onair-info { flex: 1; min-width: 0; }
+
+    .onair-liver {
+      font-size: 0.72rem;
+      color: var(--text-sub);
+      margin-bottom: 0.2rem;
+      display: flex;
+      align-items: center;
+      gap: 0.4rem;
+    }
+
+    .liver-icon-sm {
+      width: 16px;
+      height: 16px;
+      border-radius: 50%;
+      object-fit: cover;
+      background: var(--tag-bg);
+      flex-shrink: 0;
+    }
+
+    .onair-title {
+      font-size: 0.88rem;
+      font-weight: 500;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .live-badge {
+      flex-shrink: 0;
+      display: flex;
+      align-items: center;
+      gap: 0.3rem;
+      font-family: 'DM Mono', monospace;
+      font-size: 0.65rem;
+      font-weight: 500;
+      color: var(--live-dot);
+      letter-spacing: 0.05em;
+    }
+
+    .live-dot {
+      width: 6px;
+      height: 6px;
+      border-radius: 50%;
+      background: var(--live-dot);
+      animation: pulse 1.4s ease-in-out infinite;
+    }
+
+    @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.25; } }
+
+    /* UPCOMING — 時間グループ + 大きめカード */
+    .schedule-section { margin-bottom: 2rem; }
+
+    .time-group { margin-bottom: 1.25rem; }
+
+    .time-row {
+      display: flex;
+      gap: 1.25rem;
+      align-items: flex-start;
+    }
+
+    .time-label {
+      font-family: 'DM Mono', monospace;
+      font-size: 0.8rem;
+      font-weight: 500;
+      color: var(--text-sub);
+      padding-top: 1rem;
+      width: 3.5rem;
+      flex-shrink: 0;
+      text-align: right;
+    }
+
+    .time-cards {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      gap: 0.5rem;
+      border-left: 1px solid var(--border);
+      padding-left: 1.25rem;
+    }
+
+    .sched-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      display: flex;
+      gap: 0.9rem;
+      align-items: center;
+      padding: 0.85rem 1rem;
+      text-decoration: none;
+      color: inherit;
+      transition: border-color 0.15s, background 0.15s, transform 0.1s;
+    }
+
+    .sched-card:hover {
+      border-color: var(--border-strong);
+      background: #fafaf8;
+      transform: translateY(-1px);
+    }
+
+    .sched-thumb {
+      width: 120px;
+      height: 68px;
+      object-fit: cover;
+      border-radius: 5px;
+      background: var(--tag-bg);
+      flex-shrink: 0;
+    }
+
+    .sched-thumb-ph {
+      width: 120px;
+      height: 68px;
+      background: var(--tag-bg);
+      border-radius: 5px;
+      flex-shrink: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 1.5rem;
+    }
+
+    .sched-info { flex: 1; min-width: 0; }
+
+    .sched-meta {
+      font-size: 0.72rem;
+      color: var(--text-sub);
+      margin-bottom: 0.3rem;
+      display: flex;
+      align-items: center;
+      gap: 0.4rem;
+    }
+
+    .sched-title {
+      font-size: 0.92rem;
+      font-weight: 500;
+      line-height: 1.45;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    .kw-tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.3rem;
+      margin-top: 0.4rem;
+    }
+
+    .kw-tag {
+      font-size: 0.65rem;
+      padding: 0.15em 0.55em;
+      border-radius: 3px;
+      background: var(--tag-bg);
+      color: var(--text-sub);
+      border: 1px solid var(--border);
+    }
+
+    .sched-watch {
+      flex-shrink: 0;
+      font-family: 'DM Mono', monospace;
+      font-size: 0.68rem;
+      padding: 0.4em 0.9em;
+      border: 1px solid var(--border-strong);
+      border-radius: 4px;
+      color: var(--text-sub);
+      background: none;
+      white-space: nowrap;
+      letter-spacing: 0.04em;
+      transition: background 0.15s, color 0.15s, border-color 0.15s;
+    }
+
+    .sched-card:hover .sched-watch {
+      background: var(--text);
+      color: var(--surface);
+      border-color: var(--text);
+    }
+
+    .empty, .error-msg, .loading {
+      text-align: center;
+      padding: 3rem 1rem;
+      color: var(--text-hint);
+      font-size: 0.85rem;
+      line-height: 1.7;
+    }
+
+    .error-msg {
+      background: #fff5f4;
+      border: 1px solid #f5c5be;
+      border-radius: 8px;
+      color: var(--accent);
+    }
+
+    .spinner {
+      width: 16px; height: 16px;
+      border: 2px solid var(--border);
+      border-top-color: var(--text-sub);
+      border-radius: 50%;
+      animation: spin 0.7s linear infinite;
+      display: inline-block;
+      vertical-align: middle;
+      margin-right: 0.5rem;
+    }
+
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    @media (max-width: 600px) {
+      .site-header { padding: 1rem; flex-direction: column; align-items: flex-start; gap: 0.5rem; }
+      .last-update { text-align: left; }
+      .tab-bar { padding: 0 1rem; }
+      .page-body { padding: 1.25rem 1rem; }
+      .sched-thumb, .sched-thumb-ph { width: 80px; height: 45px; }
+      .sched-watch { display: none; }
+    }
+  </style>
+</head>
+<body>
+
+<header class="site-header">
+  <div>
+    <div class="site-title">Streaming Schedule</div>
+    <div class="site-sub" id="site-sub">Daily Live Updates</div>
+  </div>
+  <div class="last-update" id="last-update">読み込み中...</div>
+</header>
+
+<div class="tab-bar" id="tab-bar">
+  <button class="tab-btn active" data-tab="all">ALL</button>
+</div>
+
+<div class="page-body" id="page-body">
+  <div class="loading"><span class="spinner"></span>データを取得中...</div>
+</div>
+
+<script>
+const DATA_URL = "./data/streams.json";
+let allStreams = [], activeTab = "all";
+
+async function loadData() {
+  try {
+    const res = await fetch(DATA_URL + "?t=" + Date.now());
+    if (!res.ok) throw new Error("HTTP " + res.status);
+    const data = await res.json();
+    allStreams = data.streams || [];
+    renderMeta(data.updated_at, data.keywords);
+    buildTabs(data.keywords || []);
+    render();
+  } catch (e) {
+    document.getElementById("page-body").innerHTML =
+      `<div class="error-msg">データの取得に失敗しました: ${e.message}</div>`;
+  }
+}
+
+function renderMeta(updatedAt, kws) {
+  const dt = updatedAt
+    ? new Date(updatedAt).toLocaleDateString("ja-JP", { timeZone: "Asia/Tokyo", month: "long", day: "numeric", year: "numeric" })
+    : "";
+  document.getElementById("site-sub").textContent = "Daily Live Updates" + (dt ? " • " + dt : "");
+  const t = updatedAt
+    ? new Date(updatedAt).toLocaleTimeString("ja-JP", { timeZone: "Asia/Tokyo", hour: "2-digit", minute: "2-digit" })
+    : "--:--";
+  document.getElementById("last-update").innerHTML = `LAST UPDATE<br>${t} JST`;
+}
+
+function buildTabs(keywords) {
+  const bar = document.getElementById("tab-bar");
+  bar.innerHTML = "";
+  ["all", ...keywords].forEach(t => {
+    const btn = document.createElement("button");
+    btn.className = "tab-btn" + (t === activeTab ? " active" : "");
+    btn.dataset.tab = t;
+    btn.textContent = t === "all" ? "ALL" : t;
+    btn.addEventListener("click", () => {
+      activeTab = t;
+      document.querySelectorAll(".tab-btn").forEach(b => b.classList.remove("active"));
+      btn.classList.add("active");
+      render();
+    });
+    bar.appendChild(btn);
+  });
+}
+
+function render() {
+  const streams = activeTab === "all"
+    ? allStreams
+    : allStreams.filter(s => (s.matched_keywords || []).includes(activeTab));
+
+  const onair = streams.filter(s => s.status === "onair" || s.status === "live");
+  const scheduled = streams.filter(s => s.status !== "onair" && s.status !== "live");
+
+  if (streams.length === 0) {
+    document.getElementById("page-body").innerHTML =
+      `<div class="empty">該当する配信が見つかりませんでした。<br>キーワードを変更するか、しばらく後に再確認してください。</div>`;
+    return;
+  }
+
+  let html = "";
+
+  if (onair.length > 0) {
+    html += `<div class="section-head">ON AIR NOW</div>`;
+    html += `<div class="onair-list">${onair.map(onairCard).join("")}</div>`;
+  }
+
+  if (scheduled.length > 0) {
+    html += `<div class="section-head">UPCOMING SCHEDULE</div>`;
+    html += `<div class="schedule-section">${renderScheduled(scheduled)}</div>`;
+  }
+
+  document.getElementById("page-body").innerHTML = html;
+}
+
+function onairCard(s) {
+  const thumb = s.thumbnail
+    ? `<img class="onair-thumb" src="${esc(s.thumbnail)}" alt="" loading="lazy" />`
+    : `<div class="onair-thumb-ph">📺</div>`;
+  const icon = s.liver_icon
+    ? `<img class="liver-icon-sm" src="${esc(s.liver_icon)}" alt="" loading="lazy" />`
+    : "";
+  return `
+    <a class="onair-card" href="${esc(s.url || '#')}" target="_blank" rel="noopener">
+      ${thumb}
+      <div class="onair-info">
+        <div class="onair-liver">${icon}${esc(s.liver_name || "")}</div>
+        <div class="onair-title">${esc(s.title || "")}</div>
+      </div>
+      <div class="live-badge"><div class="live-dot"></div>LIVE</div>
+    </a>`;
+}
+
+function renderScheduled(streams) {
+  const groups = {};
+  streams
+    .slice()
+    .sort((a, b) => new Date(a.start_time || 0) - new Date(b.start_time || 0))
+    .forEach(s => {
+      const key = timeKey(s.start_time);
+      if (!groups[key]) groups[key] = { label: timeLabel(s.start_time), streams: [] };
+      groups[key].streams.push(s);
+    });
+
+  return Object.values(groups).map(g => `
+    <div class="time-group">
+      <div class="time-row">
+        <div class="time-label">${g.label}</div>
+        <div class="time-cards">${g.streams.map(schedCard).join("")}</div>
+      </div>
+    </div>`).join("");
+}
+
+function schedCard(s) {
+  const thumb = s.thumbnail
+    ? `<img class="sched-thumb" src="${esc(s.thumbnail)}" alt="" loading="lazy" />`
+    : `<div class="sched-thumb-ph">📺</div>`;
+  const icon = s.liver_icon
+    ? `<img class="liver-icon-sm" src="${esc(s.liver_icon)}" alt="" loading="lazy" />`
+    : "";
+  const kws = (s.matched_keywords || []).map(k => `<span class="kw-tag">${esc(k)}</span>`).join("");
+  return `
+    <a class="sched-card" href="${esc(s.url || '#')}" target="_blank" rel="noopener">
+      ${thumb}
+      <div class="sched-info">
+        <div class="sched-meta">${icon}${esc(s.liver_name || "")}</div>
+        <div class="sched-title">${esc(s.title || "")}</div>
+        ${kws ? `<div class="kw-tags">${kws}</div>` : ""}
+      </div>
+      <div class="sched-watch">WATCH</div>
+    </a>`;
+}
+
+function timeKey(iso) {
+  if (!iso) return "00:00";
+  try {
+    return new Date(iso).toLocaleTimeString("ja-JP", {
+      timeZone: "Asia/Tokyo", hour: "2-digit", minute: "2-digit", hour12: false
+    });
+  } catch { return "00:00"; }
+}
+
+function timeLabel(iso) {
+  if (!iso) return "--:--";
+  try {
+    return new Date(iso).toLocaleTimeString("ja-JP", {
+      timeZone: "Asia/Tokyo", hour: "2-digit", minute: "2-digit", hour12: false
+    });
+  } catch { return "--:--"; }
+}
+
+function esc(s) {
+  return String(s ?? "")
+    .replace(/&/g,"&amp;").replace(/</g,"&lt;")
+    .replace(/>/g,"&gt;").replace(/"/g,"&quot;");
+}
+
+loadData();
+setInterval(loadData, 5 * 60 * 1000);
+</script>
+</body>
+</html>
