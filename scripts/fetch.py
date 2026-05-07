@@ -104,7 +104,7 @@ def main():
     notify_discord(new_streams)
 
     # 保存
-    os.makedirs("data", exist_ok=True)
+    os.makedirs("docs/data", exist_ok=True)
     output = {
         "updated_at": datetime.now(JST).isoformat(),
         "keywords": keywords,
