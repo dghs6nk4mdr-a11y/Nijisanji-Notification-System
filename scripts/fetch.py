@@ -5,7 +5,7 @@ from datetime import datetime, timezone, timedelta
 
 # ── 設定 ──────────────────────────────────────────────────
 API_BASE = "https://www.nijisanji.jp/api/streams"
-DATA_PATH = "data/streams.json"
+DATA_PATH = "docs/data/streams.json"
 KEYWORDS_PATH = "config/keywords.json"
 DISCORD_WEBHOOK_URL = os.environ.get("DISCORD_WEBHOOK_URL", "")
 
