@@ -449,8 +449,8 @@ function render() {
     ? allStreams
     : allStreams.filter(s => (s.matched_keywords || []).includes(activeTab));
 
-  const onair = streams.filter(s => s.status === "onair");
-  const scheduled = streams.filter(s => s.status !== "onair");
+  const onair = streams.filter(s => s.status === "on air");
+  const scheduled = streams.filter(s => s.status !== "on air");
 
   if (streams.length === 0) {
     document.getElementById("page-body").innerHTML =
