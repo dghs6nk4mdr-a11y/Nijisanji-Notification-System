@@ -1,11 +1,154 @@
 {
-  "updated_at": "2026-05-07T14:48:35.468209+09:00",
+  "updated_at": "2026-05-07T16:43:29.938034+09:00",
   "keywords": [
     "雑談",
     "朝活",
     "APEX"
   ],
   "streams": [
+    {
+      "id": "01KQYJ8Z4R3GPFSF8SZMRJJ55K",
+      "title": "【雑談】お久しぶりです！！！ 【にじさんじ／ジユ】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/h6q07pQew2M/maxresdefault.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-06T22:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=h6q07pQew2M",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
+      "id": "01KQW2RCNRNR2ZTDSPEWF4M062",
+      "title": "製麺雑談ロケ旅編！！その２：横浜ラーメン博物館で「青竹打ち」に初挑戦！【  にじさんじ / 一橋綾人 / 五木左京 】 #えりぶりもう1周年",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/WT_QD4enU7s/maxresdefault.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-06T20:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=WT_QD4enU7s",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
+      "id": "01KQV44HS80T481ZQPMAJ2RQ1V",
+      "title": "【雑談】before i sleep",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": null,
+      "status": "not_on_air",
+      "start_time": "2026-05-06T20:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=V19YjujhGi4",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
+      "id": "01KQW4QG2KW3025RT9P3BE4ACF",
+      "title": "【雑談】GWいかがお過ごしでしょうか～👻【 椎名唯華/にじさんじ】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/amzdhnood9Y/maxresdefault.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-06T12:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=amzdhnood9Y",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
+      "id": "01KQTJ3Y4Y2H65KEFR0ZY3YCQB",
+      "title": "Breaking This Game With My Movement | Axle Season 29 Overclocked APEX Legends",
+      "liver_name": "01GHE21YHHT7MGCSEMXAN4GVHG",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/MFgVfA6welY/maxresdefault.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-06T10:30:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=MFgVfA6welY",
+      "matched_keywords": [
+        "APEX"
+      ]
+    },
+    {
+      "id": "01KQX7C3VDJ0QAYPAYEJMQ1CHS",
+      "title": "【APEX】 新シーズン突入！飛ばしていくぜ【渚トラウト/にじさんじ】",
+      "liver_name": "01J6CCJAK9N4AKCGFZ75P3W147",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/PFTucqn1QLY/maxresdefault.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-06T08:20:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=PFTucqn1QLY",
+      "matched_keywords": [
+        "APEX"
+      ]
+    },
+    {
+      "id": "01KQWH1220QP2A0T6W60ZVC35P",
+      "title": "【 #ベース女子 】GWベース練習生活最終日【朝活】【にじさんじ/える】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/TAID16kG6cw/maxresdefault.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-06T08:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=TAID16kG6cw",
+      "matched_keywords": [
+        "朝活"
+      ]
+    },
+    {
+      "id": "01KQX4G9HD5TVJ1R1K7J8R2792",
+      "title": "おゴールデンな朝雑談。あさろめ。【ですわ～】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/UGoESoQoY4g/maxresdefault.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-06T07:45:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=UGoESoQoY4g",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
+      "id": "01KQX12P8P5V3WVR4A2NFHZ1QK",
+      "title": "【朝活】おはすず5月6日（水）＃521【七瀬すず菜/にじさんじ】",
+      "liver_name": "01J6CCJAK9N4AKCGFZ75P3W147",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/UOkMiFEFP_Q/maxresdefault.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-06T07:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=UOkMiFEFP_Q",
+      "matched_keywords": [
+        "朝活"
+      ]
+    },
+    {
+      "id": "01KQV8ZWPFNNXBQKZ5X4SQKYTY",
+      "title": "【#朝活 】+ #トモコレ💛水曜日のおはよう！GW楽しんだ!?外出の方は気をつけていってらっしゃいませ💕【ナセラ/にじさんじ🌸🌙】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/j-BuqkZMW6c/maxresdefault.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-06T07:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=j-BuqkZMW6c",
+      "matched_keywords": [
+        "朝活"
+      ]
+    },
+    {
+      "id": "01KQW865QA7P4PPAWCG08KV4Q9",
+      "title": "【朝活ラジオ】パジャマ以外全部クリーニングに出した漢【魁星/にじさんじ】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/Vb4TW7bmJM8/maxresdefault.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-06T06:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=Vb4TW7bmJM8",
+      "matched_keywords": [
+        "朝活"
+      ]
+    },
     {
       "id": "01KQMFJD650ES6VFAYEPG2ZAEB",
       "title": "製麵雑談ロケ旅編！！その３：合計１２時間超 オリジナルラーメン完成！【一橋綾人/五木左京/にじさんじ】#えりぶりもう1周年",
@@ -25,8 +168,8 @@
       "liver_name": "01G8WAJS0W64JJFFMPW5VTB2CJ",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/3Q6qAanji-4/maxresdefault_live.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-05-07T14:40:00.000+09:00",
+      "status": "on_air",
+      "start_time": "2026-05-07T15:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=3Q6qAanji-4",
       "matched_keywords": [
         "APEX"
@@ -76,8 +219,8 @@
       "title": "【APEX】新シーズンきちゃ！トラウティ＆きいさまとフルパ！！【にじさんじ/桜凛月】",
       "liver_name": "01J0QW5BH6JM0RWZG3MTF7V52T",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/vMI5rf-OCx4/maxresdefault_live.jpg",
-      "status": "on_air",
+      "thumbnail": "https://i.ytimg.com/vi/vMI5rf-OCx4/maxresdefault.jpg",
+      "status": "not_on_air",
       "start_time": "2026-05-07T13:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=vMI5rf-OCx4",
       "matched_keywords": [
