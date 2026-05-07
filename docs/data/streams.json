@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-08T05:06:23.436272+09:00",
+  "updated_at": "2026-05-08T08:35:42.950304+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -130,7 +130,7 @@
       "liver_name": "01J6CCJAK9N4AKCGFZ75P3W147",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/EdpMyisqJwM/maxresdefault_live.jpg",
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-05-08T08:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=EdpMyisqJwM",
       "matched_keywords": [
@@ -139,11 +139,24 @@
       ]
     },
     {
+      "id": "01KR25W3DHXREHMFBTC7M4ZK9P",
+      "title": "【朝活】おはすず5月8日（金）＃523【七瀬すず菜/にじさんじ】",
+      "liver_name": "01J6CCJAK9N4AKCGFZ75P3W147",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/U_aFH3-aU6E/maxresdefault_live.jpg",
+      "status": "on_air",
+      "start_time": "2026-05-08T07:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=U_aFH3-aU6E",
+      "matched_keywords": [
+        "朝活"
+      ]
+    },
+    {
       "id": "01KR1E4EMZ1K8JV147BD8J1W7D",
       "title": "【 朝活 】GW明け一発目の華金！一緒に準備しよ～💄【 にじさんじ / 城瀬いすみ / すぷれあ】",
       "liver_name": "01K5BBDKSPBQHW595ESQWN8BBP",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/z5Un3urj2jY/maxresdefault_live.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/z5Un3urj2jY/maxresdefault.jpg",
       "status": "not_on_air",
       "start_time": "2026-05-08T07:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=z5Un3urj2jY",
@@ -157,7 +170,7 @@
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/sy4qmx1K1wI/maxresdefault_live.jpg",
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-05-08T07:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=sy4qmx1K1wI",
       "matched_keywords": [
@@ -170,7 +183,7 @@
       "liver_name": "01J0QW5BH6JM0RWZG3MTF7V52T",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/kPIbRIxJ2GE/maxresdefault_live.jpg",
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-05-08T07:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=kPIbRIxJ2GE",
       "matched_keywords": [
