@@ -91,7 +91,7 @@ def main():
 
     # 今日・明日のデータを取得して統合
     raw = []
-    for offset in [0, 1]:
+    for offset in [-1, 0, 1]:
         fetched = fetch_streams(offset)
         print(f"[INFO] day_offset={offset}: {len(fetched)}件取得")
         raw.extend(fetched)
