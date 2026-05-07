@@ -452,6 +452,10 @@ function render() {
   const onair = streams.filter(s => s.status === "on air");
   const scheduled = streams.filter(s => s.status !== "on air");
 
+  const today = toJSTDateStr(new Date());
+  const todayStreams = scheduled.filter(s => toJSTDateStr(new Date(s.start_time)) === today);
+  const tomorrowStreams = scheduled.filter(s => toJSTDateStr(new Date(s.start_time)) !== today);
+
   if (streams.length === 0) {
     document.getElementById("page-body").innerHTML =
       `<div class="empty">該当する配信が見つかりませんでした。<br>キーワードを変更するか、しばらく後に再確認してください。</div>`;
@@ -465,12 +469,21 @@ function render() {
     html += `<div class="onair-list">${onair.map(onairCard).join("")}</div>`;
   }
 
-  if (scheduled.length > 0) {
-    html += `<div class="section-head">UPCOMING SCHEDULE</div>`;
-    html += `<div class="schedule-section">${renderScheduled(scheduled)}</div>`;
+  if (todayStreams.length > 0) {
+    html += `<div class="section-head">TODAY</div>`;
+    html += `<div class="schedule-section">${renderScheduled(todayStreams)}</div>`;
+  }
+
+  if (tomorrowStreams.length > 0) {
+    html += `<div class="section-head">TOMORROW</div>`;
+    html += `<div class="schedule-section">${renderScheduled(tomorrowStreams)}</div>`;
   }
 
   document.getElementById("page-body").innerHTML = html;
+}
+
+function toJSTDateStr(date) {
+  return date.toLocaleDateString("ja-JP", { timeZone: "Asia/Tokyo", year: "numeric", month: "2-digit", day: "2-digit" });
 }
 
 function onairCard(s) {
