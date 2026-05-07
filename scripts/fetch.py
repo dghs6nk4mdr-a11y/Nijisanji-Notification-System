@@ -91,7 +91,8 @@ def main():
         fetched = fetch_streams(offset)
         print(f"[INFO] day_offset={offset}: {len(fetched)}件取得")
         raw.extend(fetched)
-
+        
+    print("[DEBUG] サンプル:", json.dumps(raw[0], ensure_ascii=False) if raw else "なし")
     filtered = filter_streams(raw, keywords)
     print(f"[INFO] フィルタ後: {len(filtered)}件")
 
