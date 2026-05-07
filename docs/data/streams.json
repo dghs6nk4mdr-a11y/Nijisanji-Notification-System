@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-05-07T14:41:44.432040+09:00",
+  "updated_at": "2026-05-07T14:48:35.468209+09:00",
   "keywords": [
     "雑談",
     "朝活",
-    "ドラクエ"
+    "APEX"
   ],
   "streams": [
     {
@@ -20,16 +20,68 @@
       ]
     },
     {
-      "id": "01KQYKPMAZKF253658BCMNHVYG",
-      "title": "【ドラクエ2リメイク】デルコンダルに一生つかない※ネタバレ注意【ルイス・キャミー/にじさんじ】",
+      "id": "01KR08BRBJC964GWHBX66YHS1Q",
+      "title": "APEX│新シーズン行くぞ！新キャラいっぱいいそう🏍 w/りつきんさん,トラウ亭【綺沙良/にじさんじ】",
+      "liver_name": "01G8WAJS0W64JJFFMPW5VTB2CJ",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/3Q6qAanji-4/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-07T14:40:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=3Q6qAanji-4",
+      "matched_keywords": [
+        "APEX"
+      ]
+    },
+    {
+      "id": "01KR0CXXNYG8ZE3FPTJ72FWB5N",
+      "title": "【APEX】いつめんS29 W.こはく, ロウ  【ハユン/にじさんじ】",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/qPfgsE2Sjss/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-05-07T11:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=qPfgsE2Sjss",
+      "thumbnail": "https://i.ytimg.com/vi/tjMcpmJQnLo/maxresdefault_live.jpg",
+      "status": "on_air",
+      "start_time": "2026-05-07T14:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=tjMcpmJQnLo",
       "matched_keywords": [
-        "ドラクエ"
+        "APEX"
+      ]
+    },
+    {
+      "id": "01KR0CMYZTAEGN9Z93823EAPQX",
+      "title": "【APEX】新シーズンアクセル【小柳ロウ/にじさんじ】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/yRPfdLv4HU0/maxresdefault_live.jpg",
+      "status": "on_air",
+      "start_time": "2026-05-07T14:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=yRPfdLv4HU0",
+      "matched_keywords": [
+        "APEX"
+      ]
+    },
+    {
+      "id": "01KR08MX50HRQFY4C12ZJKH3F7",
+      "title": "【APEX】 新シーズンフルパさん！w/りつきん3 きー3【渚トラウト/にじさんじ】",
+      "liver_name": "01G8WAJS0W64JJFFMPW5VTB2CJ",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/GU9-dpmlkro/maxresdefault_live.jpg",
+      "status": "on_air",
+      "start_time": "2026-05-07T13:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=GU9-dpmlkro",
+      "matched_keywords": [
+        "APEX"
+      ]
+    },
+    {
+      "id": "01KQZVR46E61R8ECYFGV1ZMFTM",
+      "title": "【APEX】新シーズンきちゃ！トラウティ＆きいさまとフルパ！！【にじさんじ/桜凛月】",
+      "liver_name": "01J0QW5BH6JM0RWZG3MTF7V52T",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/vMI5rf-OCx4/maxresdefault_live.jpg",
+      "status": "on_air",
+      "start_time": "2026-05-07T13:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=vMI5rf-OCx4",
+      "matched_keywords": [
+        "APEX"
       ]
     },
     {
