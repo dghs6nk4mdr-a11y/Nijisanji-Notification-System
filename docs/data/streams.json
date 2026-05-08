@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-08T19:57:59.055916+09:00",
+  "updated_at": "2026-05-09T01:03:14.157243+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -7,121 +7,16 @@
   ],
   "streams": [
     {
-      "id": "01KR01RWAPFCMY7RHVK03CPE7G",
-      "title": "【第１１回】ゴールデンウィークだスペシャル！ENライバー、日本によくいるね！【にじENラジオ！ENのここきにならhEN？】",
+      "id": "01KR3QN98M3WVYK4G6B9T1EM60",
+      "title": "【雑談】吸音材貼ったりギター弾いたりするかも。【花籠つばさ / にじさんじ】",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/HmybaNJvcRQ/maxresdefault.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/qorzZm1R5y4/maxresdefault_live.jpg",
       "status": "not_on_air",
-      "start_time": "2026-05-07T22:05:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=HmybaNJvcRQ",
-      "matched_keywords": [
-        "ラジオ"
-      ]
-    },
-    {
-      "id": "01KR15H2YMPJXPTPQF1PRSVJ9T",
-      "title": "【雑談】来週末にじフェスって本当ですか？【にじさんじ/東堂コハク】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/n7ZwXleCUzo/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-05-07T21:30:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=n7ZwXleCUzo",
+      "start_time": "2026-05-08T21:15:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=qorzZm1R5y4",
       "matched_keywords": [
         "雑談"
-      ]
-    },
-    {
-      "id": "01KR12CPY08DZQHCEVCKNCY0F1",
-      "title": "【 雑談 】学力テスト算数100点社会6点１位の回答用紙を見る会【小清水 透 / にじさんじ】",
-      "liver_name": "01K41YXJKFS56EEZWBV5QX5H8G",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/J_pu87syzSY/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-05-07T20:30:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=J_pu87syzSY",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KR10C90107WSBAYBGP46G7PD",
-      "title": "【雑談】ざつだんきぶん【長尾景/にじさんじ】【#ながおしゃべり】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/GZNaH-WaGtc/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-05-07T20:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=GZNaH-WaGtc",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KQMFJD650ES6VFAYEPG2ZAEB",
-      "title": "製麵雑談ロケ旅編！！その３：合計１２時間超 オリジナルラーメン完成！【一橋綾人/五木左京/にじさんじ】#えりぶりもう1周年",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/UD1ZA40KnC8/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-05-07T20:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=UD1ZA40KnC8",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KQZ2K37K5469GD2PHXAQQ0P3",
-      "title": "【 雑談 】GW明けも頑張るあなたに送るご機嫌モーニング【 鏑木ろこ￤海妹四葉￤にじさんじ 】",
-      "liver_name": "01G8WAJX0D24NE78G8TE81034Q",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/fhowuquOLjE/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-05-07T07:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=fhowuquOLjE",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KQYWW7KFH9EHP12RB8FNDY1T",
-      "title": "【朝活】おはすず5月7日（木）＃522【七瀬すず菜/にじさんじ】",
-      "liver_name": "01J6CCJAK9N4AKCGFZ75P3W147",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/k_rZYeV4T9I/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-05-07T07:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=k_rZYeV4T9I",
-      "matched_keywords": [
-        "朝活"
-      ]
-    },
-    {
-      "id": "01KQZGWXX6HBPSJPKFCDXZEGFC",
-      "title": "【朝活ラジオ】GW明けの朝活いきましょう【魁星/にじさんじ】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/K4ugUqdWqfw/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-05-07T06:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=K4ugUqdWqfw",
-      "matched_keywords": [
-        "朝活",
-        "ラジオ"
-      ]
-    },
-    {
-      "id": "01KQWKXPKXP4S1HKJN7C3FA3E4",
-      "title": "〖深夜ラジオ〗2026年5月7日(木)のにゃルラジ🌙〖猫屋敷美紅 / にじさんじ〗",
-      "liver_name": "01K2KXFY4WTXD0E42NN67KG73Q",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/8P1L0PYu2oc/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-05-07T00:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=8P1L0PYu2oc",
-      "matched_keywords": [
-        "ラジオ"
       ]
     },
     {
@@ -261,7 +156,7 @@
       "liver_name": "01K2KXFY4WTXD0E42NN67KG73Q",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/fx9TlhWAkXU/maxresdefault_live.jpg",
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-05-09T00:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=fx9TlhWAkXU",
       "matched_keywords": [
