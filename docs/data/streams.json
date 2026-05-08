@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-08T08:35:42.950304+09:00",
+  "updated_at": "2026-05-08T15:19:23.040362+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -125,12 +125,51 @@
       ]
     },
     {
+      "id": "01KR2ZWRWHSF8VCRB8BXX3W9QK",
+      "title": "【雑談】愛とは【北小路ヒスイ/にじさんじ】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/56k-I8u_yJM/maxresdefault_live.jpg",
+      "status": "on_air",
+      "start_time": "2026-05-08T14:05:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=56k-I8u_yJM",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
+      "id": "01KR2RRD183PY6Z3MY5B8S8PJ5",
+      "title": "𓊆 縦型雑談 𓊇 マックのチキンタツタたべよ～～！！ 𓊆 雲母たまこ/にじさんじ 𓊇",
+      "liver_name": "01J6CCJAK9N4AKCGFZ75P3W147",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/6ZUQ5la9HTI/maxresdefault.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-08T12:05:16.000+09:00",
+      "url": "https://www.youtube.com/watch?v=6ZUQ5la9HTI",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
+      "id": "01KR2G4SH46811SGNJZQ95BSD2",
+      "title": "【ぽこ あ ポケモン】「朝活をすれば、人間たちが戻ってくるかもしれんのう＾＾ノ！」【にじさんじ/える】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/NL4PWSu-SHM/maxresdefault.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-08T10:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=NL4PWSu-SHM",
+      "matched_keywords": [
+        "朝活"
+      ]
+    },
+    {
       "id": "01KR1MDPQ3XXTJ5Z2G6ZE8CP03",
       "title": "【朝活雑談】おはよってしたい！！！【早乙女ベリー/にじさんじ】",
       "liver_name": "01J6CCJAK9N4AKCGFZ75P3W147",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/EdpMyisqJwM/maxresdefault_live.jpg",
-      "status": "on_air",
+      "thumbnail": "https://i.ytimg.com/vi/EdpMyisqJwM/maxresdefault.jpg",
+      "status": "not_on_air",
       "start_time": "2026-05-08T08:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=EdpMyisqJwM",
       "matched_keywords": [
@@ -143,8 +182,8 @@
       "title": "【朝活】おはすず5月8日（金）＃523【七瀬すず菜/にじさんじ】",
       "liver_name": "01J6CCJAK9N4AKCGFZ75P3W147",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/U_aFH3-aU6E/maxresdefault_live.jpg",
-      "status": "on_air",
+      "thumbnail": "https://i.ytimg.com/vi/U_aFH3-aU6E/maxresdefault.jpg",
+      "status": "not_on_air",
       "start_time": "2026-05-08T07:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=U_aFH3-aU6E",
       "matched_keywords": [
@@ -169,8 +208,8 @@
       "title": "【#朝活 】+ #トモコレ💛神曜日ですわ！ラスト平日がんば！気をつけていってらっしゃいませ💕【ナセラ/にじさんじ🌸🌙】",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/sy4qmx1K1wI/maxresdefault_live.jpg",
-      "status": "on_air",
+      "thumbnail": "https://i.ytimg.com/vi/sy4qmx1K1wI/maxresdefault.jpg",
+      "status": "not_on_air",
       "start_time": "2026-05-08T07:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=sy4qmx1K1wI",
       "matched_keywords": [
@@ -182,8 +221,8 @@
       "title": "【朝活】きさまっちょとおはようございますしましょ🎶【ルンルン/にじさんじ】",
       "liver_name": "01J0QW5BH6JM0RWZG3MTF7V52T",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/kPIbRIxJ2GE/maxresdefault_live.jpg",
-      "status": "on_air",
+      "thumbnail": "https://i.ytimg.com/vi/kPIbRIxJ2GE/maxresdefault.jpg",
+      "status": "not_on_air",
       "start_time": "2026-05-08T07:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=kPIbRIxJ2GE",
       "matched_keywords": [
