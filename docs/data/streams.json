@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-09T19:38:57.345694+09:00",
+  "updated_at": "2026-05-09T23:36:21.847840+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -142,7 +142,7 @@
       "title": "【雑談】「もう5月」か「まだ5月」かわからん【にじさんじ/夢追翔】",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/v_XE8Lspr4c/maxresdefault_live.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/v_XE8Lspr4c/maxresdefault.jpg",
       "status": "not_on_air",
       "start_time": "2026-05-09T21:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=v_XE8Lspr4c",
@@ -155,7 +155,7 @@
       "title": "【 #ばんちょとめると 】告知あり⁉ 轟はじめちゃんと仲良くなりたい…!!雑談コラボ💘【倉持めると/にじさんじ】",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/fx4Fn_HifpM/maxresdefault_live.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/fx4Fn_HifpM/maxresdefault.jpg",
       "status": "not_on_air",
       "start_time": "2026-05-09T21:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=fx4Fn_HifpM",
@@ -181,7 +181,7 @@
       "title": "【Chat/雑談】Skincare & Fashion Zatsudan!【NIJISANJI EN | Seible】",
       "liver_name": "01GHE21YHHT7MGCSEMXAN4GVHG",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/F3LMyVWzLmk/maxresdefault_live.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/F3LMyVWzLmk/maxresdefault.jpg",
       "status": "not_on_air",
       "start_time": "2026-05-09T15:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=F3LMyVWzLmk",
@@ -200,6 +200,19 @@
       "url": "https://www.youtube.com/watch?v=fx9TlhWAkXU",
       "matched_keywords": [
         "ラジオ"
+      ]
+    },
+    {
+      "id": "01KR6EX6J1J5XXQA4SECT02XVV",
+      "title": "【朝雑談】野菜は美味しいから食べるのよ【四季凪アキラ/にじさんじ】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/5Sg-yMkRxfw/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-10T10:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=5Sg-yMkRxfw",
+      "matched_keywords": [
+        "雑談"
       ]
     },
     {
@@ -231,12 +244,12 @@
     },
     {
       "id": "01KR4M8N8HQ0GZ8QZX1TN0MQ7X",
-      "title": "〖深夜ラジオ〗2026年5月10日(土)のにゃルラジ🌙〖猫屋敷美紅 / にじさんじ〗",
+      "title": "〖深夜ラジオ〗2026年5月10日(日)のにゃルラジ🌙〖猫屋敷美紅 / にじさんじ〗",
       "liver_name": "01K2KXFY4WTXD0E42NN67KG73Q",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/n_0CtPp44mU/maxresdefault_live.jpg",
       "status": "not_on_air",
-      "start_time": "2026-05-10T00:00:00.000+09:00",
+      "start_time": "2026-05-10T00:15:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=n_0CtPp44mU",
       "matched_keywords": [
         "ラジオ"
