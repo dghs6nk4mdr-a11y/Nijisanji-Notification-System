@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-09T16:24:02.189385+09:00",
+  "updated_at": "2026-05-09T19:38:57.345694+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -138,6 +138,19 @@
       ]
     },
     {
+      "id": "01KR5VQ5SA2XPH7GHJHT9SAQQM",
+      "title": "【雑談】「もう5月」か「まだ5月」かわからん【にじさんじ/夢追翔】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/v_XE8Lspr4c/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-09T21:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=v_XE8Lspr4c",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
       "id": "01KR0QGTBE92RPJF5K7FZD8D2M",
       "title": "【 #ばんちょとめると 】告知あり⁉ 轟はじめちゃんと仲良くなりたい…!!雑談コラボ💘【倉持めると/にじさんじ】",
       "liver_name": "",
@@ -151,12 +164,25 @@
       ]
     },
     {
+      "id": "01KR5WJJ38JE7XK2AF0QYJ8PHB",
+      "title": "モイラの雑談配信【20260509】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/E4HMOClijtQ/maxresdefault.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-09T17:10:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=E4HMOClijtQ",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
       "id": "01KR4P8VRCMNPQYAW270CJFFR9",
       "title": "【Chat/雑談】Skincare & Fashion Zatsudan!【NIJISANJI EN | Seible】",
       "liver_name": "01GHE21YHHT7MGCSEMXAN4GVHG",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/F3LMyVWzLmk/maxresdefault_live.jpg",
-      "status": "on_air",
+      "status": "not_on_air",
       "start_time": "2026-05-09T15:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=F3LMyVWzLmk",
       "matched_keywords": [
@@ -174,6 +200,33 @@
       "url": "https://www.youtube.com/watch?v=fx9TlhWAkXU",
       "matched_keywords": [
         "ラジオ"
+      ]
+    },
+    {
+      "id": "01KR600VKJWCM1B59HNMRFBP2Y",
+      "title": "【 ニチアサ 】たまには日曜日に朝雑談したっていい【 にじさんじ / 西園チグサ 】#shorts",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/QHQYUhqd0Bw/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-10T08:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=QHQYUhqd0Bw",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
+      "id": "01KR60WPEPA5QRCF5C6EVK6VNN",
+      "title": "【朝活雑談】今週の私はホテル暮らしのマナエッティ【ニチアサ！緋八マン！】【にじさんじ/緋八マナ】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/pfejmCNhSAw/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-10T07:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=pfejmCNhSAw",
+      "matched_keywords": [
+        "雑談",
+        "朝活"
       ]
     },
     {
