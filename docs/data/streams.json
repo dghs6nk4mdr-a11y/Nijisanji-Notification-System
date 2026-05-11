@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-11T06:09:23.979445+09:00",
+  "updated_at": "2026-05-11T09:12:21.836469+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -169,7 +169,7 @@
       "liver_name": "01K2KXFY4WTXD0E42NN67KG73Q",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/wxRo0Qn66tI/maxresdefault_live.jpg",
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-05-11T08:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=wxRo0Qn66tI",
       "matched_keywords": [
@@ -182,7 +182,7 @@
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/OqT800X7c2c/maxresdefault_live.jpg",
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-05-11T07:30:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=OqT800X7c2c",
       "matched_keywords": [
@@ -190,11 +190,24 @@
       ]
     },
     {
+      "id": "01KR9WS06BQ7G4YRCXKGC3P3R5",
+      "title": "【朝活】おはすず5月11日（月）＃524【七瀬すず菜/にじさんじ】",
+      "liver_name": "01J6CCJAK9N4AKCGFZ75P3W147",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/zNZfnlXRCtc/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-11T07:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=zNZfnlXRCtc",
+      "matched_keywords": [
+        "朝活"
+      ]
+    },
+    {
       "id": "01KR97W1TCE25QRCA6994TG4EY",
       "title": "【朝活#372】久しぶりに朝！！にじフェスって今週末！？【雪城眞尋/にじさんじ】",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/xPreAO7bkQY/maxresdefault_live.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/xPreAO7bkQY/maxresdefault.jpg",
       "status": "not_on_air",
       "start_time": "2026-05-11T07:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=xPreAO7bkQY",
@@ -207,7 +220,7 @@
       "title": "【朝雑談】おはようみゃみー！ 2026/05/11 #14【白砂あやね / 水面まどか / にじさんじ】",
       "liver_name": "01KG4FVDPNJXY4TA6Z4B365S5V",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/gO5ereAtXnU/maxresdefault_live.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/gO5ereAtXnU/maxresdefault.jpg",
       "status": "not_on_air",
       "start_time": "2026-05-11T07:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=gO5ereAtXnU",
@@ -221,7 +234,7 @@
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/KKfDt5yIzCA/maxresdefault_live.jpg",
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-05-11T07:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=KKfDt5yIzCA",
       "matched_keywords": [
@@ -233,7 +246,7 @@
       "title": "【 雑談 】月曜日らしいから吹っ飛ばそう朝活【 皇れお / にじさんじ 】",
       "liver_name": "01K5BBDKSPBQHW595ESQWN8BBP",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/A57nljuZvjM/maxresdefault_live.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/A57nljuZvjM/maxresdefault.jpg",
       "status": "not_on_air",
       "start_time": "2026-05-11T06:30:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=A57nljuZvjM",
@@ -247,8 +260,8 @@
       "title": "【朝雑談】にじフェス前のシャカリキ朝配信【海妹四葉/にじさんじ】",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/fxTljBK091M/maxresdefault_live.jpg",
-      "status": "on_air",
+      "thumbnail": "https://i.ytimg.com/vi/fxTljBK091M/maxresdefault.jpg",
+      "status": "not_on_air",
       "start_time": "2026-05-11T06:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=fxTljBK091M",
       "matched_keywords": [
