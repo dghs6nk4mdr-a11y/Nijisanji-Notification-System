@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-12T17:15:01.694397+09:00",
+  "updated_at": "2026-05-12T19:16:22.348638+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -164,6 +164,19 @@
       ]
     },
     {
+      "id": "01KRDR37EVSP5AYAXXK0V1E88J",
+      "title": "【 雑談 】寝る前に失礼して７【 Rei7 / にじさんじ 】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/YnBuTYoE9zQ/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-12T22:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=YnBuTYoE9zQ",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
       "id": "01KRDFSCSFTAT3QJZ8M8529WMV",
       "title": "【雑談】にじフェス2026出発の準備！何持っていこうかな～！【にじさんじ/緋八マナ】",
       "liver_name": "",
@@ -172,6 +185,19 @@
       "status": "not_on_air",
       "start_time": "2026-05-12T21:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=0CbDGza75EE",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
+      "id": "01KRDRN6GZG9P9GYKM4S19HHMA",
+      "title": "【雑談】わたくもくんLINEスタンプができました！【叢雲カゲツ/にじさんじ】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/zetsqoKYMyg/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-12T20:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=zetsqoKYMyg",
       "matched_keywords": [
         "雑談"
       ]
