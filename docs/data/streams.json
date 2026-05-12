@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-13T02:00:34.852363+09:00",
+  "updated_at": "2026-05-13T02:30:31.833086+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -137,6 +137,19 @@
       ]
     },
     {
+      "id": "01KREJ46D0PPNTDW1P1M5VMSJ0",
+      "title": "〖ぽこ あ ポケモン〗#6 まったり朝活☀キラキラうきしまの街を進めていくよ～！！〖猫屋敷美紅 / にじさんじ〗",
+      "liver_name": "01K2KXFY4WTXD0E42NN67KG73Q",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/u94_KD_149s/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-13T08:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=u94_KD_149s",
+      "matched_keywords": [
+        "朝活"
+      ]
+    },
+    {
       "id": "01KREAP601S6TMMFDX4MBVQ39P",
       "title": "【朝活】おはすず5月13日（水）＃526【七瀬すず菜/にじさんじ】",
       "liver_name": "01J6CCJAK9N4AKCGFZ75P3W147",
@@ -184,6 +197,19 @@
       "status": "not_on_air",
       "start_time": "2026-05-13T00:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=XOBpOuTzsCA",
+      "matched_keywords": [
+        "ラジオ"
+      ]
+    },
+    {
+      "id": "01KREJDE8PT1FS9VGNJY9RP19D",
+      "title": "〖深夜ラジオ〗2026年5月14日(木)のにゃルラジ🌙〖猫屋敷美紅 / にじさんじ〗",
+      "liver_name": "01K2KXFY4WTXD0E42NN67KG73Q",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/gHNrS-YLex8/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-14T00:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=gHNrS-YLex8",
       "matched_keywords": [
         "ラジオ"
       ]
