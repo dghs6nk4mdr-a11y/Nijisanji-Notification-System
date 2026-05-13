@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-13T17:00:41.736354+09:00",
+  "updated_at": "2026-05-13T17:21:55.699875+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -158,6 +158,19 @@
       "status": "not_on_air",
       "start_time": "2026-05-13T20:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=uOsAwEw38I0",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
+      "id": "01KRG5XAJNWCCZ3JJH9G53PR4B",
+      "title": "【作業雑談】にじフェス前進行の全てを終わらせる～05/13早帰り水曜日～【 にじさんじ / 五木左京 】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/VwVWhYAmFNU/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-13T19:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=VwVWhYAmFNU",
       "matched_keywords": [
         "雑談"
       ]
