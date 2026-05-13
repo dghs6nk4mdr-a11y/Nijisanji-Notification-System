@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-13T14:00:35.494608+09:00",
+  "updated_at": "2026-05-13T14:30:34.036348+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -124,6 +124,19 @@
       ]
     },
     {
+      "id": "01KRFVK83J5163Y158XE5D0FXK",
+      "title": "ZATSU 雑談 🐧💬┆ライブ前の！最後のお話し！！！let's chat one last time before the concert...!!!!",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/Qve8zFRqadI/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-13T20:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=Qve8zFRqadI",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
       "id": "01KREB8FG0VHRQEYYAWE6W0ZKH",
       "title": "【雑談】未知の領域へ【早乙女ベリー/にじさんじ】",
       "liver_name": "01J6CCJAK9N4AKCGFZ75P3W147",
@@ -132,6 +145,19 @@
       "status": "not_on_air",
       "start_time": "2026-05-13T20:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=uOsAwEw38I0",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
+      "id": "01KRFW52W40N14C6AV950TY2SA",
+      "title": "どこにでもいる学生による雑談（但し、にじさんじであるというその一点を除いては…な）",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/C31se7vvBdE/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-13T14:30:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=C31se7vvBdE",
       "matched_keywords": [
         "雑談"
       ]
