@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-14T01:00:36.475377+09:00",
+  "updated_at": "2026-05-14T01:30:27.479212+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -12,7 +12,7 @@
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/SUbqidMkzMQ/maxresdefault_live.jpg",
-      "status": "on_air",
+      "status": "not_on_air",
       "start_time": "2026-05-13T22:46:24.000+09:00",
       "url": "https://www.youtube.com/watch?v=SUbqidMkzMQ",
       "matched_keywords": [
@@ -103,7 +103,7 @@
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/Qve8zFRqadI/maxresdefault_live.jpg",
-      "status": "on_air",
+      "status": "not_on_air",
       "start_time": "2026-05-13T20:15:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=Qve8zFRqadI",
       "matched_keywords": [
@@ -264,6 +264,19 @@
       "url": "https://www.youtube.com/watch?v=gHNrS-YLex8",
       "matched_keywords": [
         "ラジオ"
+      ]
+    },
+    {
+      "id": "01KREGD54DDYAZ1WNF0P7RCQHX",
+      "title": "【Minecraft/にじ鯖】明日はにじフェス✨雑談しながら建築しちゃお🏚️【司賀りこ/にじさんじ】",
+      "liver_name": "01J6CCJAKFW1BRQ4RMTBTCJRXP",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/J6DpcG_5CVA/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-15T12:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=J6DpcG_5CVA",
+      "matched_keywords": [
+        "雑談"
       ]
     }
   ]
