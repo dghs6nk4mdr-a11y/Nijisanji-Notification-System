@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-13T19:00:32.465648+09:00",
+  "updated_at": "2026-05-13T19:30:32.294024+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -150,6 +150,19 @@
       ]
     },
     {
+      "id": "01KRGE66SAN5RKA1AYTRGQE4CB",
+      "title": "【雑談】フェス前ラスト雑談【長尾景/にじさんじ】【#ながおしゃべり】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/YQVnOuXwNk8/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-13T20:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=YQVnOuXwNk8",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
       "id": "01KRFVK83J5163Y158XE5D0FXK",
       "title": "ZATSU 雑談 🐧💬┆ライブ前の！最後のお話し！！！let's chat one last time before the concert...!!!!",
       "liver_name": "",
@@ -181,7 +194,7 @@
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/VwVWhYAmFNU/maxresdefault_live.jpg",
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-05-13T19:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=VwVWhYAmFNU",
       "matched_keywords": [
