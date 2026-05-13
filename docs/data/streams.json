@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-13T20:00:34.113783+09:00",
+  "updated_at": "2026-05-13T20:30:37.466208+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -111,6 +111,19 @@
       ]
     },
     {
+      "id": "01KRGG6NPB49HZJWFPFN3RXNPE",
+      "title": "【 雑談 】明後日ライブじゃんか！【 伊波ライ / にじさんじ 】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/E3rYhSGbN6s/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-13T22:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=E3rYhSGbN6s",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
       "id": "01KRGCFKA8SAP33V57X4XD94MN",
       "title": "【雑談】にじフェスあと少し!!✨当日のスケジュールやコスメ、スキンケア前日レシピ（予定）の話するぞー！【倉持めると/にじさんじ】",
       "liver_name": "",
@@ -137,6 +150,19 @@
       ]
     },
     {
+      "id": "01KRGGRCC8VJXK91C6N54ZCGA5",
+      "title": "【🗣️雑談】雑談TIME☆FEVER【にじさんじ/轟京子】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/2ts5pvF_9-8/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-13T21:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=2ts5pvF_9-8",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
       "id": "01KRFSJNSJDWPH0XPFNBKTW0SN",
       "title": "【雑談】今週末にじフェスってマジ？みんな顔登録した？【にじさんじ/ドーラ】",
       "liver_name": "",
@@ -155,7 +181,7 @@
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/Qve8zFRqadI/maxresdefault_live.jpg",
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-05-13T20:15:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=Qve8zFRqadI",
       "matched_keywords": [
@@ -168,7 +194,7 @@
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/YQVnOuXwNk8/maxresdefault_live.jpg",
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-05-13T20:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=YQVnOuXwNk8",
       "matched_keywords": [
