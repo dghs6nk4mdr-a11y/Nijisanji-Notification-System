@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-14T01:30:27.479212+09:00",
+  "updated_at": "2026-05-14T01:41:31.973504+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -24,7 +24,7 @@
       "title": "【 雑談 】明後日ライブじゃんか！【 伊波ライ / にじさんじ 】",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/E3rYhSGbN6s/maxresdefault_live.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/E3rYhSGbN6s/maxresdefault.jpg",
       "status": "not_on_air",
       "start_time": "2026-05-13T22:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=E3rYhSGbN6s",
@@ -102,7 +102,7 @@
       "title": "ZATSU 雑談 🐧💬┆ライブ前の！最後のお話し！！！let's chat one last time before the concert...!!!!",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/Qve8zFRqadI/maxresdefault_live.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/Qve8zFRqadI/maxresdefault.jpg",
       "status": "not_on_air",
       "start_time": "2026-05-13T20:15:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=Qve8zFRqadI",
@@ -259,7 +259,7 @@
       "liver_name": "01K2KXFY4WTXD0E42NN67KG73Q",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/gHNrS-YLex8/maxresdefault_live.jpg",
-      "status": "on_air",
+      "status": "not_on_air",
       "start_time": "2026-05-14T00:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=gHNrS-YLex8",
       "matched_keywords": [
@@ -268,7 +268,7 @@
     },
     {
       "id": "01KREGD54DDYAZ1WNF0P7RCQHX",
-      "title": "【Minecraft/にじ鯖】明日はにじフェス✨雑談しながら建築しちゃお🏚️【司賀りこ/にじさんじ】",
+      "title": "【Minecraft/にじ鯖】にじフェスわくわく✨雑談しながら建築しちゃお🏚️【司賀りこ/にじさんじ】",
       "liver_name": "01J6CCJAKFW1BRQ4RMTBTCJRXP",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/J6DpcG_5CVA/maxresdefault_live.jpg",
