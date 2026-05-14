@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-15T00:30:28.173767+09:00",
+  "updated_at": "2026-05-15T01:00:37.733264+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -50,7 +50,7 @@
       "title": "【 雑談 】にじフェス始まったし一旦お話しタイム【 皇れお / にじさんじ 】",
       "liver_name": "01K5BBDKSPBQHW595ESQWN8BBP",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/1HPJqXKi0fE/maxresdefault_live.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/1HPJqXKi0fE/maxresdefault.jpg",
       "status": "not_on_air",
       "start_time": "2026-05-14T22:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=1HPJqXKi0fE",
@@ -64,7 +64,7 @@
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/nsm38mx0ZSQ/maxresdefault_live.jpg",
-      "status": "on_air",
+      "status": "not_on_air",
       "start_time": "2026-05-14T21:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=nsm38mx0ZSQ",
       "matched_keywords": [
@@ -212,6 +212,20 @@
       "url": "https://www.youtube.com/watch?v=J6DpcG_5CVA",
       "matched_keywords": [
         "雑談"
+      ]
+    },
+    {
+      "id": "01KRKHRT2M0K7V1MWS5F33WHYP",
+      "title": "𓊆 朝活雑談 𓊇 にじフェスたのしむ準備できてる～～？？ 𓊆 雲母たまこ/にじさんじ 𓊇",
+      "liver_name": "01J6CCJAK9N4AKCGFZ75P3W147",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/g5oR6TtsYA4/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-15T08:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=g5oR6TtsYA4",
+      "matched_keywords": [
+        "雑談",
+        "朝活"
       ]
     },
     {
