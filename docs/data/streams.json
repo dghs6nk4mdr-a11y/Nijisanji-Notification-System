@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-14T23:00:39.152875+09:00",
+  "updated_at": "2026-05-14T23:30:29.445235+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -246,7 +246,7 @@
       "liver_name": "01HRRYT59B8XFHS9FNDCT3NTX8",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/xpBg70qeGko/maxresdefault_live.jpg",
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-05-14T23:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=xpBg70qeGko",
       "matched_keywords": [
@@ -285,7 +285,7 @@
       "liver_name": "01K5BBDKSPBQHW595ESQWN8BBP",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/1HPJqXKi0fE/maxresdefault_live.jpg",
-      "status": "on_air",
+      "status": "not_on_air",
       "start_time": "2026-05-14T22:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=1HPJqXKi0fE",
       "matched_keywords": [
@@ -446,6 +446,32 @@
       "url": "https://www.youtube.com/watch?v=J6DpcG_5CVA",
       "matched_keywords": [
         "雑談"
+      ]
+    },
+    {
+      "id": "01KRKE1NS0PXTC74884THJJTMA",
+      "title": "【朝活】にじフェスへの気持ちの準備をする朝【立伝都々 / にじさんじ】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/RMJ4UFvRlh8/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-15T07:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=RMJ4UFvRlh8",
+      "matched_keywords": [
+        "朝活"
+      ]
+    },
+    {
+      "id": "01KRKCX53A15JTEPVZZ5YBVQ4P",
+      "title": "【朝活】おはすず5月15日（金）＃528【七瀬すず菜/にじさんじ】",
+      "liver_name": "01J6CCJAK9N4AKCGFZ75P3W147",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/F6DS9LhpXzQ/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-15T07:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=F6DS9LhpXzQ",
+      "matched_keywords": [
+        "朝活"
       ]
     },
     {
