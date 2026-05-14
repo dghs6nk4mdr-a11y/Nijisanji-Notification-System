@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-14T09:30:34.978823+09:00",
+  "updated_at": "2026-05-14T10:00:31.778634+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -277,6 +277,19 @@
       "url": "https://www.youtube.com/watch?v=dxtQ9uJSMBs",
       "matched_keywords": [
         "ラジオ"
+      ]
+    },
+    {
+      "id": "01KRHZZ25PYDMC1R0DTJZ3SZFK",
+      "title": "【縦型雑談】一緒にお昼食べながらお話しヨ【にじさんじ/レヴィ・エリファ】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/BrLXq-sEMgA/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-14T12:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=BrLXq-sEMgA",
+      "matched_keywords": [
+        "雑談"
       ]
     },
     {
