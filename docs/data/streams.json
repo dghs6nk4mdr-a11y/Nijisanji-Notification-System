@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-15T03:00:42.188600+09:00",
+  "updated_at": "2026-05-15T03:30:29.364134+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -225,6 +225,19 @@
       "url": "https://www.youtube.com/watch?v=g5oR6TtsYA4",
       "matched_keywords": [
         "雑談",
+        "朝活"
+      ]
+    },
+    {
+      "id": "01KRKVG67T2S3CZZB2BN8T38E4",
+      "title": "【 朝活 】にじフェスの情報を一緒に確認しながら、参加表明するのみ～【 篠宮ゆの / すぷれあ / にじさんじ 】",
+      "liver_name": "01K5BBDKSPBQHW595ESQWN8BBP",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/bmgw5R8K0A8/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-15T07:15:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=bmgw5R8K0A8",
+      "matched_keywords": [
         "朝活"
       ]
     },
