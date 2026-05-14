@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-14T16:30:30.411913+09:00",
+  "updated_at": "2026-05-14T17:00:40.896031+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -241,19 +241,6 @@
       ]
     },
     {
-      "id": "01KRHH3PPT0X437AKFD10A89W9",
-      "title": "サムネ後で変更〖 しのめし 〗９カ月ありがとう！「なんか」禁止雑談＋にじフェスわくわく話🍨✨〖 にじさんじ / 夜牛詩乃 〗",
-      "liver_name": "01K2KXFY4WTXD0E42NN67KG73Q",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/owoEwMa7tn8/maxresdefault_live.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-05-14T22:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=owoEwMa7tn8",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
       "id": "01KRGY7DTRJCT68F5G3SRKXNJT",
       "title": "【 雑談 】にじフェス＆明日から少しの間配信をお休みするお話していきます！【にじさんじ / 珠乃井ナナ】",
       "liver_name": "01J6CCJAKFW1BRQ4RMTBTCJRXP",
@@ -284,8 +271,8 @@
       "title": "【雑談】2026.5.14 ありゃりゃ5月だ！にじフェス直前だ！【にじさんじ/黒井しば】",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/0Lw0agnuexo/maxresdefault_live.jpg",
-      "status": "on_air",
+      "thumbnail": "https://i.ytimg.com/vi/0Lw0agnuexo/maxresdefault.jpg",
+      "status": "not_on_air",
       "start_time": "2026-05-14T15:45:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=0Lw0agnuexo",
       "matched_keywords": [
@@ -381,6 +368,19 @@
       "url": "https://www.youtube.com/watch?v=J6DpcG_5CVA",
       "matched_keywords": [
         "雑談"
+      ]
+    },
+    {
+      "id": "01KRJPJNPBXZW36EYRVPVRDMSZ",
+      "title": "【#朝活 】+ #トモコレ💛神曜日のおはよう！ついに、にじフェスだね！外出の方は気をつけていってらっしゃいませ💕【ナセラ/にじさんじ🌸🌙】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/rFvS_tPyOMA/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-15T07:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=rFvS_tPyOMA",
+      "matched_keywords": [
+        "朝活"
       ]
     }
   ]
