@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-14T09:00:38.528681+09:00",
+  "updated_at": "2026-05-14T09:30:34.978823+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -267,11 +267,24 @@
       ]
     },
     {
+      "id": "01KRHXPEG1Y22FVRC38V7TJ43R",
+      "title": "【#メロちょまラジオ】ふぇすまえに【Meloco Kyoran　ルンルン/にじさんじ】",
+      "liver_name": "01GKJSEBF10DJYQSR86V8JGN2Q",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/dxtQ9uJSMBs/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-14T19:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=dxtQ9uJSMBs",
+      "matched_keywords": [
+        "ラジオ"
+      ]
+    },
+    {
       "id": "01KRHMHGGVS6TSZRYQBAVXQV9D",
       "title": "【朝活】おはすず5月14日（木）＃527【七瀬すず菜/にじさんじ】",
       "liver_name": "01J6CCJAK9N4AKCGFZ75P3W147",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/xxo0esCb2HA/maxresdefault_live.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/xxo0esCb2HA/maxresdefault.jpg",
       "status": "not_on_air",
       "start_time": "2026-05-14T07:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=xxo0esCb2HA",
