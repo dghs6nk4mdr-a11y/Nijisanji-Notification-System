@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-14T22:30:34.357900+09:00",
+  "updated_at": "2026-05-14T23:00:39.152875+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -449,6 +449,33 @@
       ]
     },
     {
+      "id": "01KRKCAXF7J462T3A4CZ5SRNN2",
+      "title": "朝活雑談｜にじフェス直前！フェスを学びながら朝の支度☀【にじさんじ / 五木左京】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/-HcCoJuVxg8/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-15T07:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=-HcCoJuVxg8",
+      "matched_keywords": [
+        "雑談",
+        "朝活"
+      ]
+    },
+    {
+      "id": "01KRKC1SBXD8XMQAYDGH5CM1B5",
+      "title": "【 朝活 】にじふぇす！！！！おまつり！！！！！！！！あさ！！！じゅんび！！！！【 にじさんじ / 城瀬いすみ / すぷれあ】",
+      "liver_name": "01K5BBDKSPBQHW595ESQWN8BBP",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/UAlmB7rukTQ/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-15T07:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=UAlmB7rukTQ",
+      "matched_keywords": [
+        "朝活"
+      ]
+    },
+    {
       "id": "01KRJPJNPBXZW36EYRVPVRDMSZ",
       "title": "【#朝活 】+ #トモコレ💛神曜日のおはよう！ついに、にじフェスだね！外出の方は気をつけていってらっしゃいませ💕【ナセラ/にじさんじ🌸🌙】",
       "liver_name": "",
@@ -459,6 +486,19 @@
       "url": "https://www.youtube.com/watch?v=rFvS_tPyOMA",
       "matched_keywords": [
         "朝活"
+      ]
+    },
+    {
+      "id": "01KRKCA7V2PHD090STET7FVTBW",
+      "title": "【深夜雑談】にじフェス前でどきりですね【にじさんじ/山神カルタ】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/c6JEcnMFtqw/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-15T00:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=c6JEcnMFtqw",
+      "matched_keywords": [
+        "雑談"
       ]
     }
   ]
