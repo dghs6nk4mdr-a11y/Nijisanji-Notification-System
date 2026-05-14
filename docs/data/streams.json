@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-14T19:30:26.458309+09:00",
+  "updated_at": "2026-05-14T20:00:40.709860+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -379,6 +379,19 @@
       "status": "not_on_air",
       "start_time": "2026-05-15T21:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=oa1v_8mzHGM",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
+      "id": "01KRFJQREWXV6QAFFH1SPGW81S",
+      "title": "【たこ焼き#７】不定期開催🐙たこ焼雑談！にじフェス楽しみだねって話をしよう【にじさんじ/梢桃音】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/dXmoq1UVwSc/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-15T12:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=dXmoq1UVwSc",
       "matched_keywords": [
         "雑談"
       ]
