@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-15T04:00:32.872724+09:00",
+  "updated_at": "2026-05-15T04:30:35.277723+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -210,6 +210,19 @@
       "status": "not_on_air",
       "start_time": "2026-05-15T12:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=J6DpcG_5CVA",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
+      "id": "01KRKYBM4NDDVK9WJ7KN9YAGA4",
+      "title": "【Chat | 雑談】 How Are You? 【NIJISANJI EN | Zeal Ginjoka】",
+      "liver_name": "01JP69YHDNBFW09ZMRDC9P2EBF",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/xdomqEooWUA/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-15T08:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=xdomqEooWUA",
       "matched_keywords": [
         "雑談"
       ]
