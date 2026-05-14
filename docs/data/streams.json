@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-15T00:00:43.967313+09:00",
+  "updated_at": "2026-05-15T00:30:28.173767+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -24,7 +24,7 @@
       "title": "【雑談】にじフェスたのしみだね🦋【 にじさんじ / ミラン・ケストレル】",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/J9HAS1QKTuI/maxresdefault_live.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/J9HAS1QKTuI/maxresdefault.jpg",
       "status": "not_on_air",
       "start_time": "2026-05-14T22:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=J9HAS1QKTuI",
@@ -286,7 +286,7 @@
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/c6JEcnMFtqw/maxresdefault_live.jpg",
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-05-15T00:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=c6JEcnMFtqw",
       "matched_keywords": [
