@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-14T21:30:25.649911+09:00",
+  "updated_at": "2026-05-14T22:00:41.498683+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -241,6 +241,32 @@
       ]
     },
     {
+      "id": "01KRK81F5F1DD5E8KQM6MWEAZK",
+      "title": "【雑談】フェスに行く前の雑談！！！！【北見遊征/にじさんじ】",
+      "liver_name": "01HRRYT59B8XFHS9FNDCT3NTX8",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/xpBg70qeGko/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-14T23:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=xpBg70qeGko",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
+      "id": "01KRK7R7H6QFD2WA1FV14WZTEF",
+      "title": "【雑談】にじフェスたのしみだね🦋【 にじさんじ / ミラン・ケストレル】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/J9HAS1QKTuI/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-14T22:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=J9HAS1QKTuI",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
       "id": "01KRK00PXR62VDF5NS31KTFA3Z",
       "title": "[雑談] RYUきた",
       "liver_name": "",
@@ -285,7 +311,7 @@
       "liver_name": "01J6CCJAKFW1BRQ4RMTBTCJRXP",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/udv16budXn8/maxresdefault_live.jpg",
-      "status": "on_air",
+      "status": "not_on_air",
       "start_time": "2026-05-14T20:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=udv16budXn8",
       "matched_keywords": [
@@ -297,7 +323,7 @@
       "title": "【#メロちょまラジオ】ふぇすまえに【Meloco Kyoran　ルンルン/にじさんじ】",
       "liver_name": "01GKJSEBF10DJYQSR86V8JGN2Q",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/dxtQ9uJSMBs/maxresdefault_live.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/dxtQ9uJSMBs/maxresdefault.jpg",
       "status": "not_on_air",
       "start_time": "2026-05-14T19:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=dxtQ9uJSMBs",
