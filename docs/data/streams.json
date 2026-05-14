@@ -1,245 +1,11 @@
 {
-  "updated_at": "2026-05-14T23:30:29.445235+09:00",
+  "updated_at": "2026-05-15T00:00:43.967313+09:00",
   "keywords": [
     "雑談",
     "朝活",
     "ラジオ"
   ],
   "streams": [
-    {
-      "id": "01KRGSMERNN4QVSRQK9KF8TVWD",
-      "title": "【雑談】もうそろにじフェス始まるぞ～！【にじさんじ／空星きらめ】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/SUbqidMkzMQ/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-05-13T22:46:24.000+09:00",
-      "url": "https://www.youtube.com/watch?v=SUbqidMkzMQ",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KRGG6NPB49HZJWFPFN3RXNPE",
-      "title": "【 雑談 】明後日ライブじゃんか！【 伊波ライ / にじさんじ 】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/E3rYhSGbN6s/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-05-13T22:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=E3rYhSGbN6s",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KRGCFKA8SAP33V57X4XD94MN",
-      "title": "【雑談】にじフェスあと少し!!✨当日のスケジュールやコスメ、スキンケア前日レシピ（予定）の話するぞー！【倉持めると/にじさんじ】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/bVGWrUD1HwE/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-05-13T22:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=bVGWrUD1HwE",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KRFYQGT6CFVR4WQPV4196PFF",
-      "title": "꒰雑談꒱　フェス前ですなぁ～！みんな調子はいかが～？　˹ 本間ひまわり にじさんじ ˼",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/eKVf0ISbjkk/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-05-13T22:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=eKVf0ISbjkk",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KRGJ6XW11FK98JPK6K2QQ7S2",
-      "title": "【雑談】にじフェス参加表明一緒に書こう🎶楽しみな気持ちをしゃべる【七瀬すず菜/にじさんじ】",
-      "liver_name": "01J6CCJAK9N4AKCGFZ75P3W147",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/J6bpocjQqfw/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-05-13T21:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=J6bpocjQqfw",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KRGGRCC8VJXK91C6N54ZCGA5",
-      "title": "【🗣️雑談】雑談TIME☆FEVER【にじさんじ/轟京子】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/2ts5pvF_9-8/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-05-13T21:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=2ts5pvF_9-8",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KRFSJNSJDWPH0XPFNBKTW0SN",
-      "title": "【雑談】今週末にじフェスってマジ？みんな顔登録した？【にじさんじ/ドーラ】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/FEt8SvMeHOQ/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-05-13T21:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=FEt8SvMeHOQ",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KRFVK83J5163Y158XE5D0FXK",
-      "title": "ZATSU 雑談 🐧💬┆ライブ前の！最後のお話し！！！let's chat one last time before the concert...!!!!",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/Qve8zFRqadI/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-05-13T20:15:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=Qve8zFRqadI",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KRGE66SAN5RKA1AYTRGQE4CB",
-      "title": "【雑談】フェス前ラスト雑談【長尾景/にじさんじ】【#ながおしゃべり】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/YQVnOuXwNk8/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-05-13T20:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=YQVnOuXwNk8",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KREB8FG0VHRQEYYAWE6W0ZKH",
-      "title": "【雑談】未知の領域へ【早乙女ベリー/にじさんじ】",
-      "liver_name": "01J6CCJAK9N4AKCGFZ75P3W147",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/uOsAwEw38I0/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-05-13T20:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=uOsAwEw38I0",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KRG5XAJNWCCZ3JJH9G53PR4B",
-      "title": "【作業雑談】にじフェス前進行の全てを終わらせる～05/13早帰り水曜日～【 にじさんじ / 五木左京 】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/VwVWhYAmFNU/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-05-13T19:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=VwVWhYAmFNU",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KRFW52W40N14C6AV950TY2SA",
-      "title": "どこにでもいる学生による雑談（但し、にじさんじであるというその一点を除いては…な）",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/C31se7vvBdE/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-05-13T14:30:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=C31se7vvBdE",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KREDHM4PM2TYQ7FC2S850KQV",
-      "title": "【雑談】でび先輩とさくぽふんを食べます！！！！！！【でびでび・でびる　ルンルン/にじさんじ】",
-      "liver_name": "01G8WAJR83V3K7EE83HZECSGDB",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/uz3vGPvXhYU/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-05-13T12:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=uz3vGPvXhYU",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KREJ46D0PPNTDW1P1M5VMSJ0",
-      "title": "〖ぽこ あ ポケモン〗#6 まったり朝活☀キラキラうきしまの街を進めていくよ～！！〖猫屋敷美紅 / にじさんじ〗",
-      "liver_name": "01K2KXFY4WTXD0E42NN67KG73Q",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/u94_KD_149s/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-05-13T08:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=u94_KD_149s",
-      "matched_keywords": [
-        "朝活"
-      ]
-    },
-    {
-      "id": "01KREAP601S6TMMFDX4MBVQ39P",
-      "title": "【朝活】おはすず5月13日（水）＃526【七瀬すず菜/にじさんじ】",
-      "liver_name": "01J6CCJAK9N4AKCGFZ75P3W147",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/HOyJFDGiFvE/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-05-13T07:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=HOyJFDGiFvE",
-      "matched_keywords": [
-        "朝活"
-      ]
-    },
-    {
-      "id": "01KRDWC3S5ZZF3J35WAV5TRHFM",
-      "title": "【#朝活 】+ #トモコレ💛水曜日のおはよう！週末まで半分だよがんば！気をつけていってらっしゃいませ💕【ナセラ/にじさんじ🌸🌙】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/_uu_bGQK8s8/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-05-13T07:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=_uu_bGQK8s8",
-      "matched_keywords": [
-        "朝活"
-      ]
-    },
-    {
-      "id": "01KRE8ZB661X5CNR85GYG4FAHZ",
-      "title": "【 雑談 / 縦型 】朝のまったり時間。一緒にすごそうぜ～【 皇れお / にじさんじ 】",
-      "liver_name": "01K5BBDKSPBQHW595ESQWN8BBP",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/ZQEkqfiFN3M/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-05-13T06:30:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=ZQEkqfiFN3M",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KRBZECT36G74ZWFTCDJ673P8",
-      "title": "〖深夜ラジオ〗2026年5月13日(水)のにゃルラジ🌙〖猫屋敷美紅 / にじさんじ〗",
-      "liver_name": "01K2KXFY4WTXD0E42NN67KG73Q",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/XOBpOuTzsCA/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-05-13T00:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=XOBpOuTzsCA",
-      "matched_keywords": [
-        "ラジオ"
-      ]
-    },
     {
       "id": "01KRK81F5F1DD5E8KQM6MWEAZK",
       "title": "【雑談】フェスに行く前の雑談！！！！【北見遊征/にじさんじ】",
@@ -259,7 +25,7 @@
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/J9HAS1QKTuI/maxresdefault_live.jpg",
-      "status": "on_air",
+      "status": "not_on_air",
       "start_time": "2026-05-14T22:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=J9HAS1QKTuI",
       "matched_keywords": [
@@ -272,7 +38,7 @@
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/R17OFRSEQMI/maxresdefault_live.jpg",
-      "status": "on_air",
+      "status": "not_on_air",
       "start_time": "2026-05-14T22:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=R17OFRSEQMI",
       "matched_keywords": [
@@ -310,7 +76,7 @@
       "title": "【 雑談 】にじフェス＆明日から少しの間配信をお休みするお話していきます！【にじさんじ / 珠乃井ナナ】",
       "liver_name": "01J6CCJAKFW1BRQ4RMTBTCJRXP",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/udv16budXn8/maxresdefault_live.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/udv16budXn8/maxresdefault.jpg",
       "status": "not_on_air",
       "start_time": "2026-05-14T20:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=udv16budXn8",
@@ -525,6 +291,19 @@
       "url": "https://www.youtube.com/watch?v=c6JEcnMFtqw",
       "matched_keywords": [
         "雑談"
+      ]
+    },
+    {
+      "id": "01KPCRP7QPV3W3HXWY4AWVCHTZ",
+      "title": "ラジオブース Day1公式放送【#にじフェス2026_Day1】",
+      "liver_name": "01G8WAJR80BYHYWVQJNCBWG4SK",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/jGYR0hqxbDk/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-16T10:15:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=jGYR0hqxbDk",
+      "matched_keywords": [
+        "ラジオ"
       ]
     }
   ]
