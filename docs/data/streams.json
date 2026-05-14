@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-15T07:00:31.883885+09:00",
+  "updated_at": "2026-05-15T07:30:26.445992+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -242,12 +242,25 @@
       ]
     },
     {
+      "id": "01KRM9GC58W51C02Y060GR92QG",
+      "title": "フェス前雑談あさのろめ。ラブバッグみたりとか❣【ですわ～】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/W0M0tiQO3KA/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-15T07:45:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=W0M0tiQO3KA",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
       "id": "01KRKVG67T2S3CZZB2BN8T38E4",
       "title": "【 朝活 】にじフェスの情報を一緒に確認しながら、参加表明するのみ～【 篠宮ゆの / すぷれあ / にじさんじ 】",
       "liver_name": "01K5BBDKSPBQHW595ESQWN8BBP",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/bmgw5R8K0A8/maxresdefault_live.jpg",
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-05-15T07:15:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=bmgw5R8K0A8",
       "matched_keywords": [
@@ -260,7 +273,7 @@
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/RMJ4UFvRlh8/maxresdefault_live.jpg",
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-05-15T07:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=RMJ4UFvRlh8",
       "matched_keywords": [
@@ -273,7 +286,7 @@
       "liver_name": "01J6CCJAK9N4AKCGFZ75P3W147",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/F6DS9LhpXzQ/maxresdefault_live.jpg",
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-05-15T07:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=F6DS9LhpXzQ",
       "matched_keywords": [
@@ -313,7 +326,7 @@
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/rFvS_tPyOMA/maxresdefault_live.jpg",
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-05-15T07:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=rFvS_tPyOMA",
       "matched_keywords": [
