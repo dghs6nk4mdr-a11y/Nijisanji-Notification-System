@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-15T01:30:30.266861+09:00",
+  "updated_at": "2026-05-15T02:00:41.084441+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -11,8 +11,8 @@
       "title": "【雑談】フェスに行く前の雑談！！！！【北見遊征/にじさんじ】",
       "liver_name": "01HRRYT59B8XFHS9FNDCT3NTX8",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/xpBg70qeGko/maxresdefault_live.jpg",
-      "status": "on_air",
+      "thumbnail": "https://i.ytimg.com/vi/xpBg70qeGko/maxresdefault.jpg",
+      "status": "not_on_air",
       "start_time": "2026-05-14T23:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=xpBg70qeGko",
       "matched_keywords": [
@@ -300,7 +300,7 @@
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/c6JEcnMFtqw/maxresdefault_live.jpg",
-      "status": "on_air",
+      "status": "not_on_air",
       "start_time": "2026-05-15T00:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=c6JEcnMFtqw",
       "matched_keywords": [
