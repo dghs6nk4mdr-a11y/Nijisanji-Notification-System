@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-15T18:30:28.227300+09:00",
+  "updated_at": "2026-05-15T19:00:34.461723+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -197,6 +197,19 @@
       "status": "not_on_air",
       "start_time": "2026-05-15T21:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=oa1v_8mzHGM",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
+      "id": "01KRNGPNTBD7YG75DAZBF84T53",
+      "title": "【雑談】みんな準備できてる？【セラフ・ダズルガーデン/にじさんじ】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/bJBMeqgPqaE/maxresdefault_live.jpg",
+      "status": "on_air",
+      "start_time": "2026-05-15T18:50:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=bJBMeqgPqaE",
       "matched_keywords": [
         "雑談"
       ]
