@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-15T14:30:27.267803+09:00",
+  "updated_at": "2026-05-15T15:00:33.642074+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -176,6 +176,19 @@
       ]
     },
     {
+      "id": "01KRN2ZBYKQX9T03DYE5ZMGQ7Q",
+      "title": "【雑談】twas the night before nijiFES",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": null,
+      "status": "not_on_air",
+      "start_time": "2026-05-15T21:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=T2f5tppRrrg",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
       "id": "01KRJ6VJ74F0SRN1XWYAEX1N9Q",
       "title": "製麺雑談ロケ旅編！！番外編：新横浜ラーメン博物館「スゴメンラボ」で作ったカップ麺を実食！！🍜【  にじさんじ / 一橋綾人 / 五木左京 】 #えりぶりもう1周年",
       "liver_name": "",
@@ -189,12 +202,25 @@
       ]
     },
     {
+      "id": "01KRN38BPH40EHAMMEVB6W2BGD",
+      "title": "【雑談】 にじフェス行くぞ前ちょい雑【にじさんじ/風楽奏斗】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/6-VYqDBiBDk/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-15T17:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=6-VYqDBiBDk",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
       "id": "01KRN1HVRXMW30GQ4Z46BYQWEN",
       "title": "【 敗北の雑談 】オーディオインターフェースに負けた【水面まどか / にじさんじ】",
       "liver_name": "01KG4FVDPQ5XJKP79RVD4SVM6R",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/yp2SMSdmzHk/maxresdefault_live.jpg",
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-05-15T14:30:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=yp2SMSdmzHk",
       "matched_keywords": [
@@ -233,7 +259,7 @@
       "liver_name": "01J6CCJAKFW1BRQ4RMTBTCJRXP",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/J6DpcG_5CVA/maxresdefault_live.jpg",
-      "status": "on_air",
+      "status": "not_on_air",
       "start_time": "2026-05-15T12:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=J6DpcG_5CVA",
       "matched_keywords": [
