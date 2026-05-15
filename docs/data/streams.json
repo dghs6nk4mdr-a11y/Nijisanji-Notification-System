@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-15T13:00:32.820473+09:00",
+  "updated_at": "2026-05-15T13:30:26.072102+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -232,7 +232,7 @@
       "title": "【雑談】価値観の難しさたるや【北小路ヒスイ/にじさんじ】",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/gnqtNk0Z84Q/maxresdefault_live.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/gnqtNk0Z84Q/maxresdefault.jpg",
       "status": "not_on_air",
       "start_time": "2026-05-15T11:35:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=gnqtNk0Z84Q",
@@ -365,7 +365,7 @@
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/rFvS_tPyOMA/maxresdefault_live.jpg",
-      "status": "on_air",
+      "status": "not_on_air",
       "start_time": "2026-05-15T07:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=rFvS_tPyOMA",
       "matched_keywords": [
