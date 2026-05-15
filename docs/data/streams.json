@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-15T11:30:25.485420+09:00",
+  "updated_at": "2026-05-15T12:01:36.816739+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -207,7 +207,7 @@
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/dXmoq1UVwSc/maxresdefault_live.jpg",
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-05-15T12:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=dXmoq1UVwSc",
       "matched_keywords": [
@@ -220,9 +220,22 @@
       "liver_name": "01J6CCJAKFW1BRQ4RMTBTCJRXP",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/J6DpcG_5CVA/maxresdefault_live.jpg",
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-05-15T12:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=J6DpcG_5CVA",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
+      "id": "01KRMQSXNKQYENF5HHMRB1GTF1",
+      "title": "【雑談】価値観の難しさたるや【北小路ヒスイ/にじさんじ】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/gnqtNk0Z84Q/maxresdefault_live.jpg",
+      "status": "on_air",
+      "start_time": "2026-05-15T11:35:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=gnqtNk0Z84Q",
       "matched_keywords": [
         "雑談"
       ]
@@ -233,7 +246,7 @@
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/84n04JHMD9o/maxresdefault_live.jpg",
-      "status": "on_air",
+      "status": "not_on_air",
       "start_time": "2026-05-15T10:30:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=84n04JHMD9o",
       "matched_keywords": [
