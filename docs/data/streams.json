@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-15T14:00:31.555468+09:00",
+  "updated_at": "2026-05-15T14:30:27.267803+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -189,11 +189,24 @@
       ]
     },
     {
+      "id": "01KRN1HVRXMW30GQ4Z46BYQWEN",
+      "title": "【 敗北の雑談 】オーディオインターフェースに負けた【水面まどか / にじさんじ】",
+      "liver_name": "01KG4FVDPQ5XJKP79RVD4SVM6R",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/yp2SMSdmzHk/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-15T14:30:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=yp2SMSdmzHk",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
       "id": "01KRMJ2JT7YQHGKKMVBPX5WV0R",
       "title": "【雑談/talk】昼活成功の世界線、ダウナーな鷹宮とチルい曲(Chill MIX)【にじさんじ/鷹宮リオン】",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/kxERKxVllR0/maxresdefault_live.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/kxERKxVllR0/maxresdefault.jpg",
       "status": "not_on_air",
       "start_time": "2026-05-15T12:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=kxERKxVllR0",
@@ -206,7 +219,7 @@
       "title": "【たこ焼き#７】不定期開催🐙たこ焼雑談！にじフェス楽しみだねって話をしよう【にじさんじ/梢桃音】",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/dXmoq1UVwSc/maxresdefault_live.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/dXmoq1UVwSc/maxresdefault.jpg",
       "status": "not_on_air",
       "start_time": "2026-05-15T12:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=dXmoq1UVwSc",
