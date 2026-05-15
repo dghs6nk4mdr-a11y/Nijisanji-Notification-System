@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-15T09:30:33.890005+09:00",
+  "updated_at": "2026-05-15T10:00:29.974532+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -189,6 +189,19 @@
       ]
     },
     {
+      "id": "01KRMJ2JT7YQHGKKMVBPX5WV0R",
+      "title": "【雑談/talk】昼活成功の世界線、ダウナーな鷹宮とチルい曲(Chill MIX)【にじさんじ/鷹宮リオン】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/kxERKxVllR0/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-15T12:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=kxERKxVllR0",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
       "id": "01KRFJQREWXV6QAFFH1SPGW81S",
       "title": "【たこ焼き#７】不定期開催🐙たこ焼雑談！にじフェス楽しみだねって話をしよう【にじさんじ/梢桃音】",
       "liver_name": "",
@@ -215,12 +228,25 @@
       ]
     },
     {
+      "id": "01KRMJ2X5GX957T3C898RVWQS8",
+      "title": "【 雑談 】にじフェスですね【にじさんじ | セフィナ】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/84n04JHMD9o/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-15T10:30:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=84n04JHMD9o",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
       "id": "01KRKYBM4NDDVK9WJ7KN9YAGA4",
       "title": "【Chat | 雑談】 How Are You? 【NIJISANJI EN | Zeal Ginjoka】",
       "liver_name": "01JP69YHDNBFW09ZMRDC9P2EBF",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/xdomqEooWUA/maxresdefault_live.jpg",
-      "status": "on_air",
+      "thumbnail": "https://i.ytimg.com/vi/xdomqEooWUA/maxresdefault.jpg",
+      "status": "not_on_air",
       "start_time": "2026-05-15T08:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=xdomqEooWUA",
       "matched_keywords": [
@@ -246,8 +272,8 @@
       "title": "フェス前雑談あさのろめ。ラブバッグみたりとか❣【ですわ～】",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/W0M0tiQO3KA/maxresdefault_live.jpg",
-      "status": "on_air",
+      "thumbnail": "https://i.ytimg.com/vi/W0M0tiQO3KA/maxresdefault.jpg",
+      "status": "not_on_air",
       "start_time": "2026-05-15T07:45:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=W0M0tiQO3KA",
       "matched_keywords": [
@@ -272,7 +298,7 @@
       "title": "【朝活】にじフェスへの気持ちの準備をする朝【立伝都々 / にじさんじ】",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/RMJ4UFvRlh8/maxresdefault_live.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/RMJ4UFvRlh8/maxresdefault.jpg",
       "status": "not_on_air",
       "start_time": "2026-05-15T07:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=RMJ4UFvRlh8",
