@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-15T19:30:25.371109+09:00",
+  "updated_at": "2026-05-15T20:00:33.538570+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -176,6 +176,19 @@
       ]
     },
     {
+      "id": "01KRNK8JVQZ27YXB7R0YE1RJJQ",
+      "title": "【🗣️作業雑談】にじフェスに向けて荷造りするよ雑談【にじさんじ/轟京子】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/1WuT9hVwFFk/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-15T22:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=1WuT9hVwFFk",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
       "id": "01KRN2ZBYKQX9T03DYE5ZMGQ7Q",
       "title": "【雑談】twas the night before nijiFES",
       "liver_name": "",
@@ -206,7 +219,7 @@
       "title": "【雑談】みんな準備できてる？【セラフ・ダズルガーデン/にじさんじ】",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/bJBMeqgPqaE/maxresdefault_live.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/bJBMeqgPqaE/maxresdefault.jpg",
       "status": "not_on_air",
       "start_time": "2026-05-15T18:50:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=bJBMeqgPqaE",
