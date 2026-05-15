@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-15T10:00:29.974532+09:00",
+  "updated_at": "2026-05-15T10:30:27.590669+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -233,7 +233,7 @@
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/84n04JHMD9o/maxresdefault_live.jpg",
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-05-15T10:30:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=84n04JHMD9o",
       "matched_keywords": [
@@ -258,8 +258,8 @@
       "title": "𓊆 朝活雑談 𓊇 にじフェスたのしむ準備できてる～～？？ 𓊆 雲母たまこ/にじさんじ 𓊇",
       "liver_name": "01J6CCJAK9N4AKCGFZ75P3W147",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/g5oR6TtsYA4/maxresdefault_live.jpg",
-      "status": "on_air",
+      "thumbnail": "https://i.ytimg.com/vi/g5oR6TtsYA4/maxresdefault.jpg",
+      "status": "not_on_air",
       "start_time": "2026-05-15T08:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=g5oR6TtsYA4",
       "matched_keywords": [
@@ -324,8 +324,8 @@
       "title": "朝活雑談｜にじフェスを学びながら朝の支度☀【にじさんじ / 五木左京】",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/-HcCoJuVxg8/maxresdefault_live.jpg",
-      "status": "on_air",
+      "thumbnail": "https://i.ytimg.com/vi/-HcCoJuVxg8/maxresdefault.jpg",
+      "status": "not_on_air",
       "start_time": "2026-05-15T07:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=-HcCoJuVxg8",
       "matched_keywords": [
