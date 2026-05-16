@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-16T22:30:27.709929+09:00",
+  "updated_at": "2026-05-16T23:00:28.295539+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -334,6 +334,19 @@
       ]
     },
     {
+      "id": "01KRRH406WW84SCXYBGV6JHE2V",
+      "title": "【朝雑談】にじフェス待機中のみなさ～ん！ちょっと暇潰しませ～ん？【四季凪アキラ/にじさんじ】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/BXDQlz1h2y0/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-17T09:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=BXDQlz1h2y0",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
       "id": "01KRR889015CKF7PKNX8HG9Z59",
       "title": "【朝活雑談】ここを視聴覚室とする！！【ニチアサ！緋八マン！】【にじさんじ/緋八マナ】",
       "liver_name": "",
@@ -345,6 +358,19 @@
       "matched_keywords": [
         "雑談",
         "朝活"
+      ]
+    },
+    {
+      "id": "01KRRGTF1N28KXF3Y8EP1WBBWH",
+      "title": "【 雑談 】みんなのにじフェス速報教えて【にじさんじ / 葉加瀬冬雪】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/IgOCwSjpoOI/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-17T00:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=IgOCwSjpoOI",
+      "matched_keywords": [
+        "雑談"
       ]
     }
   ]
