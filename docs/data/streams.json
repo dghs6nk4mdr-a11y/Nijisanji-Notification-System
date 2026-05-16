@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-16T14:30:26.276317+09:00",
+  "updated_at": "2026-05-16T15:00:35.200206+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -277,6 +277,19 @@
       "status": "not_on_air",
       "start_time": "2026-05-15T00:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=c6JEcnMFtqw",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
+      "id": "01KRQNXJ6TQEN84VV7X49XN27Q",
+      "title": "モイラの雑談配信【20260516】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/JWgB7P12G84/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-16T14:55:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=JWgB7P12G84",
       "matched_keywords": [
         "雑談"
       ]
