@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-17T06:30:26.781174+09:00",
+  "updated_at": "2026-05-17T07:00:27.920610+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -67,6 +67,19 @@
       "status": "not_on_air",
       "start_time": "2026-05-17T09:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=BXDQlz1h2y0",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
+      "id": "01KRSCJEJSQT6271369MRX605H",
+      "title": "【本来は何時から並ぶんですか？】雑談【戌亥とこ/にじさんじ】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/6XfCfj7mWPo/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-17T07:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=6XfCfj7mWPo",
       "matched_keywords": [
         "雑談"
       ]
