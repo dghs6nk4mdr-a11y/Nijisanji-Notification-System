@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-17T10:00:27.028585+09:00",
+  "updated_at": "2026-05-17T10:30:26.217226+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -51,7 +51,7 @@
       "liver_name": "01G8WAJR7BK51ZRM9MMG2QBQEH",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/WtASoXA8lbM/maxresdefault_live.jpg",
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-05-17T10:15:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=WtASoXA8lbM",
       "matched_keywords": [
@@ -63,8 +63,8 @@
       "title": "【朝雑談】にじフェス待機中のみなさ～ん！ちょっと暇潰しませ～ん？【四季凪アキラ/にじさんじ】",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/BXDQlz1h2y0/maxresdefault_live.jpg",
-      "status": "on_air",
+      "thumbnail": "https://i.ytimg.com/vi/BXDQlz1h2y0/maxresdefault.jpg",
+      "status": "not_on_air",
       "start_time": "2026-05-17T09:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=BXDQlz1h2y0",
       "matched_keywords": [
@@ -89,8 +89,8 @@
       "title": "【朝活雑談】ここを視聴覚室とする！！【ニチアサ！緋八マン！】【にじさんじ/緋八マナ】",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/EF9694ocO7M/maxresdefault_live.jpg",
-      "status": "on_air",
+      "thumbnail": "https://i.ytimg.com/vi/EF9694ocO7M/maxresdefault.jpg",
+      "status": "not_on_air",
       "start_time": "2026-05-17T07:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=EF9694ocO7M",
       "matched_keywords": [
