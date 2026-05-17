@@ -1,50 +1,11 @@
 {
-  "updated_at": "2026-05-17T23:30:23.753482+09:00",
+  "updated_at": "2026-05-18T00:00:28.354888+09:00",
   "keywords": [
     "雑談",
     "朝活",
     "ラジオ"
   ],
   "streams": [
-    {
-      "id": "01KRQNXJ6TQEN84VV7X49XN27Q",
-      "title": "モイラの雑談配信【20260516】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/JWgB7P12G84/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-05-16T14:55:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=JWgB7P12G84",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KPCRP7QPV3W3HXWY4AWVCHTZ",
-      "title": "ラジオブース Day1公式放送【#にじフェス2026_Day1】",
-      "liver_name": "01GHE21YHHT7MGCSEMXAN4GVHG",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/jGYR0hqxbDk/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-05-16T10:15:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=jGYR0hqxbDk",
-      "matched_keywords": [
-        "ラジオ"
-      ]
-    },
-    {
-      "id": "01KRMVHG2ZVSC888VDHX95AGTG",
-      "title": "【 雑談 】急げパッキング ！にじフェスは待ってくれない【七瀬すず菜/にじさんじ】",
-      "liver_name": "01J6CCJAK9N4AKCGFZ75P3W147",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/NBNCi5zebPg/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-05-16T07:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=NBNCi5zebPg",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
     {
       "id": "01KRV42AXXR5J1VS4FWCZN050R",
       "title": "にじフェスお疲れさまでした～！  | 雑談 【にじさんじ/叶】",
@@ -141,8 +102,8 @@
       "title": "雑談│ただいま！にじフェス2026最高だったありがとう！！🌈【綺沙良/にじさんじ】",
       "liver_name": "01J6CCJAKFW1BRQ4RMTBTCJRXP",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/Vo8Pr5wGfJ8/maxresdefault_live.jpg",
-      "status": "on_air",
+      "thumbnail": "https://i.ytimg.com/vi/Vo8Pr5wGfJ8/maxresdefault.jpg",
+      "status": "not_on_air",
       "start_time": "2026-05-17T21:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=Vo8Pr5wGfJ8",
       "matched_keywords": [
@@ -154,7 +115,7 @@
       "title": "【夜ご飯雑談】あたたかくなってきたので、辛いカレーを食べます🤍【白砂あやね / にじさんじ】",
       "liver_name": "01KG4FVDPNJXY4TA6Z4B365S5V",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/K1SlI3_WZ2o/maxresdefault_live.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/K1SlI3_WZ2o/maxresdefault.jpg",
       "status": "not_on_air",
       "start_time": "2026-05-17T21:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=K1SlI3_WZ2o",
