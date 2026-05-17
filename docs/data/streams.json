@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-17T20:30:23.907050+09:00",
+  "updated_at": "2026-05-17T20:45:06.818667+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -54,6 +54,19 @@
       "status": "not_on_air",
       "start_time": "2026-05-17T22:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=uenYmLqxhxw",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
+      "id": "01KRTVSSPQ1FR3R7TMSN90ZGW5",
+      "title": "雑談│ただいま！にじフェス2026最高だったありがとう！！🌈【綺沙良/にじさんじ】",
+      "liver_name": "01J6CCJAKFW1BRQ4RMTBTCJRXP",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/Vo8Pr5wGfJ8/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-17T21:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=Vo8Pr5wGfJ8",
       "matched_keywords": [
         "雑談"
       ]
