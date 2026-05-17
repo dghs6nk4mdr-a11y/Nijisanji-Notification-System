@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-17T22:30:25.006276+09:00",
+  "updated_at": "2026-05-17T23:00:30.379601+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -41,6 +41,19 @@
       "status": "not_on_air",
       "start_time": "2026-05-16T07:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=NBNCi5zebPg",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
+      "id": "01KRV2NBCNKWYTCXMWR7VJSGK5",
+      "title": "【 雑談 】にじフェス2026ありがとう【 伊波ライ / にじさんじ 】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/ey0TPmPop40/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-17T23:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=ey0TPmPop40",
       "matched_keywords": [
         "雑談"
       ]
@@ -90,7 +103,7 @@
       "liver_name": "01K5BBDKSPBQHW595ESQWN8BBP",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/fAXwcdlsK4g/maxresdefault_live.jpg",
-      "status": "on_air",
+      "status": "not_on_air",
       "start_time": "2026-05-17T21:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=fAXwcdlsK4g",
       "matched_keywords": [
@@ -155,7 +168,7 @@
       "liver_name": "01KG4FVDPQ5XJKP79RVD4SVM6R",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/ns7gbWuxZA0/maxresdefault_live.jpg",
-      "status": "on_air",
+      "status": "not_on_air",
       "start_time": "2026-05-17T20:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=ns7gbWuxZA0",
       "matched_keywords": [
