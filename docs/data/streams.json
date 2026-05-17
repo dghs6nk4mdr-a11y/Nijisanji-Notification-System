@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-18T06:30:26.130943+09:00",
+  "updated_at": "2026-05-18T07:00:30.181814+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -239,6 +239,33 @@
       "url": "https://www.youtube.com/watch?v=IgOCwSjpoOI",
       "matched_keywords": [
         "雑談"
+      ]
+    },
+    {
+      "id": "01KRVYPNK3KDAJ4D07AHGF9MGA",
+      "title": "【朝活】おはすず5月18日（月）＃529【七瀬すず菜/にじさんじ】",
+      "liver_name": "01J6CCJAK9N4AKCGFZ75P3W147",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/zYzm-flruk8/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-18T07:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=zYzm-flruk8",
+      "matched_keywords": [
+        "朝活"
+      ]
+    },
+    {
+      "id": "01KRVYPF9EP2X26YDECGWNBFEH",
+      "title": "【 朝活雑談 】にじフェス楽しかったね～！！【ソフィア・ヴァレンタイン / にじさんじ】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/vvvPR9Zp-uk/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-18T07:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=vvvPR9Zp-uk",
+      "matched_keywords": [
+        "雑談",
+        "朝活"
       ]
     },
     {
