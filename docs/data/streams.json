@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-17T19:00:31.362653+09:00",
+  "updated_at": "2026-05-17T19:30:27.922572+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -22,7 +22,7 @@
     {
       "id": "01KPCRP7QPV3W3HXWY4AWVCHTZ",
       "title": "ラジオブース Day1公式放送【#にじフェス2026_Day1】",
-      "liver_name": "01G8WAJR80BYHYWVQJNCBWG4SK",
+      "liver_name": "01GHE21YHHT7MGCSEMXAN4GVHG",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/jGYR0hqxbDk/maxresdefault.jpg",
       "status": "not_on_air",
@@ -59,6 +59,19 @@
       ]
     },
     {
+      "id": "01KRTPY92PET0BS412QRJ3NXN7",
+      "title": "【夜ご飯雑談】あたたかくなってきたので、辛いカレーを食べます🤍【白砂あやね / にじさんじ】",
+      "liver_name": "01KG4FVDPNJXY4TA6Z4B365S5V",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/K1SlI3_WZ2o/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-17T21:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=K1SlI3_WZ2o",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
       "id": "01KRTABCRYSZWHTD5MZZJA2KSY",
       "title": "【 雑談 】その、最近どうなんだ...にじフェス？の方とは【水面まどか / にじさんじ】",
       "liver_name": "01KG4FVDPQ5XJKP79RVD4SVM6R",
@@ -72,12 +85,25 @@
       ]
     },
     {
+      "id": "01KRTP2MPM69DGTX1KKDB25VDX",
+      "title": "【雑談】にじフェスお疲れさまでした！楽しかった思い出をふりかえろう【七瀬すず菜/にじさんじ】",
+      "liver_name": "01J6CCJAK9N4AKCGFZ75P3W147",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/CEB8YWwwoP0/maxresdefault_live.jpg",
+      "status": "on_air",
+      "start_time": "2026-05-17T19:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=CEB8YWwwoP0",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
       "id": "01KRTMBNQRNNTXX83YAA60Y0XS",
       "title": "【雑談】上手く言葉にできない感情【渚トラウト/にじさんじ】",
       "liver_name": "01J6CCJAK9N4AKCGFZ75P3W147",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/_psRpjGRWYc/maxresdefault_live.jpg",
-      "status": "on_air",
+      "thumbnail": "https://i.ytimg.com/vi/_psRpjGRWYc/maxresdefault.jpg",
+      "status": "not_on_air",
       "start_time": "2026-05-17T18:35:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=_psRpjGRWYc",
       "matched_keywords": [
@@ -87,7 +113,7 @@
     {
       "id": "01KPCTD8CF11SPGMATDPPK9N2C",
       "title": "ラジオブース Day2公式放送【#にじフェス2026_Day2】",
-      "liver_name": "01G8WAJR7BK51ZRM9MMG2QBQEH",
+      "liver_name": "01GHE21YHHT7MGCSEMXAN4GVHG",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/WtASoXA8lbM/maxresdefault.jpg",
       "status": "not_on_air",
