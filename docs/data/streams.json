@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-17T21:30:26.985298+09:00",
+  "updated_at": "2026-05-17T22:00:29.017229+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -41,6 +41,19 @@
       "status": "not_on_air",
       "start_time": "2026-05-16T07:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=NBNCi5zebPg",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
+      "id": "01KRV02A6Z07A3HPSEAXBW5K4R",
+      "title": "【雑談】にじフェス2026の（というかほぼライブの）感想を無軌道に言う配信【にじさんじ/社築】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/KaJ9htNGcng/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-17T23:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=KaJ9htNGcng",
       "matched_keywords": [
         "雑談"
       ]
@@ -154,8 +167,8 @@
       "title": "【雑談】にじフェスお疲れさまでした！楽しかった思い出をふりかえろう【七瀬すず菜/にじさんじ】",
       "liver_name": "01J6CCJAK9N4AKCGFZ75P3W147",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/CEB8YWwwoP0/maxresdefault_live.jpg",
-      "status": "on_air",
+      "thumbnail": "https://i.ytimg.com/vi/CEB8YWwwoP0/maxresdefault.jpg",
+      "status": "not_on_air",
       "start_time": "2026-05-17T19:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=CEB8YWwwoP0",
       "matched_keywords": [
