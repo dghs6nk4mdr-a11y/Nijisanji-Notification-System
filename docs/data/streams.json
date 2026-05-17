@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-18T02:00:29.338081+09:00",
+  "updated_at": "2026-05-18T02:30:26.759572+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -50,8 +50,8 @@
       "title": "【振り返り雑談】Uncharted Spheres ありがとうございました！！！【早乙女ベリー/にじさんじ】",
       "liver_name": "01J6CCJAK9N4AKCGFZ75P3W147",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/uenYmLqxhxw/maxresdefault_live.jpg",
-      "status": "on_air",
+      "thumbnail": "https://i.ytimg.com/vi/uenYmLqxhxw/maxresdefault.jpg",
+      "status": "not_on_air",
       "start_time": "2026-05-17T22:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=uenYmLqxhxw",
       "matched_keywords": [
@@ -273,9 +273,22 @@
       "liver_name": "01K2KXFY4WTXD0E42NN67KG73Q",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/vo_zc5SWmyw/maxresdefault_live.jpg",
-      "status": "on_air",
+      "status": "not_on_air",
       "start_time": "2026-05-18T00:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=vo_zc5SWmyw",
+      "matched_keywords": [
+        "ラジオ"
+      ]
+    },
+    {
+      "id": "01KRTZGT4S6DJ7XTZX2V0NJFN3",
+      "title": "〖深夜ラジオ〗2026年5月19日(火)のにゃルラジ🌙〖猫屋敷美紅 / にじさんじ〗",
+      "liver_name": "01K2KXFY4WTXD0E42NN67KG73Q",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/fk7ePrm_j2s/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-19T00:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=fk7ePrm_j2s",
       "matched_keywords": [
         "ラジオ"
       ]
