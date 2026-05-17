@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-17T15:30:32.184407+09:00",
+  "updated_at": "2026-05-17T16:00:28.511081+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -41,6 +41,19 @@
       "status": "not_on_air",
       "start_time": "2026-05-16T07:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=NBNCi5zebPg",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
+      "id": "01KRTABCRYSZWHTD5MZZJA2KSY",
+      "title": "【 雑談 】その、最近どうなんだ...にじフェス？の方とは【水面まどか / にじさんじ】",
+      "liver_name": "01KG4FVDPQ5XJKP79RVD4SVM6R",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/ns7gbWuxZA0/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-17T20:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=ns7gbWuxZA0",
       "matched_keywords": [
         "雑談"
       ]
