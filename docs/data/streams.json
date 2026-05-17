@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-18T00:00:28.354888+09:00",
+  "updated_at": "2026-05-18T00:30:26.085811+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -76,7 +76,7 @@
       "title": "【 雑談 】にじフェス2026から帰ってきたぞー！！！【 皇れお / にじさんじ 】",
       "liver_name": "01K5BBDKSPBQHW595ESQWN8BBP",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/fAXwcdlsK4g/maxresdefault_live.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/fAXwcdlsK4g/maxresdefault.jpg",
       "status": "not_on_air",
       "start_time": "2026-05-17T21:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=fAXwcdlsK4g",
@@ -89,7 +89,7 @@
       "title": "𓊆 雑談 𓊇 にじフェスありがと！3Dお披露目＆ライブ決まったよ！！ 𓊆 雲母たまこ/にじさんじ 𓊇",
       "liver_name": "01J6CCJAK9N4AKCGFZ75P3W147",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/U6c2fzCnkHs/maxresdefault_live.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/U6c2fzCnkHs/maxresdefault.jpg",
       "status": "not_on_air",
       "start_time": "2026-05-17T21:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=U6c2fzCnkHs",
@@ -242,6 +242,19 @@
       ]
     },
     {
+      "id": "01KRV7H87HC1WP5E46HEQAE668",
+      "title": "【 朝雑談 / おはようみゃみー 】#にじフェス  たのしかったー！！！！！ 2026/05/18 #15【白砂あやね / 水面まどか / にじさんじ】",
+      "liver_name": "01KG4FVDPQ5XJKP79RVD4SVM6R",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/Mt7RdSbCOaA/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-18T07:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=Mt7RdSbCOaA",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
       "id": "01KRT0WT35VGN46QX5CVHX60FE",
       "title": "【#朝活 】+ #トモコレ💛ゴミ曜日のおはよう！にじフェス楽しかった!?今日も気をつけていってらっしゃいませ💕【ナセラ/にじさんじ🌸🌙】",
       "liver_name": "",
@@ -260,7 +273,7 @@
       "liver_name": "01K2KXFY4WTXD0E42NN67KG73Q",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/vo_zc5SWmyw/maxresdefault_live.jpg",
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-05-18T00:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=vo_zc5SWmyw",
       "matched_keywords": [
