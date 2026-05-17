@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-18T01:00:27.911456+09:00",
+  "updated_at": "2026-05-18T01:30:28.189495+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -11,8 +11,8 @@
       "title": "にじフェスお疲れさまでした～！  | 雑談 【にじさんじ/叶】",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/3rRAZISK7Qg/maxresdefault_live.jpg",
-      "status": "on_air",
+      "thumbnail": "https://i.ytimg.com/vi/3rRAZISK7Qg/maxresdefault.jpg",
+      "status": "not_on_air",
       "start_time": "2026-05-17T23:05:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=3rRAZISK7Qg",
       "matched_keywords": [
@@ -24,8 +24,8 @@
       "title": "【 雑談 】にじフェス2026ありがとう【 伊波ライ / にじさんじ 】",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/ey0TPmPop40/maxresdefault_live.jpg",
-      "status": "on_air",
+      "thumbnail": "https://i.ytimg.com/vi/ey0TPmPop40/maxresdefault.jpg",
+      "status": "not_on_air",
       "start_time": "2026-05-17T23:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=ey0TPmPop40",
       "matched_keywords": [
@@ -38,7 +38,7 @@
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/KaJ9htNGcng/maxresdefault_live.jpg",
-      "status": "on_air",
+      "status": "not_on_air",
       "start_time": "2026-05-17T23:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=KaJ9htNGcng",
       "matched_keywords": [
