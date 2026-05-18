@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-18T21:49:44.073946+09:00",
+  "updated_at": "2026-05-18T22:00:38.355032+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -263,6 +263,19 @@
       "status": "not_on_air",
       "start_time": "2026-05-18T22:30:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=WizBbvUC4F8",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
+      "id": "01KRXJ64JMRMCT23TQZA3YNAYQ",
+      "title": "⋙ 雑談 ⋮❙⋮ #にじフェス2026 ありがとうございました！ ⋮❙⋮ 弦月藤士郎 / にじさんじ ⋘",
+      "liver_name": "01J6CCJAKZQPKXESHHKBER8FD4",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/jF7r3jUy7M4/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-18T22:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=jF7r3jUy7M4",
       "matched_keywords": [
         "雑談"
       ]
