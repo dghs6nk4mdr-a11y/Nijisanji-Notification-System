@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-19T07:30:25.723927+09:00",
+  "updated_at": "2026-05-19T07:42:57.466951+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -460,6 +460,19 @@
       "url": "https://www.youtube.com/watch?v=FE3m0kC3LWA",
       "matched_keywords": [
         "雑談"
+      ]
+    },
+    {
+      "id": "01KRYKYSNN7JW9ZY5SHGHCRR3V",
+      "title": "【朝活】5月だって早起き！オハ城2026【赤城ウェン/にじさんじ】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/Mo_AxCmOTdU/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-19T08:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=Mo_AxCmOTdU",
+      "matched_keywords": [
+        "朝活"
       ]
     },
     {
