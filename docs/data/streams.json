@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-18T19:30:31.766682+09:00",
+  "updated_at": "2026-05-18T20:00:35.429116+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -263,6 +263,19 @@
       "status": "not_on_air",
       "start_time": "2026-05-18T20:30:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=rru3LQtzDjc",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
+      "id": "01KRXB1GX5GA5Z0HP04MCE3CPR",
+      "title": "【雑談】 出し切りすぎて余韻がない男【にじさんじ/風楽奏斗】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/HAibW3T4Aac/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-18T20:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=HAibW3T4Aac",
       "matched_keywords": [
         "雑談"
       ]
