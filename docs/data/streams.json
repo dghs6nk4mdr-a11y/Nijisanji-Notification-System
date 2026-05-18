@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-18T20:00:35.429116+09:00",
+  "updated_at": "2026-05-18T20:30:29.901863+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -242,6 +242,19 @@
       ]
     },
     {
+      "id": "01KRXC5ZAP085PJPR2GVRP7K64",
+      "title": "[雑談] お疲れさまでした！！にじフェス振り返り雑談！",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/aaixvYSsssU/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-18T23:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=aaixvYSsssU",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
       "id": "01KRX9KTG40J4CQ7ZG2BJJMQ85",
       "title": "【振り返り雑談】にじフェス全力で走り切った!!応援大感謝；；＆重大発表もあったね…♡!!【倉持めると/にじさんじ】",
       "liver_name": "",
@@ -255,12 +268,25 @@
       ]
     },
     {
+      "id": "01KRXCQSA5FYZR53DXYRZCXKEH",
+      "title": "▶︎▷ 雑談｜にじフェスお疲れ様でした～！をしたりしなかったり｜夕陽リリ￤にじさんじ",
+      "liver_name": "01GHAYG7HKX3CM741NB363668C",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/1F-XweYn5-g/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-18T20:30:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=1F-XweYn5-g",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
       "id": "01KRX7WRBJ35P1P6FZ0QVXJ3W3",
       "title": "にじフェスおつかれさまでした！ otsu nijifes! CONCERTO振り返り、雑談、などなど 【Shu Yamino | NIJISANJI EN】",
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/rru3LQtzDjc/maxresdefault_live.jpg",
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-05-18T20:30:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=rru3LQtzDjc",
       "matched_keywords": [
@@ -273,7 +299,7 @@
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/HAibW3T4Aac/maxresdefault_live.jpg",
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-05-18T20:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=HAibW3T4Aac",
       "matched_keywords": [
@@ -286,7 +312,7 @@
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/ypIK6csnrgY/maxresdefault_live.jpg",
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-05-18T20:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=ypIK6csnrgY",
       "matched_keywords": [
@@ -298,8 +324,8 @@
       "title": "【雑談】にじフェス振り返り！✨視聴覚で感じたこと これからのこと【雪城眞尋/にじさんじ】",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/xmPM3sCYynA/maxresdefault_live.jpg",
-      "status": "on_air",
+      "thumbnail": "https://i.ytimg.com/vi/xmPM3sCYynA/maxresdefault.jpg",
+      "status": "not_on_air",
       "start_time": "2026-05-18T19:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=xmPM3sCYynA",
       "matched_keywords": [
@@ -325,7 +351,7 @@
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/tAnJoh91bBk/maxresdefault_live.jpg",
-      "status": "on_air",
+      "status": "not_on_air",
       "start_time": "2026-05-18T18:50:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=tAnJoh91bBk",
       "matched_keywords": [
@@ -351,7 +377,7 @@
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/T-n5FQ6SfSw/maxresdefault_live.jpg",
-      "status": "on_air",
+      "status": "not_on_air",
       "start_time": "2026-05-18T18:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=T-n5FQ6SfSw",
       "matched_keywords": [
