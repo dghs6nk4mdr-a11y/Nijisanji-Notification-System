@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-18T21:30:29.832782+09:00",
+  "updated_at": "2026-05-18T21:49:44.073946+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -255,6 +255,19 @@
       ]
     },
     {
+      "id": "01KRXHWVQ08B3534AX7QCY3163",
+      "title": "【振り返り雑談】にじフェス2026＆前夜祭お疲れ様でした！【にじさんじ/加賀美ハヤト】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/WizBbvUC4F8/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-18T22:30:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=WizBbvUC4F8",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
       "id": "01KRXH1HJV0ARA1ZFPRQ926DAH",
       "title": "【雑談】にじフェス2026振り返る～！【にじさんじ／空星きらめ】",
       "liver_name": "",
@@ -299,7 +312,7 @@
       "liver_name": "01K2KXFY4WTXD0E42NN67KG73Q",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/LDywXJ_ZI1k/maxresdefault_live.jpg",
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-05-18T21:30:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=LDywXJ_ZI1k",
       "matched_keywords": [
@@ -312,7 +325,7 @@
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/EZsfkbUdIO0/maxresdefault_live.jpg",
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-05-18T21:30:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=EZsfkbUdIO0",
       "matched_keywords": [
@@ -389,8 +402,8 @@
       "title": "【にじフェス振り返り雑談】楽しかったね！！みんなでお話ししよ～【にじさんじ/桜凛月】",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/ypIK6csnrgY/maxresdefault_live.jpg",
-      "status": "on_air",
+      "thumbnail": "https://i.ytimg.com/vi/ypIK6csnrgY/maxresdefault.jpg",
+      "status": "not_on_air",
       "start_time": "2026-05-18T20:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=ypIK6csnrgY",
       "matched_keywords": [
@@ -441,7 +454,7 @@
       "title": "にじフェス振り返り雑談┊︎とても楽しかった2日間、一緒に話そ🫶🏻🧡【 にじさんじ / 五十嵐梨花 】",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/B8l5LHPPbzM/maxresdefault_live.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/B8l5LHPPbzM/maxresdefault.jpg",
       "status": "not_on_air",
       "start_time": "2026-05-18T18:30:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=B8l5LHPPbzM",
