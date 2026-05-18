@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-19T00:30:32.030026+09:00",
+  "updated_at": "2026-05-19T01:00:37.384045+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -51,7 +51,7 @@
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/aaixvYSsssU/maxresdefault_live.jpg",
-      "status": "on_air",
+      "status": "not_on_air",
       "start_time": "2026-05-18T23:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=aaixvYSsssU",
       "matched_keywords": [
@@ -102,8 +102,8 @@
       "title": "【🔴雑談/振り返り】にじフェス最高！CONCERTO最高！！【にじさんじ/アンジュ・カトリーナ】",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/R1IGPlniIm4/maxresdefault_live.jpg",
-      "status": "on_air",
+      "thumbnail": "https://i.ytimg.com/vi/R1IGPlniIm4/maxresdefault.jpg",
+      "status": "not_on_air",
       "start_time": "2026-05-18T22:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=R1IGPlniIm4",
       "matched_keywords": [
@@ -115,8 +115,8 @@
       "title": "【雑談】にじフェス振り返り/ごはんリーク ほか。【 にじさんじ / ミラン・ケストレル】",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/t6zUGge0sHQ/maxresdefault_live.jpg",
-      "status": "on_air",
+      "thumbnail": "https://i.ytimg.com/vi/t6zUGge0sHQ/maxresdefault.jpg",
+      "status": "not_on_air",
       "start_time": "2026-05-18T22:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=t6zUGge0sHQ",
       "matched_keywords": [
