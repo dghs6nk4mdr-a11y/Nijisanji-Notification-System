@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-19T03:00:45.195596+09:00",
+  "updated_at": "2026-05-19T03:30:45.319879+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -434,6 +434,19 @@
       "url": "https://www.youtube.com/watch?v=ABr0PttAEu8",
       "matched_keywords": [
         "ラジオ"
+      ]
+    },
+    {
+      "id": "01KRY47F9FR24970EFX31AFDCZ",
+      "title": "〖 生活 〗今日も生きるをしよう。日常垂れ流し雑談〖 十河ののは / 夜牛詩乃 / にじさんじ 〗",
+      "liver_name": "01K2KXFY4WTXD0E42NN67KG73Q",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/fzGAzMjRxDU/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-19T21:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=fzGAzMjRxDU",
+      "matched_keywords": [
+        "雑談"
       ]
     },
     {
