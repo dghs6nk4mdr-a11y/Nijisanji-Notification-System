@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-19T17:00:33.330554+09:00",
+  "updated_at": "2026-05-19T17:30:29.858845+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -484,6 +484,19 @@
       "status": "not_on_air",
       "start_time": "2026-05-19T21:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=fzGAzMjRxDU",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
+      "id": "01KRZMJ4631T1JYWCQSZGH8KTF",
+      "title": "【雑談】にじフェスの振り返りと、ガールズアイドルフェス出演するよ～！！⟡；；のお話🌈【にじさんじ/山神カルタ】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/Wz_XiURKMYQ/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-19T18:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=Wz_XiURKMYQ",
       "matched_keywords": [
         "雑談"
       ]
