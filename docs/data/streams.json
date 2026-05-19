@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-19T18:30:31.696362+09:00",
+  "updated_at": "2026-05-19T19:00:36.449724+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -484,6 +484,19 @@
       "status": "not_on_air",
       "start_time": "2026-05-19T21:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=fzGAzMjRxDU",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
+      "id": "01KRZTJWFNEK5F2C27T7ZXBVN8",
+      "title": "【雑談】にじフェス振り返り🎶【ルンルン/にじさんじ】",
+      "liver_name": "01J6CCJAKFW1BRQ4RMTBTCJRXP",
+      "liver_icon": "",
+      "thumbnail": null,
+      "status": "not_on_air",
+      "start_time": "2026-05-19T20:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=vwV6UYn7VwM",
       "matched_keywords": [
         "雑談"
       ]
