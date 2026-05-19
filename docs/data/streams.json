@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-19T22:30:31.021700+09:00",
+  "updated_at": "2026-05-19T23:00:34.088612+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -424,6 +424,19 @@
       ]
     },
     {
+      "id": "01KS06WN4Y37BDTHV76RXH7PN8",
+      "title": "𓊆 雑談 𓊇 眠くなるまでおはなししよ？ 𓊆 雲母たまこ ┊ にじさんじ 𓊇",
+      "liver_name": "01J6CCJAK9N4AKCGFZ75P3W147",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/uBbwUtmaB3A/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-19T23:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=uBbwUtmaB3A",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
       "id": "01KS000B2G9450TNCA1B4CXX3N",
       "title": "┊にじフェス┊リアルイベントってさ．．．雑談【魔使マオ/にじさんじ】",
       "liver_name": "",
@@ -533,7 +546,7 @@
       "liver_name": "01K5BBDKSPBQHW595ESQWN8BBP",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/oLdQazGWDAo/maxresdefault_live.jpg",
-      "status": "on_air",
+      "status": "not_on_air",
       "start_time": "2026-05-19T21:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=oLdQazGWDAo",
       "matched_keywords": [
@@ -572,7 +585,7 @@
       "liver_name": "01K2KXFY4WTXD0E42NN67KG73Q",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/fzGAzMjRxDU/maxresdefault_live.jpg",
-      "status": "on_air",
+      "status": "not_on_air",
       "start_time": "2026-05-19T21:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=fzGAzMjRxDU",
       "matched_keywords": [
