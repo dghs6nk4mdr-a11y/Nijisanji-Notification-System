@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-20T00:00:47.251491+09:00",
+  "updated_at": "2026-05-20T00:30:28.799103+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -25,7 +25,7 @@
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/PHKGG_JnkXI/maxresdefault_live.jpg",
-      "status": "on_air",
+      "status": "not_on_air",
       "start_time": "2026-05-19T23:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=PHKGG_JnkXI",
       "matched_keywords": [
@@ -89,8 +89,8 @@
       "title": "【#ぶるくだラジオ】第10回『終わるフェス、始まる現実』 【にじさんじ／空星きらめ＆雪城眞尋】",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/ABr0PttAEu8/maxresdefault_live.jpg",
-      "status": "on_air",
+      "thumbnail": "https://i.ytimg.com/vi/ABr0PttAEu8/maxresdefault.jpg",
+      "status": "not_on_air",
       "start_time": "2026-05-19T22:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=ABr0PttAEu8",
       "matched_keywords": [
@@ -102,7 +102,7 @@
       "title": "【雑談】にじフェスからご帰宅【明楽レイ/にじさんじ】",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/ntcmYN6vNQg/maxresdefault_live.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/ntcmYN6vNQg/maxresdefault.jpg",
       "status": "not_on_air",
       "start_time": "2026-05-19T21:30:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=ntcmYN6vNQg",
@@ -154,8 +154,8 @@
       "title": "꒰雑談꒱　にじフェスおつかれさま～～～～ぁあああ👍✨　˹ 本間ひまわり にじさんじ ˼",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/G8CSrOT5hKQ/maxresdefault_live.jpg",
-      "status": "on_air",
+      "thumbnail": "https://i.ytimg.com/vi/G8CSrOT5hKQ/maxresdefault.jpg",
+      "status": "not_on_air",
       "start_time": "2026-05-19T21:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=G8CSrOT5hKQ",
       "matched_keywords": [
@@ -331,6 +331,19 @@
       "matched_keywords": [
         "雑談",
         "朝活"
+      ]
+    },
+    {
+      "id": "01KRXZN0XVJ9JKXF0T1Z3QE0DF",
+      "title": "〖深夜ラジオ〗2026年5月20日(水)のにゃルラジ🌙〖猫屋敷美紅 / にじさんじ〗",
+      "liver_name": "01K2KXFY4WTXD0E42NN67KG73Q",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/oO3rA2hVoOg/maxresdefault_live.jpg",
+      "status": "on_air",
+      "start_time": "2026-05-20T00:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=oO3rA2hVoOg",
+      "matched_keywords": [
+        "ラジオ"
       ]
     }
   ]
