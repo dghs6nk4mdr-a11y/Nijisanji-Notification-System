@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-19T20:00:33.517207+09:00",
+  "updated_at": "2026-05-19T20:30:28.308541+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -424,6 +424,45 @@
       ]
     },
     {
+      "id": "01KS000B2G9450TNCA1B4CXX3N",
+      "title": "┊にじフェス┊リアルイベントってさ．．．雑談【魔使マオ/にじさんじ】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/PHKGG_JnkXI/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-19T23:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=PHKGG_JnkXI",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
+      "id": "01KRZYJ8VDA67RW42N8NQXNTGJ",
+      "title": "【雑談】やりすぎぐらいが丁度いい【にじさんじ/夢追翔】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/EYRHImoJ65w/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-19T23:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=EYRHImoJ65w",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
+      "id": "01KRZYJBVE8Y5G9DR854GFGJ5E",
+      "title": "【 にじフェス2026 】 振り返り雑談！ラクガキとかＭＣとか握手会とか色々ありました！ 【 にじさんじ / 神田笑一 】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/JU1e8U8_IZw/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-19T22:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=JU1e8U8_IZw",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
       "id": "01KRZX4PWV7GY5FWM73GPM5T8R",
       "title": "【 雑談 】にじフェスお疲れ様‼　ちょこっと雑談 【 にじさんじ / 夜見れな 】",
       "liver_name": "",
@@ -447,6 +486,19 @@
       "url": "https://www.youtube.com/watch?v=ABr0PttAEu8",
       "matched_keywords": [
         "ラジオ"
+      ]
+    },
+    {
+      "id": "01KRZZE32B2C9YRFT1ADZVQA2W",
+      "title": "【雑談】にじフェス2026（Uncharted Spheres）を振り返ろう！【にじさんじ/東堂コハク】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/3VVn9dmTtCs/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-19T21:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=3VVn9dmTtCs",
+      "matched_keywords": [
+        "雑談"
       ]
     },
     {
@@ -507,7 +559,7 @@
       "liver_name": "01J6CCJAKFW1BRQ4RMTBTCJRXP",
       "liver_icon": "",
       "thumbnail": null,
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-05-19T20:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=vwV6UYn7VwM",
       "matched_keywords": [
@@ -545,8 +597,8 @@
       "title": "【雑談】ものすごくあついですね👻【 椎名唯華/にじさんじ】",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/UJTakn6Ftfw/maxresdefault_live.jpg",
-      "status": "on_air",
+      "thumbnail": "https://i.ytimg.com/vi/UJTakn6Ftfw/maxresdefault.jpg",
+      "status": "not_on_air",
       "start_time": "2026-05-19T19:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=UJTakn6Ftfw",
       "matched_keywords": [
@@ -559,7 +611,7 @@
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/Wz_XiURKMYQ/maxresdefault_live.jpg",
-      "status": "on_air",
+      "status": "not_on_air",
       "start_time": "2026-05-19T18:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=Wz_XiURKMYQ",
       "matched_keywords": [
