@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-19T19:30:27.116776+09:00",
+  "updated_at": "2026-05-19T19:50:18.185246+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -424,6 +424,19 @@
       ]
     },
     {
+      "id": "01KRZX4PWV7GY5FWM73GPM5T8R",
+      "title": "【 雑談 】にじフェスお疲れ様‼　ちょこっと雑談 【 にじさんじ / 夜見れな 】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/kSPJ1SVVQfY/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-19T22:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=kSPJ1SVVQfY",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
       "id": "01KRXE5TCDXVGQAS3AHRMMRQZG",
       "title": "【#ぶるくだラジオ】第10回『終わるフェス、始まる現実』 【にじさんじ／空星きらめ＆雪城眞尋】",
       "liver_name": "",
@@ -507,7 +520,7 @@
       "liver_name": "01J6CCJAK9N4AKCGFZ75P3W147",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/YvZBh4LyJjQ/maxresdefault_live.jpg",
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-05-19T19:30:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=YvZBh4LyJjQ",
       "matched_keywords": [
@@ -520,7 +533,7 @@
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/aGE7U1i2QhY/maxresdefault_live.jpg",
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-05-19T19:30:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=aGE7U1i2QhY",
       "matched_keywords": [
