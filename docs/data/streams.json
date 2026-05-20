@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-20T21:30:31.566928+09:00",
+  "updated_at": "2026-05-20T22:00:38.604074+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -304,6 +304,32 @@
       "url": "https://www.youtube.com/watch?v=fk7ePrm_j2s",
       "matched_keywords": [
         "ラジオ"
+      ]
+    },
+    {
+      "id": "01KS2PPWASH3RQXS71PE49XEW1",
+      "title": "Chill雑談│疲れた日は男梅サワーなんですよ。寝落ちOK💤【綺沙良/にじさんじ】",
+      "liver_name": "01J6CCJAKFW1BRQ4RMTBTCJRXP",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/mx3dL_ks9sI/maxresdefault_live.jpg",
+      "status": "on_air",
+      "start_time": "2026-05-20T22:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=mx3dL_ks9sI",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
+      "id": "01KS2PDKRE0NYWXC96JYEC5Q1J",
+      "title": "【 ごはんたべる雑談 】炊き立てごはんで食べる会🍚【ソフィア・ヴァレンタイン / にじさんじ】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/NzXKItSL4eM/maxresdefault_live.jpg",
+      "status": "on_air",
+      "start_time": "2026-05-20T22:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=NzXKItSL4eM",
+      "matched_keywords": [
+        "雑談"
       ]
     },
     {
