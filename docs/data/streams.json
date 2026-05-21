@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-21T14:00:28.748729+09:00",
+  "updated_at": "2026-05-21T14:30:30.494652+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -67,6 +67,19 @@
       "status": "not_on_air",
       "start_time": "2026-05-20T12:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=hnrkawjQhZM",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
+      "id": "01KS4FXR8B1C8P7GFKYGVZRPFR",
+      "title": "【メン限雑談】whatever man",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/TveKv5oOVsI/maxresdefault.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-20T11:15:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=TveKv5oOVsI",
       "matched_keywords": [
         "雑談"
       ]
