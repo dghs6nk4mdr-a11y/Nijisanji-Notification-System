@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-21T20:00:31.794547+09:00",
+  "updated_at": "2026-05-21T20:30:29.004819+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -156,7 +156,7 @@
       "liver_name": "01J6CCJAKFW1BRQ4RMTBTCJRXP",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/Am4LXoIG_Cw/maxresdefault_live.jpg",
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-05-21T20:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=Am4LXoIG_Cw",
       "matched_keywords": [
@@ -265,6 +265,19 @@
       "url": "https://www.youtube.com/watch?v=rZQmAMUNphE",
       "matched_keywords": [
         "ラジオ"
+      ]
+    },
+    {
+      "id": "01KS54HD3H4B067E55X47DCD5V",
+      "title": "【 記念日雑談 】告知あり✦︎初配信から1ヶ月！振り返りながらおはなししよ～！【にじさんじ / 千凛あゆむ】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/3wzD0MSCGBc/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-22T20:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=3wzD0MSCGBc",
+      "matched_keywords": [
+        "雑談"
       ]
     },
     {
