@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-21T15:30:25.301712+09:00",
+  "updated_at": "2026-05-21T16:00:34.311257+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -146,6 +146,19 @@
       "status": "not_on_air",
       "start_time": "2026-05-21T22:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=hahVEGTFOJ8",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
+      "id": "01KS4N2QYPFKVY18WY5SQ2TTQG",
+      "title": "【 雑談 】にじフェス2026の振り返りしながら話そ～！！！【にじさんじ / 珠乃井ナナ】",
+      "liver_name": "01J6CCJAKFW1BRQ4RMTBTCJRXP",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/Am4LXoIG_Cw/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-21T20:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=Am4LXoIG_Cw",
       "matched_keywords": [
         "雑談"
       ]
