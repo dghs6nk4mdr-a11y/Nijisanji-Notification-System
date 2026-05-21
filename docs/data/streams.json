@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-21T22:30:29.893249+09:00",
+  "updated_at": "2026-05-21T23:00:46.859625+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -291,6 +291,19 @@
       "url": "https://www.youtube.com/watch?v=3wzD0MSCGBc",
       "matched_keywords": [
         "雑談"
+      ]
+    },
+    {
+      "id": "01KS5CT0KZYPNC4EC017W6F87C",
+      "title": "【朝活#375】そろそろ寝坊しそうな気がして怖い私です【雪城眞尋/にじさんじ】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/GokByAmagSA/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-22T07:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=GokByAmagSA",
+      "matched_keywords": [
+        "朝活"
       ]
     },
     {
