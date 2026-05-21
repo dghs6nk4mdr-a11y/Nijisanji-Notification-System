@@ -1,142 +1,11 @@
 {
-  "updated_at": "2026-05-21T23:30:37.593582+09:00",
+  "updated_at": "2026-05-22T00:00:46.994401+09:00",
   "keywords": [
     "雑談",
     "朝活",
     "ラジオ"
   ],
   "streams": [
-    {
-      "id": "01KS2PPWASH3RQXS71PE49XEW1",
-      "title": "Chill雑談│疲れた日は男梅サワーなんですよ。寝落ちOK💤【綺沙良/にじさんじ】",
-      "liver_name": "01J6CCJAKFW1BRQ4RMTBTCJRXP",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/mx3dL_ks9sI/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-05-20T22:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=mx3dL_ks9sI",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KS2PDKRE0NYWXC96JYEC5Q1J",
-      "title": "【 ごはんたべる雑談 】炊き立てごはんで食べる会🍚【ソフィア・ヴァレンタイン / にじさんじ】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/NzXKItSL4eM/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-05-20T22:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=NzXKItSL4eM",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KS277W4PR8X4Y278AGQG2SAB",
-      "title": "【雑談】#にじフェス2026 CONCERTOおつかれさまでした！【にじさんじ/リゼ・ヘルエスタ】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/As7NtHbGTgM/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-05-20T21:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=As7NtHbGTgM",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KS1MYPX671RR75CTE2FDWQY4",
-      "title": "【 昼めしラジオ #18 】 ゼッテリア美味しすぎ問題 【 篠宮ゆの / すぷれあ / にじさんじ 】",
-      "liver_name": "01K5BBDKSPBQHW595ESQWN8BBP",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/APn8EeaMx18/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-05-20T12:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=APn8EeaMx18",
-      "matched_keywords": [
-        "ラジオ"
-      ]
-    },
-    {
-      "id": "01KS1AMA1RQE0ZQJ1NPVV8HWNS",
-      "title": "【雑談/talk】昼活成功の世界線、ダウナーな鷹宮とチルい曲(Chill MIX)【にじさんじ/鷹宮リオン】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/hnrkawjQhZM/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-05-20T12:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=hnrkawjQhZM",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KS0Y22Z9QAYEXS48R0YQH47B",
-      "title": "【雑談】summer rolling in",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/p5mP2-4gTLE/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-05-20T09:30:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=p5mP2-4gTLE",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KS136ZAVSVMSSP0R3XNX08H1",
-      "title": "【朝活】おはすず5月20日（水）＃530【七瀬すず菜/にじさんじ】",
-      "liver_name": "01J6CCJAK9N4AKCGFZ75P3W147",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/IvuAv4RGHyg/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-05-20T07:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=IvuAv4RGHyg",
-      "matched_keywords": [
-        "朝活"
-      ]
-    },
-    {
-      "id": "01KRWY5FRHFPTMB91A6MB2KK9S",
-      "title": "【#朝活 】+ #トモコレ💛水曜日のおはよう！週末まで半分よ！頑張っていってらっしゃいませ💕【ナセラ/にじさんじ🌸🌙】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/X3wQzOFz0WU/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-05-20T07:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=X3wQzOFz0WU",
-      "matched_keywords": [
-        "朝活"
-      ]
-    },
-    {
-      "id": "01KRZNQDPR9JHH3PKSC11QPM60",
-      "title": "【 雑談  】今日もまったり朝活していくぜ～【 皇れお / にじさんじ 】",
-      "liver_name": "01K5BBDKSPBQHW595ESQWN8BBP",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/6-4QTo2lJnY/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-05-20T06:30:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=6-4QTo2lJnY",
-      "matched_keywords": [
-        "雑談",
-        "朝活"
-      ]
-    },
-    {
-      "id": "01KRXZN0XVJ9JKXF0T1Z3QE0DF",
-      "title": "〖深夜ラジオ〗2026年5月20日(水)のにゃルラジ🌙〖猫屋敷美紅 / にじさんじ〗",
-      "liver_name": "01K2KXFY4WTXD0E42NN67KG73Q",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/oO3rA2hVoOg/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-05-20T00:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=oO3rA2hVoOg",
-      "matched_keywords": [
-        "ラジオ"
-      ]
-    },
     {
       "id": "01KS5ESTTDMDZ4186Y1K3W3EME",
       "title": "雑談配信【20260522】",
@@ -182,7 +51,7 @@
       "liver_name": "01J6CCJAKFW1BRQ4RMTBTCJRXP",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/Am4LXoIG_Cw/maxresdefault_live.jpg",
-      "status": "on_air",
+      "status": "not_on_air",
       "start_time": "2026-05-21T20:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=Am4LXoIG_Cw",
       "matched_keywords": [
