@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-22T22:00:35.763079+09:00",
+  "updated_at": "2026-05-22T22:30:30.048259+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -168,7 +168,7 @@
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/NqHZ7CclWjY/maxresdefault_live.jpg",
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-05-22T22:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=NqHZ7CclWjY",
       "matched_keywords": [
@@ -206,8 +206,8 @@
       "title": "【 記念日雑談 】告知あり✦︎初配信から1ヶ月！振り返りながらおはなししよ～！【にじさんじ / 千凛あゆむ】",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/3wzD0MSCGBc/maxresdefault_live.jpg",
-      "status": "on_air",
+      "thumbnail": "https://i.ytimg.com/vi/3wzD0MSCGBc/maxresdefault.jpg",
+      "status": "not_on_air",
       "start_time": "2026-05-22T20:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=3wzD0MSCGBc",
       "matched_keywords": [
@@ -290,6 +290,19 @@
       "url": "https://www.youtube.com/watch?v=FDC4iGHfgf4",
       "matched_keywords": [
         "ラジオ"
+      ]
+    },
+    {
+      "id": "01KS7Y29CAAG3MMXJ5ZRFCVVTV",
+      "title": "起きれたら朝雑談！起きれたら朝雑談！起きれたら朝雑談！起きれたら朝雑談！起きれたら朝雑談！起きれたら朝雑談！起きれたら朝雑談！起きれたら朝雑談！起きれたら朝雑談！起きれたら朝雑談！起きれたら朝雑談！",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/eoX2F3qE2-o/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-23T08:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=eoX2F3qE2-o",
+      "matched_keywords": [
+        "雑談"
       ]
     },
     {
