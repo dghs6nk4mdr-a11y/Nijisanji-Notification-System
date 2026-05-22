@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-22T21:00:32.820137+09:00",
+  "updated_at": "2026-05-22T21:30:27.599887+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -163,27 +163,27 @@
       ]
     },
     {
-      "id": "01KS7PB2PVE7RDNRFNQP38MRPF",
-      "title": "【雑談】寒いのか暖かいのかハッキリしろ！【甲斐田晴/にじさんじ】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/3C3RxNduP2A/maxresdefault_live.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-05-22T21:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=3C3RxNduP2A",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
       "id": "01KS7P1MS5NFC7EQYNWQP1ENC5",
       "title": "【雑談】あいあい～ざつだんのじかんだじょ～【にじさんじ/渋谷ハジメ】",
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/5GiURJGL188/maxresdefault_live.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-05-22T21:00:00.000+09:00",
+      "status": "on_air",
+      "start_time": "2026-05-22T21:08:24.000+09:00",
       "url": "https://www.youtube.com/watch?v=5GiURJGL188",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
+      "id": "01KS7PB2PVE7RDNRFNQP38MRPF",
+      "title": "【雑談】寒いのか暖かいのかハッキリしろ！【甲斐田晴/にじさんじ】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/3C3RxNduP2A/maxresdefault_live.jpg",
+      "status": "on_air",
+      "start_time": "2026-05-22T21:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=3C3RxNduP2A",
       "matched_keywords": [
         "雑談"
       ]
@@ -219,8 +219,8 @@
       "title": "ただいま、帰宅！ひさびさ雑談やよ〜。",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/EydGo3u49BM/maxresdefault_live.jpg",
-      "status": "on_air",
+      "thumbnail": "https://i.ytimg.com/vi/EydGo3u49BM/maxresdefault.jpg",
+      "status": "not_on_air",
       "start_time": "2026-05-22T19:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=EydGo3u49BM",
       "matched_keywords": [
