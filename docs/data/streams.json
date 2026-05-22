@@ -1,167 +1,11 @@
 {
-  "updated_at": "2026-05-22T23:30:32.322474+09:00",
+  "updated_at": "2026-05-23T00:00:39.159642+09:00",
   "keywords": [
     "雑談",
     "朝活",
     "ラジオ"
   ],
   "streams": [
-    {
-      "id": "01KS5ESTTDMDZ4186Y1K3W3EME",
-      "title": "雑談配信【20260522】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/QoMtO0R24k0/maxresdefault_live.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-05-21T23:21:36.000+09:00",
-      "url": "https://www.youtube.com/watch?v=QoMtO0R24k0",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KS32ECDRFQ5AP47Z08AHEEMV",
-      "title": "雑談｜にじフェス初心者のにじフェス振り返り【にじさんじ / 五木左京】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/hahVEGTFOJ8/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-05-21T22:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=hahVEGTFOJ8",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KS55326MPX37WJKBAATJ831R",
-      "title": "【雑談】にじフェスお疲れ様でした！！！ 【にじさんじ／ジユ】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/6egengnxajQ/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-05-21T21:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=6egengnxajQ",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KS4N2QYPFKVY18WY5SQ2TTQG",
-      "title": "【 雑談 】にじフェス2026の振り返りしながら話そ～！！！【にじさんじ / 珠乃井ナナ】",
-      "liver_name": "01J6CCJAKFW1BRQ4RMTBTCJRXP",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/Am4LXoIG_Cw/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-05-21T20:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=Am4LXoIG_Cw",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KS4VXY5M47SY8Y6Y26SS548H",
-      "title": "【雑談】にじフェスとかありましたね。",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/1i1MXGl_stc/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-05-21T18:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=1i1MXGl_stc",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KS4HM6ZWZEE1PKA1JTHVX0TP",
-      "title": "【雑談】2026.5.21 今年もにじフェスお疲れえ！！ほてらすネツタイヤ～【にじさんじ/黒井しば】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/H5EFM6okm20/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-05-21T15:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=H5EFM6okm20",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KS35W9P1GFZMM43SY37AT7T0",
-      "title": "【 雑談 】マック新作を攻める！一緒にご飯食べようぜ～【 皇れお / にじさんじ 】",
-      "liver_name": "01K5BBDKSPBQHW595ESQWN8BBP",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/RL_h62OPlW8/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-05-21T12:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=RL_h62OPlW8",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KS405ZW42JR8NKGGSP2VF7DS",
-      "title": "【雑談】病みあがりそう【北小路ヒスイ/にじさんじ】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/1Vxii3sU9ZE/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-05-21T10:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=1Vxii3sU9ZE",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KS3NKPD6MDS217AYXWXXDPV3",
-      "title": "【朝活】おはすず5月21日（木）＃531【七瀬すず菜/にじさんじ】",
-      "liver_name": "01J6CCJAK9N4AKCGFZ75P3W147",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/WqnjaRkuNHc/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-05-21T07:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=WqnjaRkuNHc",
-      "matched_keywords": [
-        "朝活"
-      ]
-    },
-    {
-      "id": "01KS2XV5Z0A07F1E75K690NT71",
-      "title": "【朝活#374】人生で最後に食べたいものってなんですか？【雪城眞尋/にじさんじ】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/XFaG6elEmBA/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-05-21T07:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=XFaG6elEmBA",
-      "matched_keywords": [
-        "朝活"
-      ]
-    },
-    {
-      "id": "01KS2XV9154QE36NE0X7DE52KA",
-      "title": "【飲酒雑談】にじフェス振り返り酒を飲むよ【えま★おうがすと/にじさんじ所属】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/ol-MX_pPMV0/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-05-21T00:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=ol-MX_pPMV0",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KS0KFHEFKJZQ2Z5DGH4C9084",
-      "title": "〖深夜ラジオ〗2026年5月21日(木)のにゃルラジ🌙〖猫屋敷美紅 / にじさんじ〗",
-      "liver_name": "01K2KXFY4WTXD0E42NN67KG73Q",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/rZQmAMUNphE/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-05-21T00:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=rZQmAMUNphE",
-      "matched_keywords": [
-        "ラジオ"
-      ]
-    },
     {
       "id": "01KS7ZFM3X9VWQ8VCVYC1CA6N8",
       "title": "モイラの雑談配信【20260523】",
@@ -181,7 +25,7 @@
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/NqHZ7CclWjY/maxresdefault_live.jpg",
-      "status": "on_air",
+      "status": "not_on_air",
       "start_time": "2026-05-22T22:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=NqHZ7CclWjY",
       "matched_keywords": [
