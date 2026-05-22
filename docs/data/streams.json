@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-22T20:00:35.829227+09:00",
+  "updated_at": "2026-05-22T20:30:31.063371+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -163,12 +163,38 @@
       ]
     },
     {
+      "id": "01KS7PB2PVE7RDNRFNQP38MRPF",
+      "title": "【雑談】寒いのか暖かいのかハッキリしろ！【甲斐田晴/にじさんじ】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/3C3RxNduP2A/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-22T21:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=3C3RxNduP2A",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
+      "id": "01KS7P1MS5NFC7EQYNWQP1ENC5",
+      "title": "【雑談】あいあい～ざつだんのじかんだじょ～【にじさんじ/渋谷ハジメ】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/5GiURJGL188/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-22T21:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=5GiURJGL188",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
       "id": "01KS54HD3H4B067E55X47DCD5V",
       "title": "【 記念日雑談 】告知あり✦︎初配信から1ヶ月！振り返りながらおはなししよ～！【にじさんじ / 千凛あゆむ】",
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/3wzD0MSCGBc/maxresdefault_live.jpg",
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-05-22T20:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=3wzD0MSCGBc",
       "matched_keywords": [
@@ -206,8 +232,8 @@
       "title": "【雑談】こいついっつも雑談してんな【北小路ヒスイ/にじさんじ】",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/h4u_EVOqblY/maxresdefault_live.jpg",
-      "status": "on_air",
+      "thumbnail": "https://i.ytimg.com/vi/h4u_EVOqblY/maxresdefault.jpg",
+      "status": "not_on_air",
       "start_time": "2026-05-22T18:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=h4u_EVOqblY",
       "matched_keywords": [
