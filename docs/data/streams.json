@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-22T22:30:30.048259+09:00",
+  "updated_at": "2026-05-22T23:00:33.950653+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -163,6 +163,19 @@
       ]
     },
     {
+      "id": "01KS7ZFM3X9VWQ8VCVYC1CA6N8",
+      "title": "モイラの雑談配信【20260523】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/CD9gphdfB40/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-22T22:50:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=CD9gphdfB40",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
       "id": "01KS7VSPMCZ8CZZ4NZG404901B",
       "title": "【雑談】これが俺の雑談【にじさんじ】",
       "liver_name": "",
@@ -193,8 +206,8 @@
       "title": "【雑談】寒いのか暖かいのかハッキリしろ！【甲斐田晴/にじさんじ】",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/3C3RxNduP2A/maxresdefault_live.jpg",
-      "status": "on_air",
+      "thumbnail": "https://i.ytimg.com/vi/3C3RxNduP2A/maxresdefault.jpg",
+      "status": "not_on_air",
       "start_time": "2026-05-22T21:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=3C3RxNduP2A",
       "matched_keywords": [
