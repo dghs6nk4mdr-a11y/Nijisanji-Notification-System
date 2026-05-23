@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-23T21:30:25.458787+09:00",
+  "updated_at": "2026-05-23T22:00:31.784665+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -167,7 +167,7 @@
       "title": "【雑談】一周回ってシンプル雑談じゃない？【渚トラウト/にじさんじ】",
       "liver_name": "01J6CCJAK9N4AKCGFZ75P3W147",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/walzveD_XbE/maxresdefault_live.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/walzveD_XbE/maxresdefault.jpg",
       "status": "not_on_air",
       "start_time": "2026-05-23T20:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=walzveD_XbE",
@@ -194,7 +194,7 @@
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/l68qUD4VCK0/maxresdefault_live.jpg",
-      "status": "on_air",
+      "status": "not_on_air",
       "start_time": "2026-05-23T20:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=l68qUD4VCK0",
       "matched_keywords": [
