@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-23T22:00:31.784665+09:00",
+  "updated_at": "2026-05-23T22:30:27.392896+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -155,7 +155,7 @@
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/RFwCcPp_igY/maxresdefault_live.jpg",
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-05-23T22:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=RFwCcPp_igY",
       "matched_keywords": [
@@ -238,6 +238,19 @@
       "url": "https://www.youtube.com/watch?v=OIMuYEG8P1U",
       "matched_keywords": [
         "ラジオ"
+      ]
+    },
+    {
+      "id": "01KSAFANHNAYADM5GPXRFNJBTH",
+      "title": "【朝雑談】朝、あまりに朝【四季凪アキラ/にじさんじ】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/QCf9GoIEcnk/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-24T10:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=QCf9GoIEcnk",
+      "matched_keywords": [
+        "雑談"
       ]
     },
     {
