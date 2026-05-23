@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-23T22:30:27.392896+09:00",
+  "updated_at": "2026-05-23T23:00:31.694346+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -251,6 +251,20 @@
       "url": "https://www.youtube.com/watch?v=QCf9GoIEcnk",
       "matched_keywords": [
         "雑談"
+      ]
+    },
+    {
+      "id": "01KSAGFA7EBF5YDKC89FCKMHJA",
+      "title": "【朝活雑談】朝活のお時間です【ニチアサ！緋八マン！】【にじさんじ/緋八マナ】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/dHQEJhCXmA8/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-24T07:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=dHQEJhCXmA8",
+      "matched_keywords": [
+        "雑談",
+        "朝活"
       ]
     },
     {
