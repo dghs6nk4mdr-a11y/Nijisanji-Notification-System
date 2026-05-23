@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-23T20:30:29.158037+09:00",
+  "updated_at": "2026-05-23T20:46:33.773801+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -147,6 +147,19 @@
       "url": "https://www.youtube.com/watch?v=FDC4iGHfgf4",
       "matched_keywords": [
         "ラジオ"
+      ]
+    },
+    {
+      "id": "01KSA9X42XY9DCA5H3JC4JEGF5",
+      "title": "【 雑談 】 寝る前に自語り#Rei7に聞きたい7の事  【 Rei7 / にじさんじ 】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/RFwCcPp_igY/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-23T22:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=RFwCcPp_igY",
+      "matched_keywords": [
+        "雑談"
       ]
     },
     {
