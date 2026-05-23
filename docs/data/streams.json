@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-23T19:30:29.244274+09:00",
+  "updated_at": "2026-05-23T20:00:34.294230+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -147,6 +147,32 @@
       "url": "https://www.youtube.com/watch?v=FDC4iGHfgf4",
       "matched_keywords": [
         "ラジオ"
+      ]
+    },
+    {
+      "id": "01KSA71AXNQXKYSWKVZSK0KZ5J",
+      "title": "【雑談】一周回ってシンプル雑談じゃない？【渚トラウト/にじさんじ】",
+      "liver_name": "01J6CCJAK9N4AKCGFZ75P3W147",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/walzveD_XbE/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-23T20:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=walzveD_XbE",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
+      "id": "01KSA70RRNTC2H93W3NJ5R7A5N",
+      "title": "【雑談】闇堕ちから救え！みんなのお悩みお焚きあげ配信【健屋花那/にじさんじ】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/cwinWOtF2yI/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-23T20:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=cwinWOtF2yI",
+      "matched_keywords": [
+        "雑談"
       ]
     },
     {
