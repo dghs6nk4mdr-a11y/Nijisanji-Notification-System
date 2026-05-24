@@ -1,115 +1,11 @@
 {
-  "updated_at": "2026-05-24T23:30:28.286296+09:00",
+  "updated_at": "2026-05-25T00:00:32.164888+09:00",
   "keywords": [
     "雑談",
     "朝活",
     "ラジオ"
   ],
   "streams": [
-    {
-      "id": "01KSAKKYJ964FB0C30YANZPSZ8",
-      "title": "【雑談】深夜にまったりチル雑談【渡会雲雀/にじさんじ】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/VthrTfxufcY/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-05-23T23:30:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=VthrTfxufcY",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KSA9X42XY9DCA5H3JC4JEGF5",
-      "title": "【 雑談 】 寝る前に自語り#Rei7に聞きたい7の事  【 Rei7 / にじさんじ 】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/RFwCcPp_igY/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-05-23T22:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=RFwCcPp_igY",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KSA71AXNQXKYSWKVZSK0KZ5J",
-      "title": "【雑談】一周回ってシンプル雑談じゃない？【渚トラウト/にじさんじ】",
-      "liver_name": "01J6CCJAK9N4AKCGFZ75P3W147",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/walzveD_XbE/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-05-23T20:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=walzveD_XbE",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KSA70RRNTC2H93W3NJ5R7A5N",
-      "title": "【雑談】闇堕ちから救え！みんなのお悩みお焚きあげ配信【健屋花那/にじさんじ】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/cwinWOtF2yI/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-05-23T20:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=cwinWOtF2yI",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KSA3A8AZ8D3F9C3BHD6SWZ8Y",
-      "title": "【復活の雑談】配信できる幸せをかみしめに来た漢【魁星/にじさんじ】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/l68qUD4VCK0/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-05-23T20:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=l68qUD4VCK0",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KS94DSD9DDAEB3HM8N7AYNR7",
-      "title": "【朝活】朝活という名前を口実にただ朝マックが食べたいんだ。【塚原大地 / にじさんじ】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/97d6a1Fe5_k/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-05-23T10:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=97d6a1Fe5_k",
-      "matched_keywords": [
-        "朝活"
-      ]
-    },
-    {
-      "id": "01KS7Y29CAAG3MMXJ5ZRFCVVTV",
-      "title": "起きれたら朝雑談！起きれたら朝雑談！起きれたら朝雑談！起きれたら朝雑談！起きれたら朝雑談！起きれたら朝雑談！起きれたら朝雑談！起きれたら朝雑談！起きれたら朝雑談！起きれたら朝雑談！起きれたら朝雑談！",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/eoX2F3qE2-o/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-05-23T08:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=eoX2F3qE2-o",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KS5NDE6PJXK8JNKP1RBYF3NZ",
-      "title": "〖深夜ラジオ〗2026年5月23日(土)のにゃルラジ🌙〖猫屋敷美紅 / にじさんじ〗",
-      "liver_name": "01K2KXFY4WTXD0E42NN67KG73Q",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/OIMuYEG8P1U/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-05-23T00:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=OIMuYEG8P1U",
-      "matched_keywords": [
-        "ラジオ"
-      ]
-    },
     {
       "id": "01KSCZ4QB6EAMSM8V0YP8H3RW8",
       "title": "【おつかれさんご】ココナッツサブレに産んでもらった　ゆるゆる定期雑談！第178回！【周央サンゴ】",
@@ -129,7 +25,7 @@
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/dTIVzMxaxRA/maxresdefault_live.jpg",
-      "status": "on_air",
+      "status": "not_on_air",
       "start_time": "2026-05-24T22:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=dTIVzMxaxRA",
       "matched_keywords": [
@@ -141,8 +37,8 @@
       "title": "【飲酒雑談】夜の海で嫌なこと吐き出しちゃお。僕が受け止めるよ。【えま★おうがすと/にじさんじ所属】",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/wBRPYNdMmXQ/maxresdefault_live.jpg",
-      "status": "on_air",
+      "thumbnail": "https://i.ytimg.com/vi/wBRPYNdMmXQ/maxresdefault.jpg",
+      "status": "not_on_air",
       "start_time": "2026-05-24T20:40:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=wBRPYNdMmXQ",
       "matched_keywords": [
