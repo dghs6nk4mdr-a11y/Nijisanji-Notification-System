@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-24T22:00:33.726045+09:00",
+  "updated_at": "2026-05-24T22:30:28.156999+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -129,7 +129,7 @@
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/dTIVzMxaxRA/maxresdefault_live.jpg",
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-05-24T22:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=dTIVzMxaxRA",
       "matched_keywords": [
@@ -240,6 +240,19 @@
       "matched_keywords": [
         "雑談",
         "朝活"
+      ]
+    },
+    {
+      "id": "01KSD1EK4K6Y3NWP7T865N0BDG",
+      "title": "【朝雑談】おはようみゃみー！ 2026/05/25 #16【白砂あやね / 水面まどか / にじさんじ】",
+      "liver_name": "01KG4FVDPNJXY4TA6Z4B365S5V",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/Kvv9LQAIEwc/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-25T07:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=Kvv9LQAIEwc",
+      "matched_keywords": [
+        "雑談"
       ]
     },
     {
