@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-24T15:30:27.509137+09:00",
+  "updated_at": "2026-05-24T16:00:30.429130+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -111,6 +111,19 @@
       ]
     },
     {
+      "id": "01KSCBZKYH6J2FF1YJ3KVVF072",
+      "title": "【振り返り雑談】誕生日ライブ大感謝!!ライブ構成やダンス、オリ曲などのあれこれのお話！！【倉持めると/にじさんじ】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/KLdAYJ2vvYg/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-24T18:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=KLdAYJ2vvYg",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
       "id": "01KSC27MQ5GB0ERZ70EKBDM82Z",
       "title": "【ラジオ】ジョー・力一の空昼ブランコ #94【にじさんじ】",
       "liver_name": "",
@@ -128,8 +141,8 @@
       "title": "【#にじフェス】まったりDANCE LIVEを同時視聴＆振り返り雑談🔥【ぽとなる】",
       "liver_name": "01G8WAJSW14QG60M36YBRZ06C7",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/Re7KN_chvHk/maxresdefault_live.jpg",
-      "status": "on_air",
+      "thumbnail": "https://i.ytimg.com/vi/Re7KN_chvHk/maxresdefault.jpg",
+      "status": "not_on_air",
       "start_time": "2026-05-24T13:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=Re7KN_chvHk",
       "matched_keywords": [
