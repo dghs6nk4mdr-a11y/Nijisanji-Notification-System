@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-24T21:30:28.266121+09:00",
+  "updated_at": "2026-05-24T22:00:33.726045+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -226,6 +226,20 @@
       "url": "https://www.youtube.com/watch?v=zk6fll4oN7A",
       "matched_keywords": [
         "ラジオ"
+      ]
+    },
+    {
+      "id": "01KSD0JXPMJFDCH59PNPAS1M6R",
+      "title": "【朝活雑談】週の初めはやっぱり朝活【早乙女ベリー/にじさんじ】",
+      "liver_name": "01J6CCJAK9N4AKCGFZ75P3W147",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/aRD3YxC0XcM/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-25T08:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=aRD3YxC0XcM",
+      "matched_keywords": [
+        "雑談",
+        "朝活"
       ]
     },
     {
