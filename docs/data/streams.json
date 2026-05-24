@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-24T20:00:31.550812+09:00",
+  "updated_at": "2026-05-24T20:30:25.230718+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -111,12 +111,25 @@
       ]
     },
     {
+      "id": "01KSCVZXMW67J7QQZGSBAK483J",
+      "title": "【飲酒雑談】夜の海で嫌なこと吐き出しちゃお。僕が受け止めるよ。【えま★おうがすと/にじさんじ所属】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/wBRPYNdMmXQ/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-24T20:40:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=wBRPYNdMmXQ",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
       "id": "01KSCCJ085GDXEE1P2Y5P82522",
       "title": "【振り返り雑談】誕生日ライブ大感謝!!ライブ構成やダンス、オリ曲などのあれこれのお話！！【倉持めると/にじさんじ】",
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/pH4-8nDqsxI/maxresdefault_live.jpg",
-      "status": "on_air",
+      "status": "not_on_air",
       "start_time": "2026-05-24T18:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=pH4-8nDqsxI",
       "matched_keywords": [
