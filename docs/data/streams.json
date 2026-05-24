@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-25T08:00:33.788753+09:00",
+  "updated_at": "2026-05-25T08:30:25.804484+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -130,7 +130,7 @@
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/S4IxY3Hlcuk/maxresdefault_live.jpg",
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-05-25T08:05:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=S4IxY3Hlcuk",
       "matched_keywords": [
@@ -143,7 +143,7 @@
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/g6sTt6lz2VA/maxresdefault_live.jpg",
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-05-25T08:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=g6sTt6lz2VA",
       "matched_keywords": [
@@ -156,7 +156,7 @@
       "liver_name": "01J6CCJAK9N4AKCGFZ75P3W147",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/aRD3YxC0XcM/maxresdefault_live.jpg",
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-05-25T08:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=aRD3YxC0XcM",
       "matched_keywords": [
@@ -209,7 +209,7 @@
       "liver_name": "01KG4FVDPNJXY4TA6Z4B365S5V",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/Kvv9LQAIEwc/maxresdefault_live.jpg",
-      "status": "on_air",
+      "status": "not_on_air",
       "start_time": "2026-05-25T07:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=Kvv9LQAIEwc",
       "matched_keywords": [
@@ -234,8 +234,8 @@
       "title": "〖 朝活☀️〗おはよ～！朝のおしゃべりしよ💬 #shorts 〖 にじさんじ / 夜牛詩乃 〗",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/rwAluU-C2ko/maxresdefault_live.jpg",
-      "status": "on_air",
+      "thumbnail": "https://i.ytimg.com/vi/rwAluU-C2ko/maxresdefault.jpg",
+      "status": "not_on_air",
       "start_time": "2026-05-25T06:45:49.000+09:00",
       "url": "https://www.youtube.com/watch?v=rwAluU-C2ko",
       "matched_keywords": [
@@ -247,7 +247,7 @@
       "title": "【 朝活 / 縦型 】月曜日一緒に乗り越えよう雑談【 皇れお / にじさんじ 】",
       "liver_name": "01K5BBDKSPBQHW595ESQWN8BBP",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/4uoKhbi8N3Q/maxresdefault_live.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/4uoKhbi8N3Q/maxresdefault.jpg",
       "status": "not_on_air",
       "start_time": "2026-05-25T06:30:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=4uoKhbi8N3Q",
