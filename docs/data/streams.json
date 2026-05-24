@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-25T00:00:32.164888+09:00",
+  "updated_at": "2026-05-25T00:30:27.232025+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -125,16 +125,16 @@
       ]
     },
     {
-      "id": "01KSD5QDGYHRZYEABPW6C8ETQ3",
-      "title": "【朝雑談】みんな今日も頑張りましょう月曜朝雑談【オリバー・エバンス/にじさんじ】",
+      "id": "01KSD8K9JJ73XFD0Y5G9E7JJRE",
+      "title": "【ドクターマリオ】朝活💊寝起きのぼやぼやドクターもねち🩺【にじさんじ/梢桃音】",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/pZz0Q9P_A68/maxresdefault_live.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/g6sTt6lz2VA/maxresdefault_live.jpg",
       "status": "not_on_air",
-      "start_time": "2026-05-25T19:30:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=pZz0Q9P_A68",
+      "start_time": "2026-05-25T08:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=g6sTt6lz2VA",
       "matched_keywords": [
-        "雑談"
+        "朝活"
       ]
     },
     {
@@ -149,6 +149,19 @@
       "matched_keywords": [
         "雑談",
         "朝活"
+      ]
+    },
+    {
+      "id": "01KSD5QDGYHRZYEABPW6C8ETQ3",
+      "title": "【朝雑談】みんな今日も頑張りましょう月曜朝雑談【オリバー・エバンス/にじさんじ】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/pZz0Q9P_A68/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-25T07:30:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=pZz0Q9P_A68",
+      "matched_keywords": [
+        "雑談"
       ]
     },
     {
@@ -197,7 +210,7 @@
       "liver_name": "01K2KXFY4WTXD0E42NN67KG73Q",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/HGQrvk_QGZg/maxresdefault_live.jpg",
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-05-25T00:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=HGQrvk_QGZg",
       "matched_keywords": [
