@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-25T06:00:30.191123+09:00",
+  "updated_at": "2026-05-25T06:30:28.066558+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -162,6 +162,19 @@
       "url": "https://www.youtube.com/watch?v=pZz0Q9P_A68",
       "matched_keywords": [
         "雑談"
+      ]
+    },
+    {
+      "id": "01KSDXRT5335AVFZ101MBKNTKB",
+      "title": "【朝活】おはすず5月25日（月）＃532【七瀬すず菜/にじさんじ】",
+      "liver_name": "01J6CCJAK9N4AKCGFZ75P3W147",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/9Ff-l0Zl-aI/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-25T07:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=9Ff-l0Zl-aI",
+      "matched_keywords": [
+        "朝活"
       ]
     },
     {
