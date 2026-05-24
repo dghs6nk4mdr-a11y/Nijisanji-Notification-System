@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-25T03:30:28.514418+09:00",
+  "updated_at": "2026-05-25T04:00:34.657767+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -162,6 +162,19 @@
       "url": "https://www.youtube.com/watch?v=pZz0Q9P_A68",
       "matched_keywords": [
         "雑談"
+      ]
+    },
+    {
+      "id": "01KSDM9X0P1GBCG15EKSZZSJTP",
+      "title": "【朝活】おはよ！出欠を取ります！歌ってみたを出すなどしました【にじさんじ/町田ちま】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/sShj7RhjYl4/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-25T07:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=sShj7RhjYl4",
+      "matched_keywords": [
+        "朝活"
       ]
     },
     {
