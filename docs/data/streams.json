@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-25T19:30:27.751752+09:00",
+  "updated_at": "2026-05-25T20:00:36.326629+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -122,6 +122,32 @@
       "url": "https://www.youtube.com/watch?v=zk6fll4oN7A",
       "matched_keywords": [
         "ラジオ"
+      ]
+    },
+    {
+      "id": "01KSFC3XX44AZK6TX353K9R4TX",
+      "title": "【雑談】fellas",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": null,
+      "status": "not_on_air",
+      "start_time": "2026-05-25T20:30:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=vSNBZNz9NIY",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
+      "id": "01KSFBSWNDJR5FWFSW4848CMXW",
+      "title": "《 メンバー限定 》無軌道の月曜夜をお送りいたします📶《 雑談 》",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/S1HcEO8cPno/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-25T20:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=S1HcEO8cPno",
+      "matched_keywords": [
+        "雑談"
       ]
     },
     {
