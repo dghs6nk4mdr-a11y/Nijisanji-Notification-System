@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-25T09:00:33.634821+09:00",
+  "updated_at": "2026-05-25T09:30:27.244433+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -143,7 +143,7 @@
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/g6sTt6lz2VA/maxresdefault_live.jpg",
-      "status": "on_air",
+      "status": "not_on_air",
       "start_time": "2026-05-25T08:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=g6sTt6lz2VA",
       "matched_keywords": [
@@ -156,7 +156,7 @@
       "liver_name": "01J6CCJAK9N4AKCGFZ75P3W147",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/aRD3YxC0XcM/maxresdefault_live.jpg",
-      "status": "on_air",
+      "status": "not_on_air",
       "start_time": "2026-05-25T08:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=aRD3YxC0XcM",
       "matched_keywords": [
@@ -195,8 +195,8 @@
       "title": "【朝活】おはよ！出欠を取ります！歌ってみたを出すなどしました【にじさんじ/町田ちま】",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/sShj7RhjYl4/maxresdefault_live.jpg",
-      "status": "on_air",
+      "thumbnail": "https://i.ytimg.com/vi/sShj7RhjYl4/maxresdefault.jpg",
+      "status": "not_on_air",
       "start_time": "2026-05-25T07:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=sShj7RhjYl4",
       "matched_keywords": [
