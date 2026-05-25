@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-25T21:30:31.064708+09:00",
+  "updated_at": "2026-05-25T21:50:50.276493+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -130,7 +130,7 @@
       "liver_name": "01K5BBDKSPBQHW595ESQWN8BBP",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/ZmWByf4l2pQ/maxresdefault_live.jpg",
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-05-25T21:30:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=ZmWByf4l2pQ",
       "matched_keywords": [
@@ -143,7 +143,7 @@
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": null,
-      "status": "on_air",
+      "status": "not_on_air",
       "start_time": "2026-05-25T20:30:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=vSNBZNz9NIY",
       "matched_keywords": [
@@ -155,8 +155,8 @@
       "title": "《 メンバー限定 》無軌道の月曜夜をお送りいたします📶《 雑談 》",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/S1HcEO8cPno/maxresdefault_live.jpg",
-      "status": "on_air",
+      "thumbnail": "https://i.ytimg.com/vi/S1HcEO8cPno/maxresdefault.jpg",
+      "status": "not_on_air",
       "start_time": "2026-05-25T20:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=S1HcEO8cPno",
       "matched_keywords": [
