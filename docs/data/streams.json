@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-26T02:00:35.656293+09:00",
+  "updated_at": "2026-05-26T02:30:27.584237+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -240,6 +240,19 @@
       "url": "https://www.youtube.com/watch?v=LCo13_-svbw",
       "matched_keywords": [
         "朝活"
+      ]
+    },
+    {
+      "id": "01KSG2E5DSP8WFCEBB3ZDXZD60",
+      "title": "〖深夜ラジオ〗2026年5月27日(水)のにゃルラジ🌙〖猫屋敷美紅 / にじさんじ〗",
+      "liver_name": "01K2KXFY4WTXD0E42NN67KG73Q",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/wM2AfsnCEqY/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-27T00:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=wM2AfsnCEqY",
+      "matched_keywords": [
+        "ラジオ"
       ]
     }
   ]
