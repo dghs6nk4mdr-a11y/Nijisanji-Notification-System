@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-26T23:00:38.413609+09:00",
+  "updated_at": "2026-05-26T23:30:33.999560+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -209,7 +209,7 @@
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/TBAQ62iNyMo/maxresdefault_live.jpg",
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-05-26T23:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=TBAQ62iNyMo",
       "matched_keywords": [
@@ -235,7 +235,7 @@
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/6Fh0Az9xtkQ/maxresdefault_live.jpg",
-      "status": "on_air",
+      "status": "not_on_air",
       "start_time": "2026-05-26T22:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=6Fh0Az9xtkQ",
       "matched_keywords": [
@@ -260,7 +260,7 @@
       "title": "ちょい雑談│元気ですか、こちらは元気です【綺沙良/にじさんじ】",
       "liver_name": "01J6CCJAKFW1BRQ4RMTBTCJRXP",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/_Kgw-LLp0oo/maxresdefault_live.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/_Kgw-LLp0oo/maxresdefault.jpg",
       "status": "not_on_air",
       "start_time": "2026-05-26T20:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=_Kgw-LLp0oo",
