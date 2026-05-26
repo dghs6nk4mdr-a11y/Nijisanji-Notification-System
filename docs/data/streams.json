@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-26T12:00:32.371255+09:00",
+  "updated_at": "2026-05-26T12:30:27.455222+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -204,11 +204,24 @@
       ]
     },
     {
+      "id": "01KSH4F76TJ7P0GVG2675DX38E",
+      "title": "本物【お昼雑談🌸🌙】気になってた味！日本のシーフードヌードルを食べてみます！一緒にお昼しよう？🍜【ナセラ/にじさんじ】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/p_r6sZcCAAQ/maxresdefault_live.jpg",
+      "status": "on_air",
+      "start_time": "2026-05-26T12:10:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=p_r6sZcCAAQ",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
       "id": "01KSGZWPT39M1F73KVCCJS6YEV",
       "title": "【お昼雑談🌸🌙】気になってた味！日本のシーフードヌードルを食べてみます！一緒にお昼しよう？🍜【ナセラ/にじさんじ】",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/mxNMoQxiVQQ/maxresdefault_live.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/mxNMoQxiVQQ/maxresdefault.jpg",
       "status": "not_on_air",
       "start_time": "2026-05-26T12:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=mxNMoQxiVQQ",
