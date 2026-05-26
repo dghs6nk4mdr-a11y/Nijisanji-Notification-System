@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-27T00:00:36.539406+09:00",
+  "updated_at": "2026-05-27T00:30:31.722884+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -150,6 +150,19 @@
       ]
     },
     {
+      "id": "01KSJE8BBCF2EM4VXTQ70GBAYC",
+      "title": "ドラム雑談｜圧倒的リハビリでオリオンをなぞってみたりなど【にじさんじ / 五木左京】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/Tc800UXkWUY/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-27T19:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=Tc800UXkWUY",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
       "id": "01KSES7BY6365M915MBC2AV3AZ",
       "title": "【#朝活 】+ #トモコレ💛週末まで半分来ましたよ！ファイト！気を付けていってらっしゃいませ💕【ナセラ/にじさんじ🌸🌙】",
       "liver_name": "",
@@ -168,7 +181,7 @@
       "liver_name": "01K2KXFY4WTXD0E42NN67KG73Q",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/wM2AfsnCEqY/maxresdefault_live.jpg",
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-05-27T00:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=wM2AfsnCEqY",
       "matched_keywords": [
