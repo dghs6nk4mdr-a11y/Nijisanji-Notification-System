@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-26T19:30:29.923507+09:00",
+  "updated_at": "2026-05-26T22:00:38.370985+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -204,11 +204,50 @@
       ]
     },
     {
+      "id": "01KSJ5C667H4KXM3HVJKKHF8HT",
+      "title": "【雑談】雑と少しのお知らせ【セラフ・ダズルガーデン/にじさんじ】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/6Fh0Az9xtkQ/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-26T22:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=6Fh0Az9xtkQ",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
+      "id": "01KSJ1CD2WWS53377BG8X6H2H4",
+      "title": "【緊急】スイッチ2開封しつつ雑談",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/--6xFAwQ9fI/maxresdefault_live.jpg",
+      "status": "on_air",
+      "start_time": "2026-05-26T20:40:25.000+09:00",
+      "url": "https://www.youtube.com/watch?v=--6xFAwQ9fI",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
+      "id": "01KSHXYBB9CRXNPDP0M1TEZ2A3",
+      "title": "ちょい雑談│元気ですか、こちらは元気です【綺沙良/にじさんじ】",
+      "liver_name": "01J6CCJAKFW1BRQ4RMTBTCJRXP",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/_Kgw-LLp0oo/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-26T20:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=_Kgw-LLp0oo",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
       "id": "01KSHN248BJC4YV8R5ZX11E3WV",
       "title": "【雑談】手紙を書きます【北小路ヒスイ/にじさんじ】",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/gCX7c4sxlV0/maxresdefault_live.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/gCX7c4sxlV0/maxresdefault.jpg",
       "status": "not_on_air",
       "start_time": "2026-05-26T17:05:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=gCX7c4sxlV0",
