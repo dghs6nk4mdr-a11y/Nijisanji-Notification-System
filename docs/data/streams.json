@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-27T19:30:29.641603+09:00",
+  "updated_at": "2026-05-27T20:00:36.899297+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -142,7 +142,7 @@
       "liver_name": "01KG4FVDPNJXY4TA6Z4B365S5V",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/jBi_IHXoJmY/maxresdefault_live.jpg",
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-05-27T19:30:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=jBi_IHXoJmY",
       "matched_keywords": [
@@ -167,8 +167,8 @@
       "title": "【雑談】トゲトゲ注意 恋バナしようぜ【北小路ヒスイ/にじさんじ】",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/mP-DkST0IqI/maxresdefault_live.jpg",
-      "status": "on_air",
+      "thumbnail": "https://i.ytimg.com/vi/mP-DkST0IqI/maxresdefault.jpg",
+      "status": "not_on_air",
       "start_time": "2026-05-27T15:40:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=mP-DkST0IqI",
       "matched_keywords": [
