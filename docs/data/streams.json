@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-27T18:30:29.794841+09:00",
+  "updated_at": "2026-05-27T19:00:36.549439+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -134,6 +134,19 @@
       "url": "https://www.youtube.com/watch?v=gskaql925v0",
       "matched_keywords": [
         "ラジオ"
+      ]
+    },
+    {
+      "id": "01KSMD6HST2F136PSN39S83WMD",
+      "title": "【夜ご飯雑談】ハンバーガーを食べよう🤍【白砂あやね / にじさんじ】",
+      "liver_name": "01KG4FVDPNJXY4TA6Z4B365S5V",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/jBi_IHXoJmY/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-27T19:30:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=jBi_IHXoJmY",
+      "matched_keywords": [
+        "雑談"
       ]
     },
     {
