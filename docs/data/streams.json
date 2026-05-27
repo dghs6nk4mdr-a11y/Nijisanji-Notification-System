@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-27T12:00:34.550476+09:00",
+  "updated_at": "2026-05-27T12:30:26.643100+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -155,7 +155,7 @@
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/a7OEBMIT138/maxresdefault_live.jpg",
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-05-27T12:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=a7OEBMIT138",
       "matched_keywords": [
@@ -180,8 +180,8 @@
       "title": "【#朝活 】+ #トモコレ💛週末まで半分来ましたよ！ファイト！気を付けていってらっしゃいませ💕【ナセラ/にじさんじ🌸🌙】",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/LCo13_-svbw/maxresdefault_live.jpg",
-      "status": "on_air",
+      "thumbnail": "https://i.ytimg.com/vi/LCo13_-svbw/maxresdefault.jpg",
+      "status": "not_on_air",
       "start_time": "2026-05-27T07:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=LCo13_-svbw",
       "matched_keywords": [
