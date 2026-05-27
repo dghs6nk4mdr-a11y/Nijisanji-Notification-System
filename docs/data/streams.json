@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-27T11:00:33.074693+09:00",
+  "updated_at": "2026-05-27T11:30:27.444597+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -145,6 +145,19 @@
       "status": "not_on_air",
       "start_time": "2026-05-27T19:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=Tc800UXkWUY",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
+      "id": "01KSKKE7AE01Z419NSHH7JFFZ2",
+      "title": "【飯食う】伝説級幻昼雑談【叢雲カゲツ/にじさんじ】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/a7OEBMIT138/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-27T12:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=a7OEBMIT138",
       "matched_keywords": [
         "雑談"
       ]
