@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-28T06:30:29.249628+09:00",
+  "updated_at": "2026-05-28T07:00:36.542668+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -95,6 +95,19 @@
       "url": "https://www.youtube.com/watch?v=wM2AfsnCEqY",
       "matched_keywords": [
         "ラジオ"
+      ]
+    },
+    {
+      "id": "01KSNP3KZMNQ5SQGXGHVCPADHR",
+      "title": "【朝活】おはすず5月28日（木）＃535【七瀬すず菜/にじさんじ】",
+      "liver_name": "01J6CCJAK9N4AKCGFZ75P3W147",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/0Q5k9VxGBnw/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-28T07:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=0Q5k9VxGBnw",
+      "matched_keywords": [
+        "朝活"
       ]
     },
     {
