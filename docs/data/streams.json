@@ -1,102 +1,11 @@
 {
-  "updated_at": "2026-05-28T23:30:36.673226+09:00",
+  "updated_at": "2026-05-29T00:00:38.207187+09:00",
   "keywords": [
     "雑談",
     "朝活",
     "ラジオ"
   ],
   "streams": [
-    {
-      "id": "01KSMD6HST2F136PSN39S83WMD",
-      "title": "【夜ご飯雑談】ハンバーガーを食べよう🤍【白砂あやね / にじさんじ】",
-      "liver_name": "01KG4FVDPNJXY4TA6Z4B365S5V",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/jBi_IHXoJmY/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-05-27T19:30:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=jBi_IHXoJmY",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KSJE8BBCF2EM4VXTQ70GBAYC",
-      "title": "ドラム雑談｜圧倒的リハビリでオリオンをなぞってみたりなど【にじさんじ / 五木左京】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/Tc800UXkWUY/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-05-27T19:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=Tc800UXkWUY",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KSM2WA6783TSKZT3HSCPNE1M",
-      "title": "【雑談】トゲトゲ注意 恋バナしようぜ【北小路ヒスイ/にじさんじ】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/mP-DkST0IqI/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-05-27T15:40:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=mP-DkST0IqI",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KSKKE7AE01Z419NSHH7JFFZ2",
-      "title": "【飯食う】伝説級幻昼雑談【叢雲カゲツ/にじさんじ】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/a7OEBMIT138/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-05-27T12:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=a7OEBMIT138",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KSK3PVPQKRGF08H0BZFJY73B",
-      "title": "【朝活】おはすず5月27日（水）＃534【七瀬すず菜/にじさんじ】",
-      "liver_name": "01J6CCJAK9N4AKCGFZ75P3W147",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/KF6np2SUFrw/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-05-27T07:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=KF6np2SUFrw",
-      "matched_keywords": [
-        "朝活"
-      ]
-    },
-    {
-      "id": "01KSES7BY6365M915MBC2AV3AZ",
-      "title": "【#朝活 】+ #トモコレ💛週末まで半分来ましたよ！ファイト！気を付けていってらっしゃいませ💕【ナセラ/にじさんじ🌸🌙】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/LCo13_-svbw/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-05-27T07:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=LCo13_-svbw",
-      "matched_keywords": [
-        "朝活"
-      ]
-    },
-    {
-      "id": "01KSG2E5DSP8WFCEBB3ZDXZD60",
-      "title": "〖深夜ラジオ〗2026年5月27日(水)のにゃルラジ🌙〖猫屋敷美紅 / にじさんじ〗",
-      "liver_name": "01K2KXFY4WTXD0E42NN67KG73Q",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/wM2AfsnCEqY/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-05-27T00:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=wM2AfsnCEqY",
-      "matched_keywords": [
-        "ラジオ"
-      ]
-    },
     {
       "id": "01KSQD9WQZMDY20KX2VT7MRWGN",
       "title": "【雑談】60分で閉店Garden🐇久しぶりに開店してみた【雪城眞尋/にじさんじ】",
