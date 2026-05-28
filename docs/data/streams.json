@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-29T00:00:38.207187+09:00",
+  "updated_at": "2026-05-29T00:30:33.725602+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -11,8 +11,8 @@
       "title": "【雑談】60分で閉店Garden🐇久しぶりに開店してみた【雪城眞尋/にじさんじ】",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/fcUq567YX-c/maxresdefault_live.jpg",
-      "status": "on_air",
+      "thumbnail": "https://i.ytimg.com/vi/fcUq567YX-c/maxresdefault.jpg",
+      "status": "not_on_air",
       "start_time": "2026-05-28T23:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=fcUq567YX-c",
       "matched_keywords": [
@@ -138,6 +138,19 @@
       ]
     },
     {
+      "id": "01KSQHWC0SDY67BC13VS1KSWWT",
+      "title": "【朝活#377】今週末は30度を超えるらしいよ、夏❓【雪城眞尋/にじさんじ】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/Y2L-QfEsxAU/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-29T07:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=Y2L-QfEsxAU",
+      "matched_keywords": [
+        "朝活"
+      ]
+    },
+    {
       "id": "01KSQ9ACTZS89VB3VQREWB1N2F",
       "title": "【朝活】３Dお披露目行ってきますのおはすず5月29日（金）＃536【七瀬すず菜/にじさんじ】",
       "liver_name": "01J6CCJAK9N4AKCGFZ75P3W147",
@@ -164,29 +177,29 @@
       ]
     },
     {
-      "id": "01KSN57GZDFCNS99TNV8R716SH",
-      "title": "〖深夜ラジオ〗2026年5月29日(金)のにゃルラジ🌙〖猫屋敷美紅 / にじさんじ〗",
-      "liver_name": "01K2KXFY4WTXD0E42NN67KG73Q",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/bsTacIeuCRg/maxresdefault_live.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-05-29T00:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=bsTacIeuCRg",
-      "matched_keywords": [
-        "ラジオ"
-      ]
-    },
-    {
       "id": "01KSJCGHHB8DR8GVNV848C5R47",
       "title": "【 雑談 】ましまろ食べるぞ【 竜胆 尊┆にじさんじ 】",
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/lXOcEgRjDuU/maxresdefault_live.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-05-29T00:00:00.000+09:00",
+      "status": "on_air",
+      "start_time": "2026-05-29T00:05:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=lXOcEgRjDuU",
       "matched_keywords": [
         "雑談"
+      ]
+    },
+    {
+      "id": "01KSN57GZDFCNS99TNV8R716SH",
+      "title": "〖深夜ラジオ〗2026年5月29日(金)のにゃルラジ🌙〖猫屋敷美紅 / にじさんじ〗",
+      "liver_name": "01K2KXFY4WTXD0E42NN67KG73Q",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/bsTacIeuCRg/maxresdefault_live.jpg",
+      "status": "on_air",
+      "start_time": "2026-05-29T00:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=bsTacIeuCRg",
+      "matched_keywords": [
+        "ラジオ"
       ]
     }
   ]
