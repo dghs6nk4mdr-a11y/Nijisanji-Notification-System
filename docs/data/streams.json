@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-28T22:30:35.745269+09:00",
+  "updated_at": "2026-05-28T23:00:42.266199+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -98,12 +98,25 @@
       ]
     },
     {
+      "id": "01KSQD9WQZMDY20KX2VT7MRWGN",
+      "title": "【雑談】60分で閉店Garden🐇久しぶりに開店してみた【雪城眞尋/にじさんじ】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/fcUq567YX-c/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-28T23:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=fcUq567YX-c",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
       "id": "01KSQBKKMDGA0H5KAH8M2NGK6Y",
       "title": "【雑談】げんきですか【ルンルン/にじさんじ】",
       "liver_name": "01J6CCJAKFW1BRQ4RMTBTCJRXP",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/-gw4Q4oOjqc/maxresdefault_live.jpg",
-      "status": "on_air",
+      "status": "not_on_air",
       "start_time": "2026-05-28T22:15:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=-gw4Q4oOjqc",
       "matched_keywords": [
