@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-28T22:00:41.493779+09:00",
+  "updated_at": "2026-05-28T22:30:35.745269+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -95,6 +95,19 @@
       "url": "https://www.youtube.com/watch?v=wM2AfsnCEqY",
       "matched_keywords": [
         "ラジオ"
+      ]
+    },
+    {
+      "id": "01KSQBKKMDGA0H5KAH8M2NGK6Y",
+      "title": "【雑談】げんきですか【ルンルン/にじさんじ】",
+      "liver_name": "01J6CCJAKFW1BRQ4RMTBTCJRXP",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/-gw4Q4oOjqc/maxresdefault_live.jpg",
+      "status": "on_air",
+      "start_time": "2026-05-28T22:15:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=-gw4Q4oOjqc",
+      "matched_keywords": [
+        "雑談"
       ]
     },
     {
