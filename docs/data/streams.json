@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-28T17:30:34.038916+09:00",
+  "updated_at": "2026-05-28T18:00:40.568757+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -98,12 +98,25 @@
       ]
     },
     {
+      "id": "01KSPWDXFJ7T1B2SQ63Y3AJFJ9",
+      "title": "久々にデイリー雑談！※アーカイブメン限※",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/kGwDnklBjDA/maxresdefault_live.jpg",
+      "status": "on_air",
+      "start_time": "2026-05-28T17:50:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=kGwDnklBjDA",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
       "id": "01KSPRPK7VBM0BFF72MJQ6NTB3",
       "title": "【雑談】オーストラリアのマックにテリヤキバーガーがきたので食べてみる【にじさんじ/矢車りね】",
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/lJsAOjFvbIo/maxresdefault_live.jpg",
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-05-28T17:30:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=lJsAOjFvbIo",
       "matched_keywords": [
@@ -128,8 +141,8 @@
       "title": "【雑談】お便りは詳細まで書いてくれ【北小路ヒスイ/にじさんじ】",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/SQKQFI-1WQU/maxresdefault_live.jpg",
-      "status": "on_air",
+      "thumbnail": "https://i.ytimg.com/vi/SQKQFI-1WQU/maxresdefault.jpg",
+      "status": "not_on_air",
       "start_time": "2026-05-28T15:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=SQKQFI-1WQU",
       "matched_keywords": [
