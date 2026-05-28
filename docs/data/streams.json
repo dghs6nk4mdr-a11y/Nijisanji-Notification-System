@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-28T23:00:42.266199+09:00",
+  "updated_at": "2026-05-28T23:30:36.673226+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -103,7 +103,7 @@
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/fcUq567YX-c/maxresdefault_live.jpg",
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-05-28T23:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=fcUq567YX-c",
       "matched_keywords": [
@@ -115,7 +115,7 @@
       "title": "【雑談】げんきですか【ルンルン/にじさんじ】",
       "liver_name": "01J6CCJAKFW1BRQ4RMTBTCJRXP",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/-gw4Q4oOjqc/maxresdefault_live.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/-gw4Q4oOjqc/maxresdefault.jpg",
       "status": "not_on_air",
       "start_time": "2026-05-28T22:15:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=-gw4Q4oOjqc",
@@ -212,6 +212,20 @@
       "url": "https://www.youtube.com/watch?v=c_6ReiNUajc",
       "matched_keywords": [
         "ラジオ"
+      ]
+    },
+    {
+      "id": "01KSQFKYT294N2MTH6BQZ0184J",
+      "title": "【お絵描き雑談しらさくが】朝活🤍マヨネーズはやっぱり万能だった【 白砂あやね / にじさんじ 】",
+      "liver_name": "01KG4FVDPNJXY4TA6Z4B365S5V",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/jfw2FDI9yH0/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-29T07:30:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=jfw2FDI9yH0",
+      "matched_keywords": [
+        "雑談",
+        "朝活"
       ]
     },
     {
