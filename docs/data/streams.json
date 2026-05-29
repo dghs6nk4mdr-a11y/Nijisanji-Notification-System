@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-29T08:30:25.642306+09:00",
+  "updated_at": "2026-05-29T09:00:33.028163+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -129,7 +129,7 @@
       "liver_name": "01KG4FVDPNJXY4TA6Z4B365S5V",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/jfw2FDI9yH0/maxresdefault_live.jpg",
-      "status": "on_air",
+      "status": "not_on_air",
       "start_time": "2026-05-29T07:30:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=jfw2FDI9yH0",
       "matched_keywords": [
@@ -142,8 +142,8 @@
       "title": "【朝活#377/にじ3D】今週末は30度を超えるらしいよ、夏❓【雪城眞尋/にじさんじ】",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/Y2L-QfEsxAU/maxresdefault_live.jpg",
-      "status": "on_air",
+      "thumbnail": "https://i.ytimg.com/vi/Y2L-QfEsxAU/maxresdefault.jpg",
+      "status": "not_on_air",
       "start_time": "2026-05-29T07:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=Y2L-QfEsxAU",
       "matched_keywords": [
