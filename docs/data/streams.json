@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-30T02:00:39.812807+09:00",
+  "updated_at": "2026-05-30T02:30:29.973941+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -122,6 +122,19 @@
       "url": "https://www.youtube.com/watch?v=bsTacIeuCRg",
       "matched_keywords": [
         "ラジオ"
+      ]
+    },
+    {
+      "id": "01KSTB4X7TD3AR723STQ65ZPSP",
+      "title": "【雑談】５月を振り返るゆったり雑談💛💛【 にじさんじフミ 】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/Wl2udaKZW3E/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-30T22:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=Wl2udaKZW3E",
+      "matched_keywords": [
+        "雑談"
       ]
     },
     {
