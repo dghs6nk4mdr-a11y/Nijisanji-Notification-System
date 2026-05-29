@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-30T00:00:37.856949+09:00",
+  "updated_at": "2026-05-30T00:30:30.638962+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -138,13 +138,26 @@
       ]
     },
     {
+      "id": "01KST5EH7YBS2037CPV18NE5DD",
+      "title": "【 雑談 】 ちる雑談～。機材ちょっと変えた。とか。【 にじさんじ / 蝸堂みかる 】",
+      "liver_name": "01K2KXFY4WTXD0E42NN67KG73Q",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/069cfxLOMm8/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-30T00:45:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=069cfxLOMm8",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
       "id": "01KSQR6KF86J95C1XKGRJHK6MZ",
       "title": "〖深夜ラジオ〗2026年5月30日(土)のにゃルラジ🌙〖猫屋敷美紅 / にじさんじ〗",
       "liver_name": "01K2KXFY4WTXD0E42NN67KG73Q",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/U4JEQzI3WzA/maxresdefault_live.jpg",
       "status": "not_on_air",
-      "start_time": "2026-05-30T01:00:00.000+09:00",
+      "start_time": "2026-05-30T00:30:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=U4JEQzI3WzA",
       "matched_keywords": [
         "ラジオ"
