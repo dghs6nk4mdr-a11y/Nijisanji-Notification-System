@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-29T13:00:31.486325+09:00",
+  "updated_at": "2026-05-29T13:30:28.105526+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -128,8 +128,8 @@
       "title": "【歌/雑談】話したい！アコギ触も触りたい！🎸【ラトナ・プティ/にじさんじ】",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/A5duJTGfT-Y/maxresdefault_live.jpg",
-      "status": "on_air",
+      "thumbnail": "https://i.ytimg.com/vi/A5duJTGfT-Y/maxresdefault.jpg",
+      "status": "not_on_air",
       "start_time": "2026-05-29T11:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=A5duJTGfT-Y",
       "matched_keywords": [
@@ -182,7 +182,7 @@
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/FMOd_bMKgWA/maxresdefault_live.jpg",
-      "status": "on_air",
+      "status": "not_on_air",
       "start_time": "2026-05-29T07:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=FMOd_bMKgWA",
       "matched_keywords": [
