@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-31T01:00:34.870209+09:00",
+  "updated_at": "2026-05-31T01:30:30.164338+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -11,8 +11,8 @@
       "title": "【深夜雑談】深夜のチルいお姉さんだよ～🎵【にじさんじ/山神カルタ】",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/PGWUrOG70a8/maxresdefault_live.jpg",
-      "status": "on_air",
+      "thumbnail": "https://i.ytimg.com/vi/PGWUrOG70a8/maxresdefault.jpg",
+      "status": "not_on_air",
       "start_time": "2026-05-30T23:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=PGWUrOG70a8",
       "matched_keywords": [
@@ -24,7 +24,7 @@
       "title": "【雑談】爆感謝【北小路ヒスイ/にじさんじ】",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/EfOkG9AgULg/maxresdefault_live.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/EfOkG9AgULg/maxresdefault.jpg",
       "status": "not_on_air",
       "start_time": "2026-05-30T23:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=EfOkG9AgULg",
@@ -164,12 +164,25 @@
       ]
     },
     {
+      "id": "01KSWTZS8RNDV8041ZB6MT6QB2",
+      "title": "【雑談】真夜中２５時の寝起き雑談。【 にじさんじ / ミラン・ケストレル】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/yptoOT5pxjI/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-31T01:30:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=yptoOT5pxjI",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
       "id": "01KST9QV0PBJBNXP3ZTW50PHWA",
       "title": "〖深夜ラジオ〗2026年5月31日(日)のにゃルラジ🌙〖猫屋敷美紅 / にじさんじ〗",
       "liver_name": "01K2KXFY4WTXD0E42NN67KG73Q",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/5k4cTL3IDCQ/maxresdefault_live.jpg",
-      "status": "on_air",
+      "status": "not_on_air",
       "start_time": "2026-05-31T00:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=5k4cTL3IDCQ",
       "matched_keywords": [
