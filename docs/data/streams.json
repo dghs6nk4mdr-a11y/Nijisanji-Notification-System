@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-31T00:30:26.822123+09:00",
+  "updated_at": "2026-05-31T00:55:22.292834+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -25,7 +25,7 @@
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/EfOkG9AgULg/maxresdefault_live.jpg",
-      "status": "on_air",
+      "status": "not_on_air",
       "start_time": "2026-05-30T23:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=EfOkG9AgULg",
       "matched_keywords": [
