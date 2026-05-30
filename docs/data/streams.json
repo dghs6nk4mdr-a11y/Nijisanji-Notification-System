@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-30T22:00:35.244246+09:00",
+  "updated_at": "2026-05-30T22:30:29.619332+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -122,6 +122,19 @@
       "url": "https://www.youtube.com/watch?v=bsTacIeuCRg",
       "matched_keywords": [
         "ラジオ"
+      ]
+    },
+    {
+      "id": "01KSWG3CG2NMRPGS6CVBS4SC8N",
+      "title": "【深夜雑談】深夜のチルいお姉さんだよ～🎵【にじさんじ/山神カルタ】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/PGWUrOG70a8/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-30T23:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=PGWUrOG70a8",
+      "matched_keywords": [
+        "雑談"
       ]
     },
     {
