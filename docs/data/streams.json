@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-30T21:00:30.152526+09:00",
+  "updated_at": "2026-05-30T21:30:27.392295+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -143,7 +143,7 @@
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/DIXCD7AUNpM/maxresdefault_live.jpg",
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-05-30T21:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=DIXCD7AUNpM",
       "matched_keywords": [
@@ -156,7 +156,7 @@
       "liver_name": "01GKJSEBF10DJYQSR86V8JGN2Q",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/U6KKyzHmRpo/maxresdefault_live.jpg",
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-05-30T21:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=U6KKyzHmRpo",
       "matched_keywords": [
@@ -181,8 +181,8 @@
       "title": "🌊【雑談】にじフェスと日本でのお話したい【NIJISANJI】",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/CjNiS2pllrY/maxresdefault_live.jpg",
-      "status": "on_air",
+      "thumbnail": "https://i.ytimg.com/vi/CjNiS2pllrY/maxresdefault.jpg",
+      "status": "not_on_air",
       "start_time": "2026-05-30T19:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=CjNiS2pllrY",
       "matched_keywords": [
@@ -239,6 +239,20 @@
       "url": "https://www.youtube.com/watch?v=U4JEQzI3WzA",
       "matched_keywords": [
         "ラジオ"
+      ]
+    },
+    {
+      "id": "01KSWCCRDRXD783G7CE7TYM7JQ",
+      "title": "【朝活雑談】さようなら5月、邪魔すんなら帰って6月－【ニチアサ！緋八マン！】【にじさんじ/緋八マナ】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/fH6tzBRi1oo/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-31T07:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=fH6tzBRi1oo",
+      "matched_keywords": [
+        "雑談",
+        "朝活"
       ]
     },
     {
