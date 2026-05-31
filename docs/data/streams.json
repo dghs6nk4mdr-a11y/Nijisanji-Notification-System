@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-01T06:30:26.300714+09:00",
+  "updated_at": "2026-06-01T07:00:32.021497+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -148,6 +148,19 @@
       "url": "https://www.youtube.com/watch?v=5k4cTL3IDCQ",
       "matched_keywords": [
         "ラジオ"
+      ]
+    },
+    {
+      "id": "01KSZZZK5GEK5S8ZTCYVZ9A4CR",
+      "title": "【朝活】おはすず6月1日（月）＃537【七瀬すず菜/にじさんじ】",
+      "liver_name": "01J6CCJAK9N4AKCGFZ75P3W147",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/1Dfh_0Qca-c/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-06-01T07:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=1Dfh_0Qca-c",
+      "matched_keywords": [
+        "朝活"
       ]
     },
     {
