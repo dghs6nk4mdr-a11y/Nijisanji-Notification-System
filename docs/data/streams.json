@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-31T16:00:33.057429+09:00",
+  "updated_at": "2026-05-31T16:30:28.702709+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -121,6 +121,19 @@
       "url": "https://www.youtube.com/watch?v=U4JEQzI3WzA",
       "matched_keywords": [
         "ラジオ"
+      ]
+    },
+    {
+      "id": "01KSYE6KV59J9PMH6F0AY3A764",
+      "title": "【雑談】五月でしたな【ルンルン/にじさんじ】",
+      "liver_name": "01J6CCJAKFW1BRQ4RMTBTCJRXP",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/VYpNmpFJWP4/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-31T16:30:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=VYpNmpFJWP4",
+      "matched_keywords": [
+        "雑談"
       ]
     },
     {
