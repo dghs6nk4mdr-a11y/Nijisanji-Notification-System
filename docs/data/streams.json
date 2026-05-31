@@ -1,141 +1,11 @@
 {
-  "updated_at": "2026-05-31T23:30:30.278371+09:00",
+  "updated_at": "2026-06-01T00:00:30.828703+09:00",
   "keywords": [
     "雑談",
     "朝活",
     "ラジオ"
   ],
   "streams": [
-    {
-      "id": "01KSWG3CG2NMRPGS6CVBS4SC8N",
-      "title": "【深夜雑談】深夜のチルいお姉さんだよ～🎵【にじさんじ/山神カルタ】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/PGWUrOG70a8/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-05-30T23:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=PGWUrOG70a8",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KSVJ24JC3MJJ58E0Z0N48RNM",
-      "title": "【雑談】爆感謝【北小路ヒスイ/にじさんじ】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/EfOkG9AgULg/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-05-30T23:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=EfOkG9AgULg",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KSTB4X7TD3AR723STQ65ZPSP",
-      "title": "【雑談】５月を振り返るゆったり雑談💛💛【 にじさんじフミ 】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/Wl2udaKZW3E/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-05-30T23:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=Wl2udaKZW3E",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KSW42F21SM1VWE7YTYKF4JD1",
-      "title": "【告知雑談】にじさんじ初だ...むぎもびっくりしているお知らせ！【 にじさんじ / 家長むぎ 】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/DIXCD7AUNpM/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-05-30T21:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=DIXCD7AUNpM",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KST6WAJSRY8ZVA0K1DJY7Y21",
-      "title": "【 雑談 / 対談 】紹介アポくださいっ！ / 十一人目：狂蘭メロコ様【 にじさんじ / 五木左京 】 #紹介アポ",
-      "liver_name": "01GKJSEBF10DJYQSR86V8JGN2Q",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/U6KKyzHmRpo/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-05-30T21:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=U6KKyzHmRpo",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KSW37F8D779MAQ099QFTB0Y5",
-      "title": "🌊【雑談】にじフェスと日本でのお話したい【NIJISANJI】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/CjNiS2pllrY/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-05-30T19:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=CjNiS2pllrY",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KST3ECV5TT8CEN5HXX2ZBPTX",
-      "title": "【Chat/雑談】Celebratory Reception - Our second cover!!! 歌ってみたお祝いパーティー！【NIJISANJI EN | Seible】",
-      "liver_name": "01GHE21YHHT7MGCSEMXAN4GVHG",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/zlOyiiWN5l4/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-05-30T14:15:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=zlOyiiWN5l4",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KSVCX9RBE1TEACYSPBZKA40B",
-      "title": "【雑談】公園遊具Tier1:ターザンロープ【長尾景/にじさんじ】【#ながおしゃべり】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/R7Y18gMe6Xs/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-05-30T12:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=R7Y18gMe6Xs",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KST5EH7YBS2037CPV18NE5DD",
-      "title": "【 雑談 】 ちる雑談～。機材ちょっと変えた。とか。【 にじさんじ / 蝸堂みかる 】",
-      "liver_name": "01K2KXFY4WTXD0E42NN67KG73Q",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/069cfxLOMm8/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-05-30T00:45:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=069cfxLOMm8",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KSQR6KF86J95C1XKGRJHK6MZ",
-      "title": "〖深夜ラジオ〗2026年5月30日(土)のにゃルラジ🌙〖猫屋敷美紅 / にじさんじ〗",
-      "liver_name": "01K2KXFY4WTXD0E42NN67KG73Q",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/U4JEQzI3WzA/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-05-30T00:30:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=U4JEQzI3WzA",
-      "matched_keywords": [
-        "ラジオ"
-      ]
-    },
     {
       "id": "01KSYXN5K4C8KSMMJ2XD7DGWHG",
       "title": "【夜ご飯雑談】勝利のケーキとにっこり雑談🤍【 白砂あやね / にじさんじ 】",
@@ -154,8 +24,8 @@
       "title": "【雑談】雑談の時ってみんなここに何書いてるんだろう【戌亥とこ/にじさんじ】",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/9p8BFvwyr9U/maxresdefault_live.jpg",
-      "status": "on_air",
+      "thumbnail": "https://i.ytimg.com/vi/9p8BFvwyr9U/maxresdefault.jpg",
+      "status": "not_on_air",
       "start_time": "2026-05-31T21:30:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=9p8BFvwyr9U",
       "matched_keywords": [
@@ -167,7 +37,7 @@
       "title": "【雑談】誕生日を終えた後の振り返り雑談やってみた。【花籠つばさ / にじさんじ】",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/Sv7VmmjMO0U/maxresdefault_live.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/Sv7VmmjMO0U/maxresdefault.jpg",
       "status": "not_on_air",
       "start_time": "2026-05-31T20:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=Sv7VmmjMO0U",
