@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-31T17:00:33.282770+09:00",
+  "updated_at": "2026-05-31T17:30:29.141820+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -124,6 +124,19 @@
       ]
     },
     {
+      "id": "01KSYHMMPPB8220TP3Q87BFM5E",
+      "title": "【雑談】誕生日を終えた後の振り返り雑談やってみた。【花籠つばさ / にじさんじ】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/Sv7VmmjMO0U/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-31T20:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=Sv7VmmjMO0U",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
       "id": "01KSYE6KV59J9PMH6F0AY3A764",
       "title": "【雑談】五月でしたな【ルンルン/にじさんじ】",
       "liver_name": "01J6CCJAKFW1BRQ4RMTBTCJRXP",
@@ -154,8 +167,8 @@
       "title": "【ラジオ】ジョー・力一の空昼ブランコ #95【にじさんじ】",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/K_dzMDiNTbc/maxresdefault_live.jpg",
-      "status": "on_air",
+      "thumbnail": "https://i.ytimg.com/vi/K_dzMDiNTbc/maxresdefault.jpg",
+      "status": "not_on_air",
       "start_time": "2026-05-31T14:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=K_dzMDiNTbc",
       "matched_keywords": [
