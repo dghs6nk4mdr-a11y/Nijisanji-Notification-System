@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-31T11:00:34.305323+09:00",
+  "updated_at": "2026-05-31T11:30:26.834795+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -137,6 +137,19 @@
       ]
     },
     {
+      "id": "01KSXXVWF2SBPQPQXKDM01AA6Z",
+      "title": "【ラジオ】ジョー・力一の空昼ブランコ #95【にじさんじ】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/K_dzMDiNTbc/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-05-31T14:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=K_dzMDiNTbc",
+      "matched_keywords": [
+        "ラジオ"
+      ]
+    },
+    {
       "id": "01KSWN8FYJWX0YR6VDWDXMSF3M",
       "title": "【朝雑談】ほぼ夏ですね、これ【四季凪アキラ/にじさんじ】",
       "liver_name": "",
@@ -154,8 +167,8 @@
       "title": "【朝活雑談】さようなら5月、邪魔すんなら帰って6月－【ニチアサ！緋八マン！】【にじさんじ/緋八マナ】",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/fH6tzBRi1oo/maxresdefault_live.jpg",
-      "status": "on_air",
+      "thumbnail": "https://i.ytimg.com/vi/fH6tzBRi1oo/maxresdefault.jpg",
+      "status": "not_on_air",
       "start_time": "2026-05-31T07:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=fH6tzBRi1oo",
       "matched_keywords": [
