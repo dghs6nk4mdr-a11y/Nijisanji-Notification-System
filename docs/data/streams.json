@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-01T08:00:31.550504+09:00",
+  "updated_at": "2026-06-01T08:30:24.856833+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -152,11 +152,11 @@
     },
     {
       "id": "01KT0486H84NZ1YVBZXFYY9ZK8",
-      "title": "【朝活】おはよう！！！！！！！！！！！！！！！！【にじさんじ/町田ちま】",
+      "title": "【朝活】6月最初のおはようを聞かせて～！！！【にじさんじ/町田ちま】",
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/V3qE4A0VcFk/maxresdefault_live.jpg",
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-06-01T08:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=V3qE4A0VcFk",
       "matched_keywords": [
@@ -182,7 +182,7 @@
       "liver_name": "01KG4FVDPQ5XJKP79RVD4SVM6R",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/6iFoaUyXXUg/maxresdefault_live.jpg",
-      "status": "on_air",
+      "status": "not_on_air",
       "start_time": "2026-06-01T07:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=6iFoaUyXXUg",
       "matched_keywords": [
