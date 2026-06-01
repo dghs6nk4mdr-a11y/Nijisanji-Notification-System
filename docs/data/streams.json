@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-02T05:30:28.029087+09:00",
+  "updated_at": "2026-06-02T06:00:35.264618+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -158,6 +158,19 @@
       "status": "not_on_air",
       "start_time": "2026-06-02T06:30:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=ogJmksELL5M",
+      "matched_keywords": [
+        "朝活"
+      ]
+    },
+    {
+      "id": "01KT2F7GD7FTY8T2HDTW8NRDF2",
+      "title": "【 朝活 】おはよう？【ソフィア・ヴァレンタイン / にじさんじ】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/hWXkPhx6klA/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-06-02T06:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=hWXkPhx6klA",
       "matched_keywords": [
         "朝活"
       ]
