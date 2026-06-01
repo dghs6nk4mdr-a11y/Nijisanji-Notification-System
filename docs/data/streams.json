@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-02T06:30:29.003349+09:00",
+  "updated_at": "2026-06-02T07:00:34.013004+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -150,12 +150,25 @@
       ]
     },
     {
+      "id": "01KT2J399ZT8A8CRX6EQHF5SVY",
+      "title": "【朝活】おはすず6月2日（火）＃538【七瀬すず菜/にじさんじ】",
+      "liver_name": "01J6CCJAK9N4AKCGFZ75P3W147",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/Z7LaAmY_hhU/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-06-02T07:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=Z7LaAmY_hhU",
+      "matched_keywords": [
+        "朝活"
+      ]
+    },
+    {
       "id": "01KT1D6BQ2643N60C1YDZ2NQ7G",
       "title": "【 朝活 】火曜日もおはようさせてよ😉【 皇れお / にじさんじ 】",
       "liver_name": "01K5BBDKSPBQHW595ESQWN8BBP",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/ogJmksELL5M/maxresdefault_live.jpg",
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-06-02T06:30:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=ogJmksELL5M",
       "matched_keywords": [
