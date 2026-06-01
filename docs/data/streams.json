@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-02T01:30:34.598031+09:00",
+  "updated_at": "2026-06-02T02:00:38.349213+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -24,7 +24,7 @@
       "title": "【 ゆるかわ雑談 】6月さん迎えに来たってよ～ほら～準備して～【 篠宮ゆの / すぷれあ / にじさんじ 】",
       "liver_name": "01K5BBDKSPBQHW595ESQWN8BBP",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/ULoPzGksVN4/maxresdefault_live.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/ULoPzGksVN4/maxresdefault.jpg",
       "status": "not_on_air",
       "start_time": "2026-06-01T23:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=ULoPzGksVN4",
@@ -37,8 +37,8 @@
       "title": "𓊆 雑談 𓊇 6月はじまったって噂できいたよ…！！ 𓊆 雲母たまこ ┊ にじさんじ 𓊇",
       "liver_name": "01J6CCJAK9N4AKCGFZ75P3W147",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/QrqHEBnYwDY/maxresdefault_live.jpg",
-      "status": "on_air",
+      "thumbnail": "https://i.ytimg.com/vi/QrqHEBnYwDY/maxresdefault.jpg",
+      "status": "not_on_air",
       "start_time": "2026-06-01T23:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=QrqHEBnYwDY",
       "matched_keywords": [
@@ -137,6 +137,19 @@
       ]
     },
     {
+      "id": "01KT0VQTXW4PYAMZEPQJQQVVEC",
+      "title": "〖雑談コラボ〗告知あり！るり先輩とまったりおしゃべり💬〖猫屋敷美紅 / 栞葉るり / にじさんじ〗",
+      "liver_name": "01HFQXJKKXPNEGVXE6GKNCH6EX",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/Q4F8P1MAszs/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-06-02T19:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=Q4F8P1MAszs",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
       "id": "01KT1D6BQ2643N60C1YDZ2NQ7G",
       "title": "【 朝活 】火曜日もおはようさせてよ😉【 皇れお / にじさんじ 】",
       "liver_name": "01K5BBDKSPBQHW595ESQWN8BBP",
@@ -168,9 +181,22 @@
       "liver_name": "01K2KXFY4WTXD0E42NN67KG73Q",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/Pt4UzCwobvU/maxresdefault_live.jpg",
-      "status": "on_air",
+      "status": "not_on_air",
       "start_time": "2026-06-02T00:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=Pt4UzCwobvU",
+      "matched_keywords": [
+        "ラジオ"
+      ]
+    },
+    {
+      "id": "01KT20Y22PQ7PG8V26EJWPQQ8N",
+      "title": "〖深夜ラジオ〗2026年6月3日(水)のにゃルラジ🌙〖猫屋敷美紅 / にじさんじ〗",
+      "liver_name": "01K2KXFY4WTXD0E42NN67KG73Q",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/uMesgWzoFR4/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-06-03T00:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=uMesgWzoFR4",
       "matched_keywords": [
         "ラジオ"
       ]
