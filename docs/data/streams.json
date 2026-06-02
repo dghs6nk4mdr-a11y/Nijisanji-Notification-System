@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-02T22:00:38.703779+09:00",
+  "updated_at": "2026-06-02T22:30:38.116440+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -124,6 +124,19 @@
       ]
     },
     {
+      "id": "01KT46R1EP3EPJTA1WWY5A0RWC",
+      "title": "【 雑談 】すぷれあオリ曲でたってよ！！！！！！by案内人I【にじさんじ / 城瀬いすみ / すぷれあ 】",
+      "liver_name": "01K5BBDKSPBQHW595ESQWN8BBP",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/i1YCaCYDIf8/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-06-02T23:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=i1YCaCYDIf8",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
       "id": "01KT425V081YE7G26PH79MVEEG",
       "title": "【 雑談 】誕生日カウントダウン🍰🎁明日の献立みんなで決めよう【小清水 透 / にじさんじ】",
       "liver_name": "01K41YXJKFS56EEZWBV5QX5H8G",
@@ -137,27 +150,27 @@
       ]
     },
     {
-      "id": "01KT45WKK009DH1PJ5JX3CEHKS",
-      "title": "【雑談】ビワイチの話とか諸々の話とか【にじさんじ】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/IzUJmmLF93g/maxresdefault_live.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-06-02T22:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=IzUJmmLF93g",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
       "id": "01KT45WHG4BQB6ZCGZZMKAZW3J",
       "title": "【 雑談 】さすがに少し話したくなっちゃったぜ【 皇れお / にじさんじ 】",
       "liver_name": "01K5BBDKSPBQHW595ESQWN8BBP",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/QQ1sR-P7_vo/maxresdefault_live.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-06-02T22:00:00.000+09:00",
+      "status": "on_air",
+      "start_time": "2026-06-02T22:15:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=QQ1sR-P7_vo",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
+      "id": "01KT45WKK009DH1PJ5JX3CEHKS",
+      "title": "【雑談】ビワイチの話とか諸々の話とか【にじさんじ】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/IzUJmmLF93g/maxresdefault_live.jpg",
+      "status": "on_air",
+      "start_time": "2026-06-02T22:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=IzUJmmLF93g",
       "matched_keywords": [
         "雑談"
       ]
@@ -168,7 +181,7 @@
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/nVVWQgBru0s/maxresdefault_live.jpg",
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-06-02T22:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=nVVWQgBru0s",
       "matched_keywords": [
@@ -206,8 +219,8 @@
       "title": "【雑談】ファミレス四半期報告会　2026年度春版【周央サンゴ】",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/5LpZwAUWx1s/maxresdefault_live.jpg",
-      "status": "on_air",
+      "thumbnail": "https://i.ytimg.com/vi/5LpZwAUWx1s/maxresdefault.jpg",
+      "status": "not_on_air",
       "start_time": "2026-06-02T19:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=5LpZwAUWx1s",
       "matched_keywords": [
