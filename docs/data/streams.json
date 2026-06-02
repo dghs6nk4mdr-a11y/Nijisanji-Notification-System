@@ -1,128 +1,11 @@
 {
-  "updated_at": "2026-06-02T23:30:38.124179+09:00",
+  "updated_at": "2026-06-03T00:00:51.339657+09:00",
   "keywords": [
     "雑談",
     "朝活",
     "ラジオ"
   ],
   "streams": [
-    {
-      "id": "01KT1RWZDBP4A6YXVTTAT1PZYF",
-      "title": "【雑談】先週は本当に頑張ったなあ【健屋花那/にじさんじ】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/CtnHuCW38h0/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-06-01T23:15:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=CtnHuCW38h0",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KT1Q6T8T45A9C8W9819JCCBE",
-      "title": "【 ゆるかわ雑談 】6月さん迎えに来たってよ～ほら～準備して～【 篠宮ゆの / すぷれあ / にじさんじ 】",
-      "liver_name": "01K5BBDKSPBQHW595ESQWN8BBP",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/ULoPzGksVN4/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-06-01T23:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=ULoPzGksVN4",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KT1P213C6X4BT7W4RRZ7DBRM",
-      "title": "𓊆 雑談 𓊇 6月はじまったって噂できいたよ…！！ 𓊆 雲母たまこ ┊ にじさんじ 𓊇",
-      "liver_name": "01J6CCJAK9N4AKCGFZ75P3W147",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/QrqHEBnYwDY/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-06-01T23:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=QrqHEBnYwDY",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KT19F9DWX89Q9XJ1W6C6ERNK",
-      "title": "【雑談】本であったりシールであったり【一橋綾人/にじさんじ】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/36bDXlpDVis/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-06-01T21:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=36bDXlpDVis",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KT0486H84NZ1YVBZXFYY9ZK8",
-      "title": "【朝活】6月最初のおはようを聞かせて～！！！【にじさんじ/町田ちま】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/V3qE4A0VcFk/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-06-01T08:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=V3qE4A0VcFk",
-      "matched_keywords": [
-        "朝活"
-      ]
-    },
-    {
-      "id": "01KSZZZK5GEK5S8ZTCYVZ9A4CR",
-      "title": "【朝活】おはすず6月1日（月）＃537【七瀬すず菜/にじさんじ】",
-      "liver_name": "01J6CCJAK9N4AKCGFZ75P3W147",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/1Dfh_0Qca-c/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-06-01T07:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=1Dfh_0Qca-c",
-      "matched_keywords": [
-        "朝活"
-      ]
-    },
-    {
-      "id": "01KSZD3HN8QBTP7Q2BNJN9A3R3",
-      "title": "【 朝雑談 / おはようみゃみー 】みんな違って、みんな変 2026/06/01 #17【白砂あやね / 水",
-      "liver_name": "01KG4FVDPQ5XJKP79RVD4SVM6R",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/6iFoaUyXXUg/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-06-01T07:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=6iFoaUyXXUg",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KSS3NQSBFN2MMC7Y0GMB42J2",
-      "title": "【#朝活 】+ #トモコレ💛6月の初朝活！今月もよろしくね！ゴミ曜日だけど頑張っていってらっしゃいませ💕【ナセラ/にじさんじ🌸🌙】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/wC38gZuWoAs/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-06-01T07:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=wC38gZuWoAs",
-      "matched_keywords": [
-        "朝活"
-      ]
-    },
-    {
-      "id": "01KSWWDPY39MJNW4F1MTCA4C44",
-      "title": "〖深夜ラジオ〗2026年6月1日(月)のにゃルラジ🌙〖猫屋敷美紅 / にじさんじ〗",
-      "liver_name": "01K2KXFY4WTXD0E42NN67KG73Q",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/E5s57lIO-fg/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-06-01T00:15:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=E5s57lIO-fg",
-      "matched_keywords": [
-        "ラジオ"
-      ]
-    },
     {
       "id": "01KT46R1EP3EPJTA1WWY5A0RWC",
       "title": "【 雑談 】すぷれあオリ曲でたってよ！！！！！！by案内人I【にじさんじ / 城瀬いすみ / すぷれあ 】",
@@ -154,7 +37,7 @@
       "title": "【 雑談 】さすがに少し話したくなっちゃったぜ【 皇れお / にじさんじ 】",
       "liver_name": "01K5BBDKSPBQHW595ESQWN8BBP",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/QQ1sR-P7_vo/maxresdefault_live.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/QQ1sR-P7_vo/maxresdefault.jpg",
       "status": "not_on_air",
       "start_time": "2026-06-02T22:15:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=QQ1sR-P7_vo",
@@ -353,6 +236,19 @@
       "status": "not_on_air",
       "start_time": "2026-06-03T07:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=L8uzZXp7f-M",
+      "matched_keywords": [
+        "朝活"
+      ]
+    },
+    {
+      "id": "01KT4C5YCXDM8KT24PDY13ZZSZ",
+      "title": "【 朝活 】台風もはね返すまったり時間はいかが？😉🌞【 皇れお / にじさんじ 】",
+      "liver_name": "01K5BBDKSPBQHW595ESQWN8BBP",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/oJZh-kQ7ku4/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-06-03T06:30:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=oJZh-kQ7ku4",
       "matched_keywords": [
         "朝活"
       ]
