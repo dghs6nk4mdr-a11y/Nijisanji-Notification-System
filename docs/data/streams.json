@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-03T00:00:51.339657+09:00",
+  "updated_at": "2026-06-03T00:30:40.108592+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -12,7 +12,7 @@
       "liver_name": "01K5BBDKSPBQHW595ESQWN8BBP",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/i1YCaCYDIf8/maxresdefault_live.jpg",
-      "status": "on_air",
+      "status": "not_on_air",
       "start_time": "2026-06-02T23:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=i1YCaCYDIf8",
       "matched_keywords": [
@@ -50,8 +50,8 @@
       "title": "【雑談】ビワイチの話とか諸々の話とか【にじさんじ】",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/IzUJmmLF93g/maxresdefault_live.jpg",
-      "status": "on_air",
+      "thumbnail": "https://i.ytimg.com/vi/IzUJmmLF93g/maxresdefault.jpg",
+      "status": "not_on_air",
       "start_time": "2026-06-02T22:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=IzUJmmLF93g",
       "matched_keywords": [
@@ -63,8 +63,8 @@
       "title": "【🔴雑談】感想「あっ、リンパとか…言わないんだ…」【にじさんじ/アンジュ・カトリーナ】",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/nVVWQgBru0s/maxresdefault_live.jpg",
-      "status": "on_air",
+      "thumbnail": "https://i.ytimg.com/vi/nVVWQgBru0s/maxresdefault.jpg",
+      "status": "not_on_air",
       "start_time": "2026-06-02T22:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=nVVWQgBru0s",
       "matched_keywords": [
@@ -254,12 +254,25 @@
       ]
     },
     {
+      "id": "01KT4E5S28RDB227E4FRTYZ9BP",
+      "title": "【雑談】ふつりふつりとそれはやってくる。夏。ああ忌まわしくも恋しい。【 にじさんじ / ミラン・ケストレル】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/_-ie6hZ5tlU/maxresdefault_live.jpg",
+      "status": "on_air",
+      "start_time": "2026-06-03T00:15:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=_-ie6hZ5tlU",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
       "id": "01KT20Y22PQ7PG8V26EJWPQQ8N",
       "title": "〖深夜ラジオ〗2026年6月3日(水)のにゃルラジ🌙〖猫屋敷美紅 / にじさんじ〗",
       "liver_name": "01K2KXFY4WTXD0E42NN67KG73Q",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/uMesgWzoFR4/maxresdefault_live.jpg",
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-06-03T00:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=uMesgWzoFR4",
       "matched_keywords": [
