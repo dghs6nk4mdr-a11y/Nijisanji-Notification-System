@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-02T23:00:44.654403+09:00",
+  "updated_at": "2026-06-02T23:30:38.124179+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -129,7 +129,7 @@
       "liver_name": "01K5BBDKSPBQHW595ESQWN8BBP",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/i1YCaCYDIf8/maxresdefault_live.jpg",
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-06-02T23:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=i1YCaCYDIf8",
       "matched_keywords": [
@@ -142,7 +142,7 @@
       "liver_name": "01K41YXJKFS56EEZWBV5QX5H8G",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/ufWzoKCfZjQ/maxresdefault_live.jpg",
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-06-02T23:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=ufWzoKCfZjQ",
       "matched_keywords": [
@@ -155,7 +155,7 @@
       "liver_name": "01K5BBDKSPBQHW595ESQWN8BBP",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/QQ1sR-P7_vo/maxresdefault_live.jpg",
-      "status": "on_air",
+      "status": "not_on_air",
       "start_time": "2026-06-02T22:15:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=QQ1sR-P7_vo",
       "matched_keywords": [
@@ -206,7 +206,7 @@
       "title": "【 雑談 】 お誕生日ありがとう！🎉 感謝の振り返り雑談！ 【 にじさんじ / 蝸堂みかる 】",
       "liver_name": "01K2KXFY4WTXD0E42NN67KG73Q",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/z7zxQ7h4_BU/maxresdefault_live.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/z7zxQ7h4_BU/maxresdefault.jpg",
       "status": "not_on_air",
       "start_time": "2026-06-02T21:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=z7zxQ7h4_BU",
@@ -329,6 +329,19 @@
       "url": "https://www.youtube.com/watch?v=Pt4UzCwobvU",
       "matched_keywords": [
         "ラジオ"
+      ]
+    },
+    {
+      "id": "01KT4B0EEWDXAPH4A956Z4XQVF",
+      "title": "【朝活#378】台風なのに今日も頑張るみなさ～～ん！！コロッケ食え【雪城眞尋/にじさんじ】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/ivneUeDXL6Q/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-06-03T07:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=ivneUeDXL6Q",
+      "matched_keywords": [
+        "朝活"
       ]
     },
     {
