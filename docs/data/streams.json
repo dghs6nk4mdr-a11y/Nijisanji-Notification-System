@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-02T21:30:35.525893+09:00",
+  "updated_at": "2026-06-02T22:00:17.284767+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -137,6 +137,32 @@
       ]
     },
     {
+      "id": "01KT45WKK009DH1PJ5JX3CEHKS",
+      "title": "【雑談】ビワイチの話とか諸々の話とか【にじさんじ】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/IzUJmmLF93g/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-06-02T22:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=IzUJmmLF93g",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
+      "id": "01KT45WHG4BQB6ZCGZZMKAZW3J",
+      "title": "【 雑談 】さすがに少し話したくなっちゃったぜ【 皇れお / にじさんじ 】",
+      "liver_name": "01K5BBDKSPBQHW595ESQWN8BBP",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/QQ1sR-P7_vo/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-06-02T22:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=QQ1sR-P7_vo",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
       "id": "01KT44DVRXHA7YAPWW8YPYMC62",
       "title": "【🔴雑談】感想「あっ、リンパとか…言わないんだ…」【にじさんじ/アンジュ・カトリーナ】",
       "liver_name": "",
@@ -145,6 +171,19 @@
       "status": "not_on_air",
       "start_time": "2026-06-02T22:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=nVVWQgBru0s",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
+      "id": "01KT43JGAWQ4N72G04X4ESQGNV",
+      "title": "【雑談】2日連続で雑談だっていい【健屋花那/にじさんじ】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/crnl2MOwrRM/maxresdefault_live.jpg",
+      "status": "on_air",
+      "start_time": "2026-06-02T22:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=crnl2MOwrRM",
       "matched_keywords": [
         "雑談"
       ]
