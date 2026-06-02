@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-03T05:00:43.188153+09:00",
+  "updated_at": "2026-06-03T05:30:31.335504+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -210,6 +210,19 @@
       "status": "not_on_air",
       "start_time": "2026-06-02T00:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=Pt4UzCwobvU",
+      "matched_keywords": [
+        "ラジオ"
+      ]
+    },
+    {
+      "id": "01KT4ZME4WWKBP7N6EF6VAYWVF",
+      "title": "【 ドカ食い昼めしラジオ #19 】 初のオリジナル曲記念に、ご当地マック全種食べ比べたって良い【 篠宮ゆの / すぷれあ / にじさんじ 】",
+      "liver_name": "01K5BBDKSPBQHW595ESQWN8BBP",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/_VVscy9IHHg/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-06-03T12:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=_VVscy9IHHg",
       "matched_keywords": [
         "ラジオ"
       ]
