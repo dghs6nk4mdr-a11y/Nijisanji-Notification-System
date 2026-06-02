@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-02T21:00:38.822313+09:00",
+  "updated_at": "2026-06-02T21:30:35.525893+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -137,12 +137,25 @@
       ]
     },
     {
+      "id": "01KT44DVRXHA7YAPWW8YPYMC62",
+      "title": "【🔴雑談】感想「あっ、リンパとか…言わないんだ…」【にじさんじ/アンジュ・カトリーナ】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/nVVWQgBru0s/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-06-02T22:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=nVVWQgBru0s",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
       "id": "01KT41A0CTWXRX847KGAF3X46J",
       "title": "【 雑談 】 お誕生日ありがとう！🎉 感謝の振り返り雑談！ 【 にじさんじ / 蝸堂みかる 】",
       "liver_name": "01K2KXFY4WTXD0E42NN67KG73Q",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/z7zxQ7h4_BU/maxresdefault_live.jpg",
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-06-02T21:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=z7zxQ7h4_BU",
       "matched_keywords": [
