@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-03T21:30:33.481347+09:00",
+  "updated_at": "2026-06-03T22:00:43.035774+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -246,7 +246,7 @@
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/AfbawfaR958/maxresdefault_live.jpg",
-      "status": "on_air",
+      "status": "not_on_air",
       "start_time": "2026-06-03T20:15:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=AfbawfaR958",
       "matched_keywords": [
@@ -258,8 +258,8 @@
       "title": "▶︎▷ 雑談｜(大嘘)美容室のシャンプーってマイボトル制なんですよ。｜夕陽リリ￤にじさんじ",
       "liver_name": "01GHAYG7HKX3CM741NB363668C",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/5YRS-SNLig8/maxresdefault_live.jpg",
-      "status": "on_air",
+      "thumbnail": "https://i.ytimg.com/vi/5YRS-SNLig8/maxresdefault.jpg",
+      "status": "not_on_air",
       "start_time": "2026-06-03T20:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=5YRS-SNLig8",
       "matched_keywords": [
