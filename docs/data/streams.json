@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-04T00:00:42.237566+09:00",
+  "updated_at": "2026-06-04T00:30:42.355954+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -212,6 +212,19 @@
       "url": "https://www.youtube.com/watch?v=uMesgWzoFR4",
       "matched_keywords": [
         "ラジオ"
+      ]
+    },
+    {
+      "id": "01KT714TJJW8W7FKC25Q11WGCP",
+      "title": "朝活｜二度寝注意💤おはよう言いにおいで！【綺沙良/にじさんじ】",
+      "liver_name": "01J6CCJAKFW1BRQ4RMTBTCJRXP",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/r-_t_JaB3s8/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-06-04T08:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=r-_t_JaB3s8",
+      "matched_keywords": [
+        "朝活"
       ]
     },
     {
