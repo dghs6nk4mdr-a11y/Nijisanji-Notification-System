@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-03T20:30:31.566603+09:00",
+  "updated_at": "2026-06-03T21:00:39.901688+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -233,7 +233,7 @@
       "liver_name": "01J6CCJAKFW1BRQ4RMTBTCJRXP",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/QxoSFw5ulNc/maxresdefault_live.jpg",
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-06-03T21:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=QxoSFw5ulNc",
       "matched_keywords": [
@@ -420,6 +420,20 @@
       "url": "https://www.youtube.com/watch?v=uMesgWzoFR4",
       "matched_keywords": [
         "ラジオ"
+      ]
+    },
+    {
+      "id": "01KT6MHZYPN0KQY7SY2BB0P50V",
+      "title": "【朝活雑談】気が付いたら6月だった！！！【早乙女ベリー/にじさんじ】",
+      "liver_name": "01J6CCJAK9N4AKCGFZ75P3W147",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/C1mMNb3hKoQ/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-06-04T08:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=C1mMNb3hKoQ",
+      "matched_keywords": [
+        "雑談",
+        "朝活"
       ]
     },
     {
