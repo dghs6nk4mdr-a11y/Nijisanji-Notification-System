@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-03T13:30:28.561948+09:00",
+  "updated_at": "2026-06-03T14:00:32.424248+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -232,8 +232,8 @@
       "title": "【雑談】バタフライはバグ【長尾景/にじさんじ】【#ながおしゃべり】",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/NC2sRIw4O5k/maxresdefault_live.jpg",
-      "status": "on_air",
+      "thumbnail": "https://i.ytimg.com/vi/NC2sRIw4O5k/maxresdefault.jpg",
+      "status": "not_on_air",
       "start_time": "2026-06-03T12:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=NC2sRIw4O5k",
       "matched_keywords": [
@@ -259,7 +259,7 @@
       "liver_name": "01K5BBDKSPBQHW595ESQWN8BBP",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/_VVscy9IHHg/maxresdefault_live.jpg",
-      "status": "on_air",
+      "status": "not_on_air",
       "start_time": "2026-06-03T12:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=_VVscy9IHHg",
       "matched_keywords": [
