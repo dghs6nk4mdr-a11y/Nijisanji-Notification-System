@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-05T02:30:33.049191+09:00",
+  "updated_at": "2026-06-05T03:00:36.124499+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -24,7 +24,7 @@
       "title": "雑談ってどうやるんでしたっけ【酒寄颯馬/にじさんじ】",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/O8jk8ma9mWk/maxresdefault_live.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/O8jk8ma9mWk/maxresdefault.jpg",
       "status": "not_on_air",
       "start_time": "2026-06-04T22:10:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=O8jk8ma9mWk",
@@ -164,12 +164,25 @@
       ]
     },
     {
+      "id": "01KT9WP01BYJXKEW054GVXP7T9",
+      "title": "⋙ 雑談 ⋮❙⋮ ドカ深夜雑談 #シン・弦月 ⋮❙⋮ 弦月藤士郎 / にじさんじ ⋘",
+      "liver_name": "01J6CCJAKZQPKXESHHKBER8FD4",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/p7B2CmQAN3g/maxresdefault_live.jpg",
+      "status": "on_air",
+      "start_time": "2026-06-05T02:55:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=p7B2CmQAN3g",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
       "id": "01KT9G32A4WP1JWMWG9KMXZAN9",
       "title": "【 雑談 】6月のみなさんに挨拶！ 【 にじさんじ / 夜見れな 】",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/QOqnT72e6gY/maxresdefault_live.jpg",
-      "status": "on_air",
+      "thumbnail": "https://i.ytimg.com/vi/QOqnT72e6gY/maxresdefault.jpg",
+      "status": "not_on_air",
       "start_time": "2026-06-05T00:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=QOqnT72e6gY",
       "matched_keywords": [
