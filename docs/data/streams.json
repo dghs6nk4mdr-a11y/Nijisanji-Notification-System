@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-04T23:14:40.827603+09:00",
+  "updated_at": "2026-06-04T23:30:36.926197+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -245,8 +245,8 @@
       "title": "【雑談】ながおげん突発雑談【長尾景/にじさんじ】【#ながおしゃべり】",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/shkAArWn0ds/maxresdefault_live.jpg",
-      "status": "on_air",
+      "thumbnail": "https://i.ytimg.com/vi/shkAArWn0ds/maxresdefault.jpg",
+      "status": "not_on_air",
       "start_time": "2026-06-04T21:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=shkAArWn0ds",
       "matched_keywords": [
@@ -356,6 +356,19 @@
       "url": "https://www.youtube.com/watch?v=ComEx96VHZw",
       "matched_keywords": [
         "朝活"
+      ]
+    },
+    {
+      "id": "01KT9G32A4WP1JWMWG9KMXZAN9",
+      "title": "【 雑談 】6月のみなさんに挨拶！ 【 にじさんじ / 夜見れな 】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/QOqnT72e6gY/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-06-05T00:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=QOqnT72e6gY",
+      "matched_keywords": [
+        "雑談"
       ]
     },
     {
