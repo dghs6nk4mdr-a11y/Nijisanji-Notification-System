@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-04T22:30:35.527594+09:00",
+  "updated_at": "2026-06-04T23:00:42.260827+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -212,6 +212,19 @@
       "url": "https://www.youtube.com/watch?v=uMesgWzoFR4",
       "matched_keywords": [
         "ラジオ"
+      ]
+    },
+    {
+      "id": "01KT9ENN653CVPJ4X3B8CQG165",
+      "title": "【雑談】ゲームのやり方忘れつつギターのやり方少し覚えた【セラフ・ダズルガーデン/にじさんじ】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/-JfgT_NFVdw/maxresdefault_live.jpg",
+      "status": "on_air",
+      "start_time": "2026-06-04T22:55:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=-JfgT_NFVdw",
+      "matched_keywords": [
+        "雑談"
       ]
     },
     {
