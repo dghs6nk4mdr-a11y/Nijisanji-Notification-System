@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-05T18:00:39.332347+09:00",
+  "updated_at": "2026-06-05T18:30:34.746266+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -133,6 +133,19 @@
       "status": "not_on_air",
       "start_time": "2026-06-05T20:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=XGNTijrmJR0",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
+      "id": "01KTBHWK0KBZNERSBAT3NQVA0T",
+      "title": "【飲酒雑談】かぶとむし（日本酒） 開封の儀 【にじさんじ/桜凛月】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/xsGGG0bE58A/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-06-05T19:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=xsGGG0bE58A",
       "matched_keywords": [
         "雑談"
       ]
