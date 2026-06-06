@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-06T22:30:31.848135+09:00",
+  "updated_at": "2026-06-06T23:00:37.465878+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -265,6 +265,20 @@
       "url": "https://www.youtube.com/watch?v=Yrg65ITq_Ao",
       "matched_keywords": [
         "ラジオ"
+      ]
+    },
+    {
+      "id": "01KTEKRFBQ3VQZ2MFR2SSC73TR",
+      "title": "𓊆 朝活雑談 𓊇 行けたら行くは行くんだよね 𓊆 雲母たまこ ┊ にじさんじ 𓊇",
+      "liver_name": "01J6CCJAK9N4AKCGFZ75P3W147",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/riaMyhmSKOk/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-06-07T08:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=riaMyhmSKOk",
+      "matched_keywords": [
+        "雑談",
+        "朝活"
       ]
     },
     {
