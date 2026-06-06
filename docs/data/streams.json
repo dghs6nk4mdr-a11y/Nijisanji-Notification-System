@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-06T23:30:33.495885+09:00",
+  "updated_at": "2026-06-06T23:44:35.298817+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -265,6 +265,19 @@
       "url": "https://www.youtube.com/watch?v=Yrg65ITq_Ao",
       "matched_keywords": [
         "ラジオ"
+      ]
+    },
+    {
+      "id": "01KTEP1F724A48P3DFZYMX4K8Y",
+      "title": "【朝雑談】今日もこの朝を最高にしていこう【四季凪アキラ/にじさんじ】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/smpF7VrF_mw/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-06-07T10:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=smpF7VrF_mw",
+      "matched_keywords": [
+        "雑談"
       ]
     },
     {
