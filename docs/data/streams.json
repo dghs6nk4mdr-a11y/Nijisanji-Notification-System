@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-06T18:30:29.398338+09:00",
+  "updated_at": "2026-06-06T19:00:34.857123+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -134,6 +134,32 @@
       "url": "https://www.youtube.com/watch?v=gexoUhDsd5M",
       "matched_keywords": [
         "ラジオ"
+      ]
+    },
+    {
+      "id": "01KTE55CC7DRQA0NTS29DZQN04",
+      "title": "【 雑談 】ゲームの話とかキャンプの話とか、するぞっ！【 鏑木ろこ￤にじさんじ 】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/G9NiILVBqZo/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-06-06T20:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=G9NiILVBqZo",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
+      "id": "01KTE4WCWZ70HTBPSDZRCZCHBS",
+      "title": "【雑談 】お披露目を振り返ろうぜ【渚トラウト/にじさんじ】",
+      "liver_name": "01J6CCJAK9N4AKCGFZ75P3W147",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/mUp-SLL0DgQ/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-06-06T19:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=mUp-SLL0DgQ",
+      "matched_keywords": [
+        "雑談"
       ]
     },
     {
