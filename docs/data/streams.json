@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-08T01:00:34.237017+09:00",
+  "updated_at": "2026-06-08T01:30:29.252671+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -165,11 +165,37 @@
       ]
     },
     {
+      "id": "01KTHD12G0MXQ85JW9V8TF4P6K",
+      "title": "【 雑談 】今日も一緒にまったり朝時間🌞【 皇れお / にじさんじ 】",
+      "liver_name": "01K5BBDKSPBQHW595ESQWN8BBP",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/J1MnJK3Uc0k/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-06-08T06:30:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=J1MnJK3Uc0k",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
+      "id": "01KTHDKBM20FXDD5AF6MQYQQ0R",
+      "title": "〖深夜ラジオ〗2026年6月8日(月)のにゃルラジ🌙〖猫屋敷美紅 / にじさんじ〗",
+      "liver_name": "01K2KXFY4WTXD0E42NN67KG73Q",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/7HcwotHRct0/maxresdefault_live.jpg",
+      "status": "on_air",
+      "start_time": "2026-06-08T01:10:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=7HcwotHRct0",
+      "matched_keywords": [
+        "ラジオ"
+      ]
+    },
+    {
       "id": "01KTEWB7BTYAQ2WHVM91BTZXQQ",
       "title": "〖深夜ラジオ〗2026年6月8日(月)のにゃルラジ🌙〖猫屋敷美紅 / にじさんじ〗",
       "liver_name": "01K2KXFY4WTXD0E42NN67KG73Q",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/nadpza6ltW4/maxresdefault_live.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/nadpza6ltW4/maxresdefault.jpg",
       "status": "not_on_air",
       "start_time": "2026-06-08T01:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=nadpza6ltW4",
