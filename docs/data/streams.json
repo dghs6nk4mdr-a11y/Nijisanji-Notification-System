@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-08T04:00:36.706929+09:00",
+  "updated_at": "2026-06-08T04:30:28.247388+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -123,6 +123,19 @@
       "url": "https://www.youtube.com/watch?v=CN1ll-EY6xo",
       "matched_keywords": [
         "雑談",
+        "朝活"
+      ]
+    },
+    {
+      "id": "01KTHRQG8X74Z1VVNJK6KZHJ9C",
+      "title": "【朝活】みんなをお見送りぴーす✌【にじさんじ/町田ちま】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/b9mhOAbQefc/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-06-08T07:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=b9mhOAbQefc",
+      "matched_keywords": [
         "朝活"
       ]
     },
