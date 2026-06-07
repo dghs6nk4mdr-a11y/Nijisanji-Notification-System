@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-08T06:30:31.568227+09:00",
+  "updated_at": "2026-06-08T07:00:35.519124+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -127,6 +127,19 @@
       ]
     },
     {
+      "id": "01KTJ06AS4SK8CQJY2EHH22301",
+      "title": "【朝活】おはすず6月8日（月）＃541【七瀬すず菜/にじさんじ】",
+      "liver_name": "01J6CCJAK9N4AKCGFZ75P3W147",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/N8caupnbJzs/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-06-08T07:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=N8caupnbJzs",
+      "matched_keywords": [
+        "朝活"
+      ]
+    },
+    {
       "id": "01KTHRQG8X74Z1VVNJK6KZHJ9C",
       "title": "【朝活】みんなをお見送りぴーす✌【にじさんじ/町田ちま】",
       "liver_name": "",
@@ -184,7 +197,7 @@
       "liver_name": "01K5BBDKSPBQHW595ESQWN8BBP",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/J1MnJK3Uc0k/maxresdefault_live.jpg",
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-06-08T06:30:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=J1MnJK3Uc0k",
       "matched_keywords": [
