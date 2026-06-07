@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-07T10:00:42.793007+09:00",
+  "updated_at": "2026-06-07T10:30:28.976970+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -151,6 +151,19 @@
       ]
     },
     {
+      "id": "01KTFT32NP9EJ281BQNJT70RPF",
+      "title": "【 雑談 】もっちゅりん食べてみる会【ソフィア・ヴァレンタイン / にじさんじ】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/F85D2n5pREk/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-06-07T11:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=F85D2n5pREk",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
       "id": "01KTEP1F724A48P3DFZYMX4K8Y",
       "title": "【朝雑談】今日もこの朝を最高にしていこう【四季凪アキラ/にじさんじ】",
       "liver_name": "",
@@ -168,8 +181,8 @@
       "title": "【朝活】あさだよ～！起きて～！☀️⏰【にじさんじ/梢桃音】",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/PF632vAVhE4/maxresdefault_live.jpg",
-      "status": "on_air",
+      "thumbnail": "https://i.ytimg.com/vi/PF632vAVhE4/maxresdefault.jpg",
+      "status": "not_on_air",
       "start_time": "2026-06-07T08:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=PF632vAVhE4",
       "matched_keywords": [
