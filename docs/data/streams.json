@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-07T11:00:33.172747+09:00",
+  "updated_at": "2026-06-07T11:30:34.495403+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -151,12 +151,25 @@
       ]
     },
     {
+      "id": "01KTFYBPANKJQWFT85CDDVDZX4",
+      "title": "モイラの雑談配信【20260607】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/fnrPbMV03VQ/maxresdefault_live.jpg",
+      "status": "on_air",
+      "start_time": "2026-06-07T11:25:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=fnrPbMV03VQ",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
       "id": "01KTFT32NP9EJ281BQNJT70RPF",
       "title": "【 雑談 】もっちゅりん食べてみる会【ソフィア・ヴァレンタイン / にじさんじ】",
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/F85D2n5pREk/maxresdefault_live.jpg",
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-06-07T11:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=F85D2n5pREk",
       "matched_keywords": [
@@ -208,7 +221,7 @@
       "title": "【朝活雑談】でへへ【ニチアサ！緋八マン！】【にじさんじ/緋八マナ】",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/98tnFtsRG9A/maxresdefault_live.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/98tnFtsRG9A/maxresdefault.jpg",
       "status": "not_on_air",
       "start_time": "2026-06-07T07:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=98tnFtsRG9A",
