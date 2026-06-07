@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-07T12:30:32.540361+09:00",
+  "updated_at": "2026-06-07T13:00:33.717903+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -155,8 +155,8 @@
       "title": "モイラの雑談配信【20260607】",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/fnrPbMV03VQ/maxresdefault_live.jpg",
-      "status": "on_air",
+      "thumbnail": "https://i.ytimg.com/vi/fnrPbMV03VQ/maxresdefault.jpg",
+      "status": "not_on_air",
       "start_time": "2026-06-07T11:25:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=fnrPbMV03VQ",
       "matched_keywords": [
@@ -169,7 +169,7 @@
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/F85D2n5pREk/maxresdefault_live.jpg",
-      "status": "on_air",
+      "status": "not_on_air",
       "start_time": "2026-06-07T11:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=F85D2n5pREk",
       "matched_keywords": [
@@ -181,8 +181,8 @@
       "title": "【朝雑談】今日もこの朝を最高にしていこう【四季凪アキラ/にじさんじ】",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/smpF7VrF_mw/maxresdefault_live.jpg",
-      "status": "on_air",
+      "thumbnail": "https://i.ytimg.com/vi/smpF7VrF_mw/maxresdefault.jpg",
+      "status": "not_on_air",
       "start_time": "2026-06-07T10:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=smpF7VrF_mw",
       "matched_keywords": [
