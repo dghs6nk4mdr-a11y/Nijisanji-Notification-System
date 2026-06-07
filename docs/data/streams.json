@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-08T00:11:08.246935+09:00",
+  "updated_at": "2026-06-08T00:30:27.143810+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -175,6 +175,19 @@
       "url": "https://www.youtube.com/watch?v=nadpza6ltW4",
       "matched_keywords": [
         "ラジオ"
+      ]
+    },
+    {
+      "id": "01KTHA4JVMD9FRRY508DVE7TNA",
+      "title": "【LoL】深夜に雑談がてらまったりろるらんく【にじさんじ/渋谷ハジメ】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/gB_lS4BCQJo/maxresdefault_live.jpg",
+      "status": "on_air",
+      "start_time": "2026-06-08T00:10:34.000+09:00",
+      "url": "https://www.youtube.com/watch?v=gB_lS4BCQJo",
+      "matched_keywords": [
+        "雑談"
       ]
     }
   ]
