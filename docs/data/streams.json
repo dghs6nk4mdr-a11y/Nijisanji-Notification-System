@@ -1,24 +1,11 @@
 {
-  "updated_at": "2026-06-08T01:30:29.252671+09:00",
+  "updated_at": "2026-06-08T01:53:06.436849+09:00",
   "keywords": [
     "雑談",
     "朝活",
     "ラジオ"
   ],
   "streams": [
-    {
-      "id": "01KTH5038XN6130E55EACJYNSW",
-      "title": "【おつかれさんご】振り返れば、カノもしくはえどがい　ゆるゆる定期雑談！第179回！【周央サンゴ】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/QBkDmScnK6M/maxresdefault_live.jpg",
-      "status": "on_air",
-      "start_time": "2026-06-07T23:30:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=QBkDmScnK6M",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
     {
       "id": "01KTFF6H2HMNNB763ESZD8WAGA",
       "title": "【ラジオ】ジョー・力一の空昼ブランコ #96【にじさんじ】",
@@ -182,23 +169,10 @@
       "title": "〖深夜ラジオ〗2026年6月8日(月)のにゃルラジ🌙〖猫屋敷美紅 / にじさんじ〗",
       "liver_name": "01K2KXFY4WTXD0E42NN67KG73Q",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/7HcwotHRct0/maxresdefault_live.jpg",
-      "status": "on_air",
+      "thumbnail": "https://i.ytimg.com/vi/7HcwotHRct0/maxresdefault.jpg",
+      "status": "not_on_air",
       "start_time": "2026-06-08T01:10:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=7HcwotHRct0",
-      "matched_keywords": [
-        "ラジオ"
-      ]
-    },
-    {
-      "id": "01KTEWB7BTYAQ2WHVM91BTZXQQ",
-      "title": "〖深夜ラジオ〗2026年6月8日(月)のにゃルラジ🌙〖猫屋敷美紅 / にじさんじ〗",
-      "liver_name": "01K2KXFY4WTXD0E42NN67KG73Q",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/nadpza6ltW4/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-06-08T01:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=nadpza6ltW4",
       "matched_keywords": [
         "ラジオ"
       ]
