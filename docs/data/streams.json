@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-08T08:00:37.123824+09:00",
+  "updated_at": "2026-06-08T08:30:26.679953+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -118,7 +118,7 @@
       "liver_name": "01J6CCJAK9N4AKCGFZ75P3W147",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/CN1ll-EY6xo/maxresdefault_live.jpg",
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-06-08T08:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=CN1ll-EY6xo",
       "matched_keywords": [
@@ -157,8 +157,8 @@
       "title": "【朝雑談】おはようみゃみー！ 2026/06/07 #18【白砂あやね / 水面まどか / にじさんじ】",
       "liver_name": "01KG4FVDPNJXY4TA6Z4B365S5V",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/zShvntyMUGo/maxresdefault_live.jpg",
-      "status": "on_air",
+      "thumbnail": "https://i.ytimg.com/vi/zShvntyMUGo/maxresdefault.jpg",
+      "status": "not_on_air",
       "start_time": "2026-06-08T07:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=zShvntyMUGo",
       "matched_keywords": [
@@ -180,7 +180,7 @@
     },
     {
       "id": "01KTAN9H5592QQP2KQ3YC6T22B",
-      "title": "【#朝活 】+ #トモコレ💛おはよう！ゴミ曜日来ちゃった！ゴミ曜日なんかに負けずに頑張っていってらっしゃいませ✊💕【ナセラ/にじさんじ🌸🌙】",
+      "title": "【#朝活 】おはよう！ゴミ曜日来ちゃった！ゴミ曜日なんかに負けずに頑張っていってらっしゃいませ✊💕【ナセラ/にじさんじ🌸🌙】",
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/_TxoK5llXkA/maxresdefault_live.jpg",
@@ -196,7 +196,7 @@
       "title": "【 雑談 】今日も一緒にまったり朝時間🌞【 皇れお / にじさんじ 】",
       "liver_name": "01K5BBDKSPBQHW595ESQWN8BBP",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/J1MnJK3Uc0k/maxresdefault_live.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/J1MnJK3Uc0k/maxresdefault.jpg",
       "status": "not_on_air",
       "start_time": "2026-06-08T06:30:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=J1MnJK3Uc0k",
