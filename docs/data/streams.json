@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-08T12:00:34.897426+09:00",
+  "updated_at": "2026-06-08T12:30:28.527121+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -113,12 +113,25 @@
       ]
     },
     {
+      "id": "01KTJKN3WH5A4J25VSRQ1TYV5J",
+      "title": "【雑談】スパチャ読みとかいろいろ振り返ったりとか～【九里詠太 / にじさんじ】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/sGxlVwcPz-0/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-06-08T21:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=sGxlVwcPz-0",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
       "id": "01KTJJ6MQ0PVH70AZM777YW5WB",
       "title": "【雑談】昼雑談【長尾景/にじさんじ】【#ながおしゃべり】",
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/13qLLttMUEY/maxresdefault_live.jpg",
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-06-08T12:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=13qLLttMUEY",
       "matched_keywords": [
