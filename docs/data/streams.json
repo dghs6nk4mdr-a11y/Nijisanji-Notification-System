@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-08T19:30:32.989744+09:00",
+  "updated_at": "2026-06-08T20:00:43.711462+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -110,6 +110,19 @@
       "url": "https://www.youtube.com/watch?v=7Jrvq_kWqTI",
       "matched_keywords": [
         "ラジオ"
+      ]
+    },
+    {
+      "id": "01KTKE86XYCR1K0VCZ2ENQFACN",
+      "title": "【マイクラ】ソロで雑談ハードコア！エンドラ編！【にじさんじ / 赤城ウェン】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/4RHGsUFcJEk/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-06-08T21:30:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=4RHGsUFcJEk",
+      "matched_keywords": [
+        "雑談"
       ]
     },
     {
