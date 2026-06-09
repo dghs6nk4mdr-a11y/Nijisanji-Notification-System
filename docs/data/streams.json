@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-10T01:00:53.127565+09:00",
+  "updated_at": "2026-06-10T01:30:38.187298+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -33,6 +33,20 @@
       ]
     },
     {
+      "id": "01KTPJ3MWD9H5JEXEZ5S18TGZA",
+      "title": "【朝活雑談】元気チャージ雑談！！！！！【早乙女ベリー/にじさんじ】",
+      "liver_name": "01J6CCJAK9N4AKCGFZ75P3W147",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/xh-ky2wpmyM/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-06-10T08:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=xh-ky2wpmyM",
+      "matched_keywords": [
+        "雑談",
+        "朝活"
+      ]
+    },
+    {
       "id": "01KTPDGD9NQ540VG64DY27N56Q",
       "title": "【朝活#379】寝ても寝てもいくらでも眠れる気がする6月【雪城眞尋/にじさんじ】",
       "liver_name": "",
@@ -51,9 +65,22 @@
       "liver_name": "01K2KXFY4WTXD0E42NN67KG73Q",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/Ebt4gD2vtAE/maxresdefault_live.jpg",
-      "status": "on_air",
+      "status": "not_on_air",
       "start_time": "2026-06-10T00:15:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=Ebt4gD2vtAE",
+      "matched_keywords": [
+        "ラジオ"
+      ]
+    },
+    {
+      "id": "01KTPKHDWWG5264E2H5ZJFWNJS",
+      "title": "〖深夜ラジオ〗2026年6月11日(木)のにゃルラジ🌙〖猫屋敷美紅 / にじさんじ〗",
+      "liver_name": "01K2KXFY4WTXD0E42NN67KG73Q",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/35D-f19ZyxA/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-06-11T00:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=35D-f19ZyxA",
       "matched_keywords": [
         "ラジオ"
       ]
