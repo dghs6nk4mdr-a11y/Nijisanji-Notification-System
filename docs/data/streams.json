@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-10T00:30:41.922579+09:00",
+  "updated_at": "2026-06-10T01:00:53.127565+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -17,6 +17,19 @@
       "url": "https://www.youtube.com/watch?v=a70-xECY4SU",
       "matched_keywords": [
         "朝活"
+      ]
+    },
+    {
+      "id": "01KTPGCQKCDN5V5BYX5Q97D2NJ",
+      "title": "【雑談】一昨日年が明けたばかりな気がする雑談～06/10早帰り水曜日～【 にじさんじ / 五木左京 】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/2jtDXVbasbY/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-06-10T19:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=2jtDXVbasbY",
+      "matched_keywords": [
+        "雑談"
       ]
     },
     {
