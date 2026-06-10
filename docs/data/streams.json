@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-10T16:30:46.205334+09:00",
+  "updated_at": "2026-06-10T17:00:46.016623+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -28,6 +28,19 @@
       "status": "not_on_air",
       "start_time": "2026-06-10T19:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=2jtDXVbasbY",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
+      "id": "01KTR79KYR6BKH697B6GCCKTDN",
+      "title": "【雑談】シャンプーする時、立って洗えば後ろに気配を感じない【にじさんじ/矢車りね】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/laZJa5ijhTU/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-06-10T17:30:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=laZJa5ijhTU",
       "matched_keywords": [
         "雑談"
       ]
