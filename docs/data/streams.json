@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-10T19:30:35.339599+09:00",
+  "updated_at": "2026-06-10T20:00:48.728766+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -20,6 +20,19 @@
       ]
     },
     {
+      "id": "01KTRJEQPKE2VF18RDYH61FNA7",
+      "title": "【🗣️雑談】ひっそり８周年を祝いますが多分普通に雑談【にじさんじ/轟京子】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/CH0REE7V_8o/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-06-10T23:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=CH0REE7V_8o",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
       "id": "01KTPGCQKCDN5V5BYX5Q97D2NJ",
       "title": "【雑談】一昨日年が明けたばかりな気がする雑談～06/10早帰り水曜日～【 にじさんじ / 五木左京 】",
       "liver_name": "",
@@ -37,8 +50,8 @@
       "title": "【雑談】シャンプーする時、立って洗えば後ろに気配を感じない【にじさんじ/矢車りね】",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/laZJa5ijhTU/maxresdefault_live.jpg",
-      "status": "on_air",
+      "thumbnail": "https://i.ytimg.com/vi/laZJa5ijhTU/maxresdefault.jpg",
+      "status": "not_on_air",
       "start_time": "2026-06-10T17:30:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=laZJa5ijhTU",
       "matched_keywords": [
