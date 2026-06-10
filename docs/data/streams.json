@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-10T18:04:42.508854+09:00",
+  "updated_at": "2026-06-10T18:30:38.470960+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -41,19 +41,6 @@
       "status": "on_air",
       "start_time": "2026-06-10T17:30:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=laZJa5ijhTU",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KTR3VZWKZ3SZ2Z9BTNK29MBH",
-      "title": "作業・雑談・チェロの練習。【えま★おうがすと/にじさんじ所属】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/DdcG36U5ZiQ/maxresdefault_live.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-06-10T15:45:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=DdcG36U5ZiQ",
       "matched_keywords": [
         "雑談"
       ]
