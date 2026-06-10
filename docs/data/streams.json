@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-10T08:30:34.135460+09:00",
+  "updated_at": "2026-06-10T09:00:41.325820+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -48,11 +48,11 @@
     },
     {
       "id": "01KTQ790M1271GH9QV49NTBYR9",
-      "title": "枠立てなおした！【朝活】おはすず6月10日（水）＃543【七瀬すず菜/にじさんじ】",
+      "title": "【朝活】おはすず6月10日（水）＃543【七瀬すず菜/にじさんじ】",
       "liver_name": "01J6CCJAK9N4AKCGFZ75P3W147",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/PdRaFODVKos/maxresdefault_live.jpg",
-      "status": "on_air",
+      "status": "not_on_air",
       "start_time": "2026-06-10T07:10:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=PdRaFODVKos",
       "matched_keywords": [
@@ -64,8 +64,8 @@
       "title": "【朝活#379】寝ても寝てもいくらでも眠れる気がする6月【雪城眞尋/にじさんじ】",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/IH1qISF3JRs/maxresdefault_live.jpg",
-      "status": "on_air",
+      "thumbnail": "https://i.ytimg.com/vi/IH1qISF3JRs/maxresdefault.jpg",
+      "status": "not_on_air",
       "start_time": "2026-06-10T07:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=IH1qISF3JRs",
       "matched_keywords": [
