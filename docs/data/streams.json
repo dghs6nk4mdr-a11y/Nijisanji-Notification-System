@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-11T06:30:32.880851+09:00",
+  "updated_at": "2026-06-11T07:00:42.421835+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -135,6 +135,19 @@
       "url": "https://www.youtube.com/watch?v=Mpar_cOwnb0",
       "matched_keywords": [
         "雑談"
+      ]
+    },
+    {
+      "id": "01KTSQYT4DA3RJCRTF68AS5E86",
+      "title": "【朝活】おはすず6月11日（木）＃544【七瀬すず菜/にじさんじ】",
+      "liver_name": "01J6CCJAK9N4AKCGFZ75P3W147",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/idNlXdH3oFI/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-06-11T07:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=idNlXdH3oFI",
+      "matched_keywords": [
+        "朝活"
       ]
     },
     {
