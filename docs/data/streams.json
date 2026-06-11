@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-11T21:30:36.492856+09:00",
+  "updated_at": "2026-06-11T22:00:45.956381+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -122,6 +122,19 @@
       "url": "https://www.youtube.com/watch?v=Ebt4gD2vtAE",
       "matched_keywords": [
         "ラジオ"
+      ]
+    },
+    {
+      "id": "01KTVAWBR5GED0Z2DHQRANDTVR",
+      "title": "【雑談】まだ鼻声です。声が少年くらいまで退行してます。あと微微告知するかもです。【 にじさんじ / ミラン・ケストレル】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/vdqR2d8aoNg/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-06-11T22:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=vdqR2d8aoNg",
+      "matched_keywords": [
+        "雑談"
       ]
     },
     {
