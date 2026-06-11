@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-11T22:01:38.186193+09:00",
+  "updated_at": "2026-06-11T22:30:40.213884+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -130,7 +130,7 @@
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/vdqR2d8aoNg/maxresdefault_live.jpg",
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-06-11T22:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=vdqR2d8aoNg",
       "matched_keywords": [
@@ -142,8 +142,8 @@
       "title": "【製麺雑談】２０万記念麺へ向け、小野式製麵機初陣！！【一橋綾人/にじさんじ】",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/C3LTOqySUio/maxresdefault_live.jpg",
-      "status": "on_air",
+      "thumbnail": "https://i.ytimg.com/vi/C3LTOqySUio/maxresdefault.jpg",
+      "status": "not_on_air",
       "start_time": "2026-06-11T21:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=C3LTOqySUio",
       "matched_keywords": [
