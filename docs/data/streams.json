@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-12T23:00:41.332253+09:00",
+  "updated_at": "2026-06-12T23:30:40.070049+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -108,6 +108,19 @@
       "url": "https://www.youtube.com/watch?v=35D-f19ZyxA",
       "matched_keywords": [
         "ラジオ"
+      ]
+    },
+    {
+      "id": "01KTY3VKD8G2RRWE1PWR391E2H",
+      "title": "【突発雑談】深夜ですしお寿司【にじさんじ/緋八マナ】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/V29mFeKhsNE/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-06-12T23:30:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=V29mFeKhsNE",
+      "matched_keywords": [
+        "雑談"
       ]
     },
     {
