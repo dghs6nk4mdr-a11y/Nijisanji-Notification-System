@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-13T07:00:46.528476+09:00",
+  "updated_at": "2026-06-13T07:26:29.543867+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -56,6 +56,19 @@
       "url": "https://www.youtube.com/watch?v=1_SaEr-ydxU",
       "matched_keywords": [
         "ラジオ"
+      ]
+    },
+    {
+      "id": "01KTYYFKZ0YMVFE1B85QFJ00QG",
+      "title": "【記念雑談】幸せをありがとう。 #ミラン誕生日2026 【 にじさんじ / ミラン・ケストレル】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/ZQgJgB6-6-g/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-06-13T20:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=ZQgJgB6-6-g",
+      "matched_keywords": [
+        "雑談"
       ]
     },
     {
