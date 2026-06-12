@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-12T18:43:33.875082+09:00",
+  "updated_at": "2026-06-12T19:00:43.053366+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -134,6 +134,19 @@
       "url": "https://www.youtube.com/watch?v=1_SaEr-ydxU",
       "matched_keywords": [
         "ラジオ"
+      ]
+    },
+    {
+      "id": "01KTXM44ZYTCC11AS32B4HZJAK",
+      "title": "【日本語雑談】最近ハマっているFOODの話！【NIJISANJI EN | Klara Charmwood】",
+      "liver_name": "01HYC7QPG19T6MXEWMKNEGBPD7",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/41t6Zv8gZIo/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-06-13T20:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=41t6Zv8gZIo",
+      "matched_keywords": [
+        "雑談"
       ]
     }
   ]
