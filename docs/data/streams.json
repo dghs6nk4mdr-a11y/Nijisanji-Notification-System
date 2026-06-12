@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-12T23:30:40.070049+09:00",
+  "updated_at": "2026-06-13T00:00:47.823242+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -7,116 +7,12 @@
   ],
   "streams": [
     {
-      "id": "01KTVGK4QQERPC6E5P83BEXGRW",
-      "title": "雑談 　 [にじさんじ/イロハ]",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/lxsrixRKIBE/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-06-11T23:15:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=lxsrixRKIBE",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KTVAWBR5GED0Z2DHQRANDTVR",
-      "title": "【雑談】まだ鼻声です。声が少年くらいまで退行してます。あと微微告知するかもです。【 にじさんじ / ミラン・ケストレル】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/vdqR2d8aoNg/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-06-11T22:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=vdqR2d8aoNg",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KTS7Y8B1DDF7KANP7KP0D4AS",
-      "title": "【製麺雑談】２０万記念麺へ向け、小野式製麵機初陣！！【一橋綾人/にじさんじ】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/C3LTOqySUio/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-06-11T21:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=C3LTOqySUio",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KTV3DXXM9S4J7CSE5Q1EFXKM",
-      "title": "【雑談】夜雑は久々？？【長尾景/にじさんじ】【#ながおしゃべり】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/VmWdYUh_s3Q/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-06-11T20:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=VmWdYUh_s3Q",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KTSC7BRNHQDCY3YZF1WHWF10",
-      "title": "【雑談】hello america",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": null,
-      "status": "not_on_air",
-      "start_time": "2026-06-11T09:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=Mpar_cOwnb0",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KTSTGT3HZ254V8PJAF8NX86C",
-      "title": "【雑談】おはよう【明楽レイ/にじさんじ】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/-LvFSomUa8U/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-06-11T07:30:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=-LvFSomUa8U",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KTSQYT4DA3RJCRTF68AS5E86",
-      "title": "【朝活】おはすず6月11日（木）＃544【七瀬すず菜/にじさんじ】",
-      "liver_name": "01J6CCJAK9N4AKCGFZ75P3W147",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/idNlXdH3oFI/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-06-11T07:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=idNlXdH3oFI",
-      "matched_keywords": [
-        "朝活"
-      ]
-    },
-    {
-      "id": "01KTPKHDWWG5264E2H5ZJFWNJS",
-      "title": "〖深夜ラジオ〗2026年6月11日(木)のにゃルラジ🌙〖猫屋敷美紅 / にじさんじ〗",
-      "liver_name": "01K2KXFY4WTXD0E42NN67KG73Q",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/35D-f19ZyxA/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-06-11T00:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=35D-f19ZyxA",
-      "matched_keywords": [
-        "ラジオ"
-      ]
-    },
-    {
       "id": "01KTY3VKD8G2RRWE1PWR391E2H",
       "title": "【突発雑談】深夜ですしお寿司【にじさんじ/緋八マナ】",
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/V29mFeKhsNE/maxresdefault_live.jpg",
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-06-12T23:30:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=V29mFeKhsNE",
       "matched_keywords": [
@@ -129,7 +25,7 @@
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/mo5C65x7NL0/maxresdefault_live.jpg",
-      "status": "on_air",
+      "status": "not_on_air",
       "start_time": "2026-06-12T22:15:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=mo5C65x7NL0",
       "matched_keywords": [
