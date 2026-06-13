@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-13T20:00:50.573648+09:00",
+  "updated_at": "2026-06-13T20:18:02.119245+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -64,7 +64,7 @@
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/ZQgJgB6-6-g/maxresdefault_live.jpg",
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-06-13T20:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=ZQgJgB6-6-g",
       "matched_keywords": [
@@ -80,6 +80,19 @@
       "status": "on_air",
       "start_time": "2026-06-13T20:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=41t6Zv8gZIo",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
+      "id": "01KV0AGW0NHY87NVWK7SHSF8DH",
+      "title": "【朝雑談】ジワジワ出てきた湿気や暑さと、戦っていこう【四季凪アキラ/にじさんじ】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/yj76oR6nXUw/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-06-14T10:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=yj76oR6nXUw",
       "matched_keywords": [
         "雑談"
       ]
