@@ -1,37 +1,11 @@
 {
-  "updated_at": "2026-06-14T23:42:31.470291+09:00",
+  "updated_at": "2026-06-15T00:00:47.388799+09:00",
   "keywords": [
     "雑談",
     "朝活",
     "ラジオ"
   ],
   "streams": [
-    {
-      "id": "01KTYYFKZ0YMVFE1B85QFJ00QG",
-      "title": "【記念雑談】幸せをありがとう。 #ミラン誕生日2026 【 にじさんじ / ミラン・ケストレル】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/ZQgJgB6-6-g/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-06-13T20:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=ZQgJgB6-6-g",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KTXM44ZYTCC11AS32B4HZJAK",
-      "title": "【日本語雑談】最近ハマっているFOODの話！【NIJISANJI EN | Klara Charmwood】",
-      "liver_name": "01HYC7QPG19T6MXEWMKNEGBPD7",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/41t6Zv8gZIo/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-06-13T20:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=41t6Zv8gZIo",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
     {
       "id": "01KV376SWXHWCDEN82JXZK4J6C",
       "title": "【雑談】休暇をいただいたわよ！【健屋花那/にじさんじ】",
@@ -202,6 +176,19 @@
       "url": "https://www.youtube.com/watch?v=qticSd8ALlY",
       "matched_keywords": [
         "ラジオ"
+      ]
+    },
+    {
+      "id": "01KV39SY51TAW8VCGEG5XSFJZJ",
+      "title": "【 朝雑談 / おはようみゃみー 】うみゃみーはあらなみマイクラを満喫しています🌊 2026/06/14 #19【白砂あやね / 水",
+      "liver_name": "01KG4FVDPQ5XJKP79RVD4SVM6R",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/Kv5taa1PDsI/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-06-15T07:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=Kv5taa1PDsI",
+      "matched_keywords": [
+        "雑談"
       ]
     },
     {
