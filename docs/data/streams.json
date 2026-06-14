@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-14T09:30:45.219399+09:00",
+  "updated_at": "2026-06-14T10:00:45.831459+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -59,6 +59,20 @@
       ]
     },
     {
+      "id": "01KV1S5D013VR2TE61GCVQPS7E",
+      "title": "雑談│ギリギリ朝活といっても過言【綺沙良/にじさんじ】",
+      "liver_name": "01J6CCJAKFW1BRQ4RMTBTCJRXP",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/YYF_uDi8-7I/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-06-14T10:05:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=YYF_uDi8-7I",
+      "matched_keywords": [
+        "雑談",
+        "朝活"
+      ]
+    },
+    {
       "id": "01KV1NPTW4MC41KJEHKXMW1G68",
       "title": "【雑談/talk】朝活成功の世界線、ダウナーな鷹宮とチルい曲(Chill MIX)【にじさんじ/鷹宮リオン】",
       "liver_name": "",
@@ -78,7 +92,7 @@
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/yj76oR6nXUw/maxresdefault_live.jpg",
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-06-14T10:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=yj76oR6nXUw",
       "matched_keywords": [
