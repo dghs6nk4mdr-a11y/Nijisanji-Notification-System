@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-15T06:00:49.297704+09:00",
+  "updated_at": "2026-06-15T06:16:36.160513+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -176,6 +176,19 @@
       "url": "https://www.youtube.com/watch?v=qticSd8ALlY",
       "matched_keywords": [
         "ラジオ"
+      ]
+    },
+    {
+      "id": "01KV3ZGV41ZVPAZ75VXYSNCFKM",
+      "title": "【朝活】ご注文は月曜日でしょうか？【にじさんじ/町田ちま】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/4D4KJlBcsvE/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-06-15T07:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=4D4KJlBcsvE",
+      "matched_keywords": [
+        "朝活"
       ]
     },
     {
