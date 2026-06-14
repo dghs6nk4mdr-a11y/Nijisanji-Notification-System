@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-14T11:30:38.083897+09:00",
+  "updated_at": "2026-06-14T12:00:51.459179+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -54,6 +54,19 @@
       "status": "not_on_air",
       "start_time": "2026-06-14T13:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=xGMMtt6dStk",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
+      "id": "01KV215C90VYJG2D3KMCB6RPCQ",
+      "title": "【雑談】週末ざつ！話そうね❤️【にじさんじ | セフィナ】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/hudo0q0o8Rs/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-06-14T12:30:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=hudo0q0o8Rs",
       "matched_keywords": [
         "雑談"
       ]
