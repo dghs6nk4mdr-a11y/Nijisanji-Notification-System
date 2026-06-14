@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-15T01:30:42.475942+09:00",
+  "updated_at": "2026-06-15T02:00:58.038387+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -15,6 +15,19 @@
       "status": "not_on_air",
       "start_time": "2026-06-14T23:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=jdHBRgha-7o",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
+      "id": "01KV336QWKF9FXAV175QX39B10",
+      "title": "【おつかれさんご】　ゆるゆる定期雑談！第180回！妹による独創的名づけ【周央サンゴ】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/xHxfH6HNGls/maxresdefault.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-06-14T23:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=xHxfH6HNGls",
       "matched_keywords": [
         "雑談"
       ]
@@ -163,6 +176,19 @@
       "url": "https://www.youtube.com/watch?v=qticSd8ALlY",
       "matched_keywords": [
         "ラジオ"
+      ]
+    },
+    {
+      "id": "01KV3G3CYZBN1JPFQEFEEDMQDS",
+      "title": "【 朝活 】月曜日起きれてえらい君にえらい伝える！！！^_ .̫ _^【 にじさんじ / 城瀬いすみ / すぷれあ】",
+      "liver_name": "01K5BBDKSPBQHW595ESQWN8BBP",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/lbg8GHKXCgo/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-06-15T07:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=lbg8GHKXCgo",
+      "matched_keywords": [
+        "朝活"
       ]
     },
     {
