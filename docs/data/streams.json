@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-15T09:00:49.338886+09:00",
+  "updated_at": "2026-06-15T09:16:19.445743+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -192,11 +192,24 @@
       ]
     },
     {
+      "id": "01KV4A497GEKX9Q25J50FVAFVB",
+      "title": "【雑談】ohayo",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": null,
+      "status": "not_on_air",
+      "start_time": "2026-06-15T10:30:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=Cg2sL1x5OTw",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
       "id": "01KV3ZGV41ZVPAZ75VXYSNCFKM",
       "title": "【朝活】ご注文は月曜日でしょうか？【にじさんじ/町田ちま】",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/4D4KJlBcsvE/maxresdefault_live.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/4D4KJlBcsvE/maxresdefault.jpg",
       "status": "not_on_air",
       "start_time": "2026-06-15T07:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=4D4KJlBcsvE",
