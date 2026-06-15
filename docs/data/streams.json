@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-15T20:30:44.615505+09:00",
+  "updated_at": "2026-06-15T21:00:48.520054+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -179,6 +179,19 @@
       ]
     },
     {
+      "id": "01KV5HWCCCQP4KY2E5QX65PPB0",
+      "title": "【深夜雑談】デビューから2434日目のやまだよー♡【にじさんじ/山神カルタ】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/RH5l7SyQt34/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-06-15T23:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=RH5l7SyQt34",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
       "id": "01KV524TBJ7ARNMGPFNDSM8EKH",
       "title": "【雑談】デビューからちょうど２４３４日ですって💛🦊💛【 にじさんじフミ 】",
       "liver_name": "",
@@ -197,7 +210,7 @@
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/LhRNvHWIkR8/maxresdefault_live.jpg",
-      "status": "on_air",
+      "status": "not_on_air",
       "start_time": "2026-06-15T20:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=LhRNvHWIkR8",
       "matched_keywords": [
