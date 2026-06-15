@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-16T00:30:49.615655+09:00",
+  "updated_at": "2026-06-16T01:00:48.682435+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -24,8 +24,8 @@
       "title": "【雑談】デビューからちょうど２４３４日ですって💛🦊💛【 にじさんじフミ 】",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/M-J38lIz_Ms/maxresdefault_live.jpg",
-      "status": "on_air",
+      "thumbnail": "https://i.ytimg.com/vi/M-J38lIz_Ms/maxresdefault.jpg",
+      "status": "not_on_air",
       "start_time": "2026-06-15T22:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=M-J38lIz_Ms",
       "matched_keywords": [
@@ -119,6 +119,19 @@
       "status": "not_on_air",
       "start_time": "2026-06-16T08:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=QOrbtZyaT2Y",
+      "matched_keywords": [
+        "朝活"
+      ]
+    },
+    {
+      "id": "01KV5Z1DDRQ6SH5TA8J0DP9YNP",
+      "title": "【朝活#380】もしかして：梅雨明け…ってみたんですけど、まさかね！【雪城眞尋/にじさんじ】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/hBNX31q6A3s/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-06-16T07:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=hBNX31q6A3s",
       "matched_keywords": [
         "朝活"
       ]
