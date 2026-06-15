@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-15T23:00:51.080667+09:00",
+  "updated_at": "2026-06-15T23:30:46.378807+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -184,7 +184,7 @@
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/RH5l7SyQt34/maxresdefault_live.jpg",
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-06-15T23:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=RH5l7SyQt34",
       "matched_keywords": [
@@ -280,6 +280,19 @@
       "url": "https://www.youtube.com/watch?v=Gm88WFfDZf0",
       "matched_keywords": [
         "ラジオ"
+      ]
+    },
+    {
+      "id": "01KV5V1YTHQ6664FK5SMAZQ6MY",
+      "title": "【#あらなみマイクラ】 朝活であらなみの世界を見に行く！！【早乙女ベリー/にじさんじ】",
+      "liver_name": "01J6CCJAK9N4AKCGFZ75P3W147",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/QOrbtZyaT2Y/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-06-16T08:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=QOrbtZyaT2Y",
+      "matched_keywords": [
+        "朝活"
       ]
     },
     {
