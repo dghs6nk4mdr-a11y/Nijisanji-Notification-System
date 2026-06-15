@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-15T16:00:55.381947+09:00",
+  "updated_at": "2026-06-15T16:30:44.172761+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -176,6 +176,19 @@
       "url": "https://www.youtube.com/watch?v=qticSd8ALlY",
       "matched_keywords": [
         "ラジオ"
+      ]
+    },
+    {
+      "id": "01KV524TBJ7ARNMGPFNDSM8EKH",
+      "title": "【雑談】デビューからちょうど２４３４日ですって💛🦊💛【 にじさんじフミ 】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/M-J38lIz_Ms/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-06-15T22:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=M-J38lIz_Ms",
+      "matched_keywords": [
+        "雑談"
       ]
     },
     {
