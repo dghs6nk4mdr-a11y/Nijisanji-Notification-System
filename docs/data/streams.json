@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-16T02:00:51.865548+09:00",
+  "updated_at": "2026-06-16T02:30:45.818654+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -124,6 +124,19 @@
       ]
     },
     {
+      "id": "01KV63XRJWW9T6PBP9YQYDS69J",
+      "title": "【朝活】おはすず6月16日（火）＃545【七瀬すず菜/にじさんじ】",
+      "liver_name": "01J6CCJAK9N4AKCGFZ75P3W147",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/AycLGmp0894/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-06-16T07:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=AycLGmp0894",
+      "matched_keywords": [
+        "朝活"
+      ]
+    },
+    {
       "id": "01KV5Z1DDRQ6SH5TA8J0DP9YNP",
       "title": "【朝活#380】もしかして：梅雨明け…ってみたんですけど、まさかね！【雪城眞尋/にじさんじ】",
       "liver_name": "",
@@ -155,7 +168,7 @@
       "title": "〖深夜ラジオ〗2026年6月16日(火)のにゃルラジ🌙〖猫屋敷美紅 / にじさんじ〗",
       "liver_name": "01K2KXFY4WTXD0E42NN67KG73Q",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/egLm6_7Kyxo/maxresdefault_live.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/egLm6_7Kyxo/maxresdefault.jpg",
       "status": "not_on_air",
       "start_time": "2026-06-16T00:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=egLm6_7Kyxo",
@@ -172,6 +185,19 @@
       "status": "not_on_air",
       "start_time": "2026-06-17T22:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=dgr7ZPr5BnY",
+      "matched_keywords": [
+        "ラジオ"
+      ]
+    },
+    {
+      "id": "01KV63XVS6WYG3R62DTGJZ00V0",
+      "title": "〖深夜ラジオ〗2026年6月17日(水)のにゃルラジ🌙〖猫屋敷美紅 / にじさんじ〗",
+      "liver_name": "01K2KXFY4WTXD0E42NN67KG73Q",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/_PVkovDtOrY/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-06-17T00:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=_PVkovDtOrY",
       "matched_keywords": [
         "ラジオ"
       ]
