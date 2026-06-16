@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-17T01:01:08.079070+09:00",
+  "updated_at": "2026-06-17T01:30:47.282512+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -12,7 +12,7 @@
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/LfLwQ4nSKig/maxresdefault_live.jpg",
-      "status": "on_air",
+      "status": "not_on_air",
       "start_time": "2026-06-16T23:30:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=LfLwQ4nSKig",
       "matched_keywords": [
@@ -37,7 +37,7 @@
       "title": "【雑談】帰ってきたよん【にじさんじ/渋谷ハジメ】",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/zzickXpM7tM/maxresdefault_live.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/zzickXpM7tM/maxresdefault.jpg",
       "status": "not_on_air",
       "start_time": "2026-06-16T22:42:43.000+09:00",
       "url": "https://www.youtube.com/watch?v=zzickXpM7tM",
@@ -156,7 +156,7 @@
       "title": "〖深夜ラジオ〗2026年6月17日(水)のにゃルラジ🌙〖猫屋敷美紅 / にじさんじ〗",
       "liver_name": "01K2KXFY4WTXD0E42NN67KG73Q",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/_PVkovDtOrY/maxresdefault_live.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/_PVkovDtOrY/maxresdefault.jpg",
       "status": "not_on_air",
       "start_time": "2026-06-17T00:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=_PVkovDtOrY",
