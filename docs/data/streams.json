@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-16T22:15:08.845586+09:00",
+  "updated_at": "2026-06-16T22:30:51.396356+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -108,6 +108,19 @@
       "url": "https://www.youtube.com/watch?v=Gm88WFfDZf0",
       "matched_keywords": [
         "ラジオ"
+      ]
+    },
+    {
+      "id": "01KV89ZYWHHP6QHM9VD2NHA1JD",
+      "title": "【雑談】帰ってきたよ～【にじさんじ/渋谷ハジメ】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/x4vZIcn6Q0A/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-06-16T22:30:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=x4vZIcn6Q0A",
+      "matched_keywords": [
+        "雑談"
       ]
     },
     {
