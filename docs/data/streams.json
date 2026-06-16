@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-17T02:00:53.004658+09:00",
+  "updated_at": "2026-06-17T02:30:48.488059+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -11,7 +11,7 @@
       "title": "【雑談】真夜中に時魔道士が来るそうですよ？【 にじさんじ / ミラン・ケストレル】",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/LfLwQ4nSKig/maxresdefault_live.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/LfLwQ4nSKig/maxresdefault.jpg",
       "status": "not_on_air",
       "start_time": "2026-06-16T23:30:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=LfLwQ4nSKig",
@@ -122,6 +122,19 @@
       "url": "https://www.youtube.com/watch?v=dgr7ZPr5BnY",
       "matched_keywords": [
         "ラジオ"
+      ]
+    },
+    {
+      "id": "01KV8QF4ASC238GYVW64DK571Z",
+      "title": "【雑談】5000兆円欲しくないですか～06/17早帰り水曜日～【 にじさんじ / 五木左京 】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/kQL2Y5_-zkg/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-06-17T19:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=kQL2Y5_-zkg",
+      "matched_keywords": [
+        "雑談"
       ]
     },
     {
