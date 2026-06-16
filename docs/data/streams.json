@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-17T02:30:48.488059+09:00",
+  "updated_at": "2026-06-17T03:00:57.073649+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -24,8 +24,8 @@
       "title": "【 雑談 】収益化配信ありがとうございました！雑談とスパチャ読み【 にじさんじ  / 小々波いるか 】",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/NwOXfmzJeCw/maxresdefault_live.jpg",
-      "status": "on_air",
+      "thumbnail": "https://i.ytimg.com/vi/NwOXfmzJeCw/maxresdefault.jpg",
+      "status": "not_on_air",
       "start_time": "2026-06-16T23:15:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=NwOXfmzJeCw",
       "matched_keywords": [
@@ -173,6 +173,19 @@
       "status": "not_on_air",
       "start_time": "2026-06-17T00:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=_PVkovDtOrY",
+      "matched_keywords": [
+        "ラジオ"
+      ]
+    },
+    {
+      "id": "01KV8S63AS8JN2BAKAT74W7VRA",
+      "title": "〖コラボラジオ〗ジ　ュ　ビ　リ　ー〖猫屋敷美紅 / 山神カルタ / にじさんじ〗",
+      "liver_name": "01G8WAJSVYGBT5P7X7437GYQVC",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/3Ll80fn9svc/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-06-18T00:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=3Ll80fn9svc",
       "matched_keywords": [
         "ラジオ"
       ]
