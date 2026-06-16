@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-16T22:30:51.396356+09:00",
+  "updated_at": "2026-06-16T23:01:01.298667+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -111,14 +111,27 @@
       ]
     },
     {
-      "id": "01KV89ZYWHHP6QHM9VD2NHA1JD",
-      "title": "【雑談】帰ってきたよ～【にじさんじ/渋谷ハジメ】",
+      "id": "01KV8BQY331WSE9W33QSKQWJAZ",
+      "title": "【 雑談 】収益化配信ありがとうございました！雑談とスパチャ読み【 にじさんじ  / 小々波いるか 】",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/x4vZIcn6Q0A/maxresdefault_live.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/NwOXfmzJeCw/maxresdefault_live.jpg",
       "status": "not_on_air",
-      "start_time": "2026-06-16T22:30:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=x4vZIcn6Q0A",
+      "start_time": "2026-06-16T23:15:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=NwOXfmzJeCw",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
+      "id": "01KV8AVDAJACAAS0NVY7EMWC8Z",
+      "title": "【雑談】帰ってきたよん【にじさんじ/渋谷ハジメ】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/zzickXpM7tM/maxresdefault_live.jpg",
+      "status": "on_air",
+      "start_time": "2026-06-16T22:42:43.000+09:00",
+      "url": "https://www.youtube.com/watch?v=zzickXpM7tM",
       "matched_keywords": [
         "雑談"
       ]
