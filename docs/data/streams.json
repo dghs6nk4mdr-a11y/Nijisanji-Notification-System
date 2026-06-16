@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-17T06:30:41.206502+09:00",
+  "updated_at": "2026-06-17T07:00:54.003063+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -151,12 +151,25 @@
       ]
     },
     {
+      "id": "01KV96XECXTRB69RK628KTPWR0",
+      "title": "【朝活】おはすず6月17日（水）＃546【七瀬すず菜/にじさんじ】",
+      "liver_name": "01J6CCJAK9N4AKCGFZ75P3W147",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/eGnd8Jn4Y9w/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-06-17T07:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=eGnd8Jn4Y9w",
+      "matched_keywords": [
+        "朝活"
+      ]
+    },
+    {
       "id": "01KV7NDQXMV0X8ZFP1W26ERKGA",
       "title": "【 朝活 】まったり雑談会場はコチラです😉【 皇れお  / にじさんじ 】",
       "liver_name": "01K5BBDKSPBQHW595ESQWN8BBP",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/5mK93mnQcKM/maxresdefault_live.jpg",
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-06-17T06:30:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=5mK93mnQcKM",
       "matched_keywords": [
