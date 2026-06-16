@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-17T07:00:54.003063+09:00",
+  "updated_at": "2026-06-17T07:30:48.300180+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -151,12 +151,25 @@
       ]
     },
     {
+      "id": "01KV98B2J21FS939NSB2VBASAX",
+      "title": "【朝活】６月初回のおはよう！オハ城2026【赤城ウェン/にじさんじ】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/BJ_iyR8qj0I/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-06-17T07:50:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=BJ_iyR8qj0I",
+      "matched_keywords": [
+        "朝活"
+      ]
+    },
+    {
       "id": "01KV96XECXTRB69RK628KTPWR0",
       "title": "【朝活】おはすず6月17日（水）＃546【七瀬すず菜/にじさんじ】",
       "liver_name": "01J6CCJAK9N4AKCGFZ75P3W147",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/eGnd8Jn4Y9w/maxresdefault_live.jpg",
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-06-17T07:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=eGnd8Jn4Y9w",
       "matched_keywords": [
