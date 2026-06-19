@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-19T19:00:47.059686+09:00",
+  "updated_at": "2026-06-19T19:30:41.619778+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -98,12 +98,25 @@
       ]
     },
     {
+      "id": "01KVFP1TXWNP7E8HQB31MMR23K",
+      "title": "【雑談】なんと2周年です！！【ルンルン/にじさんじ】",
+      "liver_name": "01J6CCJAKFW1BRQ4RMTBTCJRXP",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/Dp0N31S87tY/maxresdefault_live.jpg",
+      "status": "on_air",
+      "start_time": "2026-06-19T19:30:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=Dp0N31S87tY",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
       "id": "01KVFK5FQY39XJXX9FJPPNK92F",
       "title": "【雑談】最近ひまですね👻【 椎名唯華/にじさんじ】",
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/aV8yeJNJntI/maxresdefault_live.jpg",
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-06-19T19:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=aV8yeJNJntI",
       "matched_keywords": [
@@ -160,6 +173,19 @@
       "url": "https://www.youtube.com/watch?v=DOMddlFbIkQ",
       "matched_keywords": [
         "ラジオ"
+      ]
+    },
+    {
+      "id": "01KVFPKSE2YTHMRNT5S4PE5RSR",
+      "title": "【雑談】アレルギー検査の結果が出ました【レイン・パターソン/にじさんじ】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/Lq0cWrlZCbw/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-06-20T08:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=Lq0cWrlZCbw",
+      "matched_keywords": [
+        "雑談"
       ]
     }
   ]
