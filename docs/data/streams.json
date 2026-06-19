@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-19T20:30:43.232110+09:00",
+  "updated_at": "2026-06-19T21:00:47.671485+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -102,8 +102,8 @@
       "title": "【雑談】なんと2周年です！！【ルンルン/にじさんじ】",
       "liver_name": "01J6CCJAKFW1BRQ4RMTBTCJRXP",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/Dp0N31S87tY/maxresdefault_live.jpg",
-      "status": "on_air",
+      "thumbnail": "https://i.ytimg.com/vi/Dp0N31S87tY/maxresdefault.jpg",
+      "status": "not_on_air",
       "start_time": "2026-06-19T19:30:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=Dp0N31S87tY",
       "matched_keywords": [
@@ -116,7 +116,7 @@
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/aV8yeJNJntI/maxresdefault_live.jpg",
-      "status": "on_air",
+      "status": "not_on_air",
       "start_time": "2026-06-19T19:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=aV8yeJNJntI",
       "matched_keywords": [
