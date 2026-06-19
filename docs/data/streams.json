@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-19T23:00:48.019327+09:00",
+  "updated_at": "2026-06-19T23:30:46.174559+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -103,7 +103,7 @@
       "liver_name": "01K5BBDKSPBQHW595ESQWN8BBP",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/MAGkYCRAiYw/maxresdefault_live.jpg",
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-06-19T23:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=MAGkYCRAiYw",
       "matched_keywords": [
@@ -197,6 +197,19 @@
       "status": "not_on_air",
       "start_time": "2026-06-20T08:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=Lq0cWrlZCbw",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
+      "id": "01KVG4AXBSA4Y9ZNKV00BRDEHX",
+      "title": "〖雑談〗もうすぐで夏くるかな…！！！！〖にじさんじ￤魔界ノりりむ〗",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/cMVarRGEIko/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-06-20T00:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=cMVarRGEIko",
       "matched_keywords": [
         "雑談"
       ]
