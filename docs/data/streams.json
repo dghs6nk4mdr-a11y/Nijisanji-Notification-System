@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-20T05:30:42.474207+09:00",
+  "updated_at": "2026-06-20T06:00:49.010751+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -108,6 +108,32 @@
       "url": "https://www.youtube.com/watch?v=Lq0cWrlZCbw",
       "matched_keywords": [
         "雑談"
+      ]
+    },
+    {
+      "id": "01KVGTNYWT7SGY9TNKDDS5CWCA",
+      "title": "【スプラトゥーン3】朝活というものをやるぞ！ランクマをやってみる【にじさんじ】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/8ZfG3EF55so/maxresdefault_live.jpg",
+      "status": "on_air",
+      "start_time": "2026-06-20T06:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=8ZfG3EF55so",
+      "matched_keywords": [
+        "朝活"
+      ]
+    },
+    {
+      "id": "01KVGSGC3115B57RHFJHJT040X",
+      "title": "〖スプラトゥーン３〗朝活やるぞぉーーー！！〖にじさんじ￤魔界ノりりむ〗",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/2544rPqwKvk/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-06-20T06:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=2544rPqwKvk",
+      "matched_keywords": [
+        "朝活"
       ]
     },
     {
