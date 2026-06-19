@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-19T18:00:48.304009+09:00",
+  "updated_at": "2026-06-19T18:30:44.726910+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -95,6 +95,19 @@
       "url": "https://www.youtube.com/watch?v=3Ll80fn9svc",
       "matched_keywords": [
         "ラジオ"
+      ]
+    },
+    {
+      "id": "01KVFK5FQY39XJXX9FJPPNK92F",
+      "title": "【雑談】最近ひまですね👻【 椎名唯華/にじさんじ】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/aV8yeJNJntI/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-06-19T19:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=aV8yeJNJntI",
+      "matched_keywords": [
+        "雑談"
       ]
     },
     {
