@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-21T05:30:44.115329+09:00",
+  "updated_at": "2026-06-21T06:00:51.048998+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -187,6 +187,19 @@
       "url": "https://www.youtube.com/watch?v=mty_Xwpwpq8",
       "matched_keywords": [
         "ラジオ"
+      ]
+    },
+    {
+      "id": "01KVKCRKMB60CMVNT3C37QSD8W",
+      "title": "【朝活#381】全然梅雨明けないやないかい【雪城眞尋/にじさんじ】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/z3rYry86uYI/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-06-22T07:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=z3rYry86uYI",
+      "matched_keywords": [
+        "朝活"
       ]
     },
     {
