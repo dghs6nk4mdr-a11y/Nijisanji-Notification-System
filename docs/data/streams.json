@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-20T16:30:41.143374+09:00",
+  "updated_at": "2026-06-20T17:00:47.759589+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -95,6 +95,19 @@
       "url": "https://www.youtube.com/watch?v=DOMddlFbIkQ",
       "matched_keywords": [
         "ラジオ"
+      ]
+    },
+    {
+      "id": "01KVHZ8TDMYDFR09QDY5Y4HT81",
+      "title": "【雑談】ソーセージから解放された女による雑談【にじさんじ/矢車りね】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/vss5m7fiCOQ/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-06-20T17:30:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=vss5m7fiCOQ",
+      "matched_keywords": [
+        "雑談"
       ]
     },
     {
