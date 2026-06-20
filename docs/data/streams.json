@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-20T19:30:46.275725+09:00",
+  "updated_at": "2026-06-20T20:00:46.669450+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -98,12 +98,38 @@
       ]
     },
     {
+      "id": "01KVJB0JH1VKE63T6SJMXZSM64",
+      "title": "[雑談] 雑談",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/cKF0swXTba8/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-06-20T22:30:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=cKF0swXTba8",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
+      "id": "01KVJ9K0T17W8VPYWKFJQQJRRT",
+      "title": "【雑談】今ってもう梅雨？【ソフィア・ヴァレンタイン】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/vLzXxWR4ZRc/maxresdefault_live.jpg",
+      "status": "on_air",
+      "start_time": "2026-06-20T19:55:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=vLzXxWR4ZRc",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
       "id": "01KVHZ8TDMYDFR09QDY5Y4HT81",
       "title": "【雑談】ソーセージから解放された女による雑談【にじさんじ/矢車りね】",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/vss5m7fiCOQ/maxresdefault_live.jpg",
-      "status": "on_air",
+      "thumbnail": "https://i.ytimg.com/vi/vss5m7fiCOQ/maxresdefault.jpg",
+      "status": "not_on_air",
       "start_time": "2026-06-20T17:30:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=vss5m7fiCOQ",
       "matched_keywords": [
