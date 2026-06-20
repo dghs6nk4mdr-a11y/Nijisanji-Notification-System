@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-20T23:25:29.979080+09:00",
+  "updated_at": "2026-06-20T23:30:42.239349+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -95,6 +95,19 @@
       "url": "https://www.youtube.com/watch?v=DOMddlFbIkQ",
       "matched_keywords": [
         "ラジオ"
+      ]
+    },
+    {
+      "id": "01KVJPREC2Y820HM0FKXY03RMY",
+      "title": "【Chat/雑談】Back from a small trip! ただいま戻りました！【NIJISANI EN | Seible】",
+      "liver_name": "01GHE21YHHT7MGCSEMXAN4GVHG",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/V7RMPBuos8I/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-06-20T23:30:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=V7RMPBuos8I",
+      "matched_keywords": [
+        "雑談"
       ]
     },
     {
@@ -210,6 +223,19 @@
       "status": "not_on_air",
       "start_time": "2026-06-20T00:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=cMVarRGEIko",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
+      "id": "01KVJQ19T3BTWQ8AH693WJ681D",
+      "title": "【朝雑談】梅雨入りだああああ！！！（紅だああああ、のテンションで）【四季凪アキラ/にじさんじ】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/T0Ovde7DnA8/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-06-21T10:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=T0Ovde7DnA8",
       "matched_keywords": [
         "雑談"
       ]
