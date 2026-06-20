@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-20T17:30:41.924322+09:00",
+  "updated_at": "2026-06-20T18:00:51.467643+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -103,7 +103,7 @@
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/vss5m7fiCOQ/maxresdefault_live.jpg",
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-06-20T17:30:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=vss5m7fiCOQ",
       "matched_keywords": [
@@ -173,6 +173,20 @@
       "url": "https://www.youtube.com/watch?v=cMVarRGEIko",
       "matched_keywords": [
         "雑談"
+      ]
+    },
+    {
+      "id": "01KVJ30G0EN3R8BVCMC27ZEZYF",
+      "title": "【朝活雑談】色々あったねぇ【ニチアサ！緋八マン！】【にじさんじ/緋八マナ】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/JzY1jrSG8K8/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-06-21T07:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=JzY1jrSG8K8",
+      "matched_keywords": [
+        "雑談",
+        "朝活"
       ]
     },
     {
