@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-20T23:30:42.239349+09:00",
+  "updated_at": "2026-06-21T00:00:51.864765+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -7,103 +7,12 @@
   ],
   "streams": [
     {
-      "id": "01KVG02DXK0G227ZWAK5WDYGKB",
-      "title": "【 雑談 】家に入れなかった男と話してかない？【 皇れお  / にじさんじ 】",
-      "liver_name": "01K5BBDKSPBQHW595ESQWN8BBP",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/MAGkYCRAiYw/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-06-19T23:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=MAGkYCRAiYw",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KVFP1TXWNP7E8HQB31MMR23K",
-      "title": "【雑談】なんと2周年です！！【ルンルン/にじさんじ】",
-      "liver_name": "01J6CCJAKFW1BRQ4RMTBTCJRXP",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/Dp0N31S87tY/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-06-19T19:30:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=Dp0N31S87tY",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KVFK5FQY39XJXX9FJPPNK92F",
-      "title": "【雑談】最近ひまですね👻【 椎名唯華/にじさんじ】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/aV8yeJNJntI/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-06-19T19:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=aV8yeJNJntI",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KVEK48D0C436AT93447DW025",
-      "title": "デス数×筋トレの健康朝活本気ガチマッチ！！w/きんさん,みやさん『 スプラトゥーン3 』【 エビオ/にじさんじ 】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/bmSeWFP58jI/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-06-19T09:05:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=bmSeWFP58jI",
-      "matched_keywords": [
-        "朝活"
-      ]
-    },
-    {
-      "id": "01KVDJTP8C67TXWQH0YFYYK7SJ",
-      "title": "【 朝活 】おはようのオーディション会場はこちらです。【城瀬いすみ / すぷれあ / にじさんじ】",
-      "liver_name": "01K5BBDKSPBQHW595ESQWN8BBP",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/9Xcdj9LxOvo/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-06-19T07:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=9Xcdj9LxOvo",
-      "matched_keywords": [
-        "朝活"
-      ]
-    },
-    {
-      "id": "01KVDHYBATB4GNGBCFK7DAG4FY",
-      "title": "【雑談】「アニメで泣く人を冷笑してそう」と言われた女の深夜雑談。【えま★おうがすと/にじさんじ所属】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/40gxgAiP2d0/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-06-19T00:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=40gxgAiP2d0",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KVBMEMHGV5Z7HYANS9WY3T7T",
-      "title": "〖深夜ラジオ〗2026年6月19日(金)のにゃルラジ🌙〖猫屋敷美紅 / にじさんじ〗",
-      "liver_name": "01K2KXFY4WTXD0E42NN67KG73Q",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/DOMddlFbIkQ/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-06-19T00:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=DOMddlFbIkQ",
-      "matched_keywords": [
-        "ラジオ"
-      ]
-    },
-    {
       "id": "01KVJPREC2Y820HM0FKXY03RMY",
       "title": "【Chat/雑談】Back from a small trip! ただいま戻りました！【NIJISANI EN | Seible】",
       "liver_name": "01GHE21YHHT7MGCSEMXAN4GVHG",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/V7RMPBuos8I/maxresdefault_live.jpg",
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-06-20T23:30:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=V7RMPBuos8I",
       "matched_keywords": [
@@ -238,6 +147,19 @@
       "url": "https://www.youtube.com/watch?v=T0Ovde7DnA8",
       "matched_keywords": [
         "雑談"
+      ]
+    },
+    {
+      "id": "01KVJR68NBGA2EYDM36PVDYZ99",
+      "title": "【 あつまれどうぶつの森 】恐らく雑草まみれの島を眺めながら朝活【にじさんじ / 五木左京】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/oxEDlIvmL7g/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-06-21T08:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=oxEDlIvmL7g",
+      "matched_keywords": [
+        "朝活"
       ]
     },
     {
