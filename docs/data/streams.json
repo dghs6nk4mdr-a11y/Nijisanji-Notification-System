@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-21T12:00:50.146563+09:00",
+  "updated_at": "2026-06-21T12:30:43.579825+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -137,12 +137,25 @@
       ]
     },
     {
+      "id": "01KVM32H8XVSPH43P5T7AEZN87",
+      "title": "【ラジオ】ジョー・力一の空昼ブランコ #97【にじさんじ】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/Umw5iuJF1vw/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-06-21T14:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=Umw5iuJF1vw",
+      "matched_keywords": [
+        "ラジオ"
+      ]
+    },
+    {
       "id": "01KVKZY61MHX9YVVMN55QYDR5K",
       "title": "雑談からのワールドカップ 日本VSチュニジア戦 同時視聴【長尾景/にじさんじ】【#ながおしゃべり】",
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/69RvBqfVtVw/maxresdefault_live.jpg",
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-06-21T12:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=69RvBqfVtVw",
       "matched_keywords": [
@@ -154,8 +167,8 @@
       "title": "【朝雑談】梅雨入りだああああ！！！（紅だああああ、のテンションで）【四季凪アキラ/にじさんじ】",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/T0Ovde7DnA8/maxresdefault_live.jpg",
-      "status": "on_air",
+      "thumbnail": "https://i.ytimg.com/vi/T0Ovde7DnA8/maxresdefault.jpg",
+      "status": "not_on_air",
       "start_time": "2026-06-21T10:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=T0Ovde7DnA8",
       "matched_keywords": [
