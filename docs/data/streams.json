@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-21T15:00:45.008839+09:00",
+  "updated_at": "2026-06-21T15:30:47.558111+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -142,7 +142,7 @@
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/mtGiXvEiusA/maxresdefault_live.jpg",
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-06-21T15:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=mtGiXvEiusA",
       "matched_keywords": [
@@ -167,8 +167,8 @@
       "title": "雑談からのワールドカップ 日本VSチュニジア戦 同時視聴【長尾景/にじさんじ】【#ながおしゃべり】",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/69RvBqfVtVw/maxresdefault_live.jpg",
-      "status": "on_air",
+      "thumbnail": "https://i.ytimg.com/vi/69RvBqfVtVw/maxresdefault.jpg",
+      "status": "not_on_air",
       "start_time": "2026-06-21T12:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=69RvBqfVtVw",
       "matched_keywords": [
