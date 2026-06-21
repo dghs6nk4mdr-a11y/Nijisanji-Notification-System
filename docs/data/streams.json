@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-21T22:00:51.093332+09:00",
+  "updated_at": "2026-06-21T22:30:41.275186+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -132,6 +132,19 @@
       "status": "not_on_air",
       "start_time": "2026-06-20T00:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=cMVarRGEIko",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
+      "id": "01KVN54CVTR7XCPZJCQ4WSR446",
+      "title": "【おつかれさんご】　ゆるゆる定期雑談！第181回！管理したいのか管理されたいのか・・・【周央サンゴ】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/tIRBccREbtY/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-06-21T23:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=tIRBccREbtY",
       "matched_keywords": [
         "雑談"
       ]
