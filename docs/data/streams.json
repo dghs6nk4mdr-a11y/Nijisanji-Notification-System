@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-22T05:30:43.140834+09:00",
+  "updated_at": "2026-06-22T06:00:49.358775+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -135,6 +135,19 @@
       "url": "https://www.youtube.com/watch?v=mty_Xwpwpq8",
       "matched_keywords": [
         "ラジオ"
+      ]
+    },
+    {
+      "id": "01KVNYWW0K6GXZ9YWMDRBRC7SC",
+      "title": "【#あらなみマイクラ】べりがりこ朝活コラボ！！！【早乙女ベリー/司賀りこ/にじさんじ】",
+      "liver_name": "01J0QW5BGPPAMKPGG77R9YM6YD",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/jLWN1gyBSgM/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-06-22T08:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=jLWN1gyBSgM",
+      "matched_keywords": [
+        "朝活"
       ]
     },
     {
