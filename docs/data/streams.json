@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-21T10:00:46.508647+09:00",
+  "updated_at": "2026-06-21T10:30:44.729360+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -142,7 +142,7 @@
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/T0Ovde7DnA8/maxresdefault_live.jpg",
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-06-21T10:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=T0Ovde7DnA8",
       "matched_keywords": [
@@ -167,8 +167,8 @@
       "title": "【 あつまれどうぶつの森 】恐らく雑草まみれの島を眺めながら朝活【にじさんじ / 五木左京】",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/oxEDlIvmL7g/maxresdefault_live.jpg",
-      "status": "on_air",
+      "thumbnail": "https://i.ytimg.com/vi/oxEDlIvmL7g/maxresdefault.jpg",
+      "status": "not_on_air",
       "start_time": "2026-06-21T08:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=oxEDlIvmL7g",
       "matched_keywords": [
