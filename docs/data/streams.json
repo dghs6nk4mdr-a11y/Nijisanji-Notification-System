@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-22T06:55:37.625326+09:00",
+  "updated_at": "2026-06-22T07:00:47.991160+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -159,6 +159,19 @@
       "status": "not_on_air",
       "start_time": "2026-06-22T08:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=hSOXJXIUZqE",
+      "matched_keywords": [
+        "朝活"
+      ]
+    },
+    {
+      "id": "01KVP35CZWVAXY7AP8PP6YGX2S",
+      "title": "【朝活】こちらお求めの月曜日です。【にじさんじ/町田ちま】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/oG_q2vC8qiA/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-06-22T07:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=oG_q2vC8qiA",
       "matched_keywords": [
         "朝活"
       ]
