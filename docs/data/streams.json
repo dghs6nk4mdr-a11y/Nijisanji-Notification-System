@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-22T06:30:40.348290+09:00",
+  "updated_at": "2026-06-22T06:55:37.625326+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -164,6 +164,19 @@
       ]
     },
     {
+      "id": "01KVP21JS70Z7T4W1AT6V2V7KB",
+      "title": "【朝活】おはすず6月22日（月）＃548【七瀬すず菜/にじさんじ】",
+      "liver_name": "01J6CCJAK9N4AKCGFZ75P3W147",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/jbhLndnEl3U/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-06-22T07:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=jbhLndnEl3U",
+      "matched_keywords": [
+        "朝活"
+      ]
+    },
+    {
       "id": "01KVKCRKMB60CMVNT3C37QSD8W",
       "title": "【朝活#381】全然梅雨明けないやないかい【雪城眞尋/にじさんじ】",
       "liver_name": "",
@@ -182,7 +195,7 @@
       "liver_name": "01K5BBDKSPBQHW595ESQWN8BBP",
       "liver_icon": "",
       "thumbnail": null,
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-06-22T06:30:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=7XsK96ZmPrs",
       "matched_keywords": [
