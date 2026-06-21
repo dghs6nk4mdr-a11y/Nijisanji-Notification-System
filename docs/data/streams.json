@@ -1,24 +1,11 @@
 {
-  "updated_at": "2026-06-22T00:00:45.543190+09:00",
+  "updated_at": "2026-06-22T00:30:42.121130+09:00",
   "keywords": [
     "雑談",
     "朝活",
     "ラジオ"
   ],
   "streams": [
-    {
-      "id": "01KVN54CVTR7XCPZJCQ4WSR446",
-      "title": "【おつかれさんご】　ゆるゆる定期雑談！第181回！管理したいのか管理されたいのか・・・【周央サンゴ】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/tIRBccREbtY/maxresdefault_live.jpg",
-      "status": "on_air",
-      "start_time": "2026-06-21T23:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=tIRBccREbtY",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
     {
       "id": "01KVN0VFW8RB1HEQJ8VTMHH8VN",
       "title": "【雑談】最近のこととか、音質の調子がいいハナシとか。【 にじさんじ / ミラン・ケストレル】",
@@ -164,12 +151,26 @@
       ]
     },
     {
+      "id": "01KVNBQMQJQXAWR5KCEKZ3G35J",
+      "title": "【 朝活 / 雑談 】歌ってみたが出るらしい日の朝【 皇れお  / にじさんじ 】",
+      "liver_name": "01K5BBDKSPBQHW595ESQWN8BBP",
+      "liver_icon": "",
+      "thumbnail": null,
+      "status": "not_on_air",
+      "start_time": "2026-06-22T06:30:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=7XsK96ZmPrs",
+      "matched_keywords": [
+        "雑談",
+        "朝活"
+      ]
+    },
+    {
       "id": "01KVJXB295QVTHVRB6VF9JS9R7",
       "title": "〖深夜ラジオ〗2026年6月22日(月)のにゃルラジ🌙〖猫屋敷美紅 / にじさんじ〗",
       "liver_name": "01K2KXFY4WTXD0E42NN67KG73Q",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/73QDs9ESwMg/maxresdefault_live.jpg",
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-06-22T00:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=73QDs9ESwMg",
       "matched_keywords": [
