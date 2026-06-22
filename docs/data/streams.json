@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-23T01:30:52.464808+09:00",
+  "updated_at": "2026-06-23T02:00:56.534018+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -11,7 +11,7 @@
       "title": "【 あつ森 / 雑談 】またーり話しながら釣りとかする？【 皇れお  / にじさんじ 】",
       "liver_name": "01K5BBDKSPBQHW595ESQWN8BBP",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/FOQI7Pz91EA/maxresdefault_live.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/FOQI7Pz91EA/maxresdefault.jpg",
       "status": "not_on_air",
       "start_time": "2026-06-22T23:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=FOQI7Pz91EA",
@@ -172,6 +172,19 @@
       "status": "not_on_air",
       "start_time": "2026-06-23T00:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=o2xSPj8Vamo",
+      "matched_keywords": [
+        "ラジオ"
+      ]
+    },
+    {
+      "id": "01KVR4DRASYA3KQF91R20F6A89",
+      "title": "〖深夜ラジオ〗2026年6月24日(水)のにゃルラジ🌙〖猫屋敷美紅 / にじさんじ〗",
+      "liver_name": "01K2KXFY4WTXD0E42NN67KG73Q",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/QK2yjcUNhMs/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-06-24T00:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=QK2yjcUNhMs",
       "matched_keywords": [
         "ラジオ"
       ]
