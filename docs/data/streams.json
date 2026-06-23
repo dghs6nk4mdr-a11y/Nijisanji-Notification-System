@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-23T22:30:48.675304+09:00",
+  "updated_at": "2026-06-23T23:00:51.950717+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -226,6 +226,20 @@
       "url": "https://www.youtube.com/watch?v=o2xSPj8Vamo",
       "matched_keywords": [
         "ラジオ"
+      ]
+    },
+    {
+      "id": "01KVTB34H1PJ9F3JYW2C9GK5B3",
+      "title": "【 朝活 / 雑談 】今日もおはようさせてよ【 皇れお  / にじさんじ 】",
+      "liver_name": "01K5BBDKSPBQHW595ESQWN8BBP",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/0MWOeUV6fgQ/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-06-24T06:30:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=0MWOeUV6fgQ",
+      "matched_keywords": [
+        "雑談",
+        "朝活"
       ]
     },
     {
