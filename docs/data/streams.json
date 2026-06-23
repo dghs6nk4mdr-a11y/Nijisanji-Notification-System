@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T02:00:59.190544+09:00",
+  "updated_at": "2026-06-24T02:30:48.611722+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -99,6 +99,19 @@
       ]
     },
     {
+      "id": "01KVTR790RYY4TN4PB025AXZVB",
+      "title": "【雑談】深夜に少しお話しませんか？【にじさんじ/渋谷ハジメ】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/AkV7z6Fuf34/maxresdefault_live.jpg",
+      "status": "on_air",
+      "start_time": "2026-06-24T02:21:04.000+09:00",
+      "url": "https://www.youtube.com/watch?v=AkV7z6Fuf34",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
       "id": "01KVTPH1HHXJRMDPWAVMKW6K21",
       "title": "コップ一杯の水を飲み終えるまで雑談【にじさんじ／佐伯イッテツ】",
       "liver_name": "",
@@ -116,7 +129,7 @@
       "title": "〖深夜ラジオ〗2026年6月24日(水)のにゃルラジ🌙〖猫屋敷美紅 / にじさんじ〗",
       "liver_name": "01K2KXFY4WTXD0E42NN67KG73Q",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/QK2yjcUNhMs/maxresdefault_live.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/QK2yjcUNhMs/maxresdefault.jpg",
       "status": "not_on_air",
       "start_time": "2026-06-24T00:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=QK2yjcUNhMs",
