@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-23T15:00:47.789105+09:00",
+  "updated_at": "2026-06-23T15:11:22.191073+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -161,6 +161,19 @@
       "url": "https://www.youtube.com/watch?v=73QDs9ESwMg",
       "matched_keywords": [
         "ラジオ"
+      ]
+    },
+    {
+      "id": "01KVSHKJJFXRQ0TZAZJ73YTY8H",
+      "title": "【雑談】コーヒーブレイク、しましょうか。【えま★おうがすと/にじさんじ所属】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/HrsjtVTx8vU/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-06-23T16:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=HrsjtVTx8vU",
+      "matched_keywords": [
+        "雑談"
       ]
     },
     {
