@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-25T01:30:44.640552+09:00",
+  "updated_at": "2026-06-25T02:00:52.164937+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -109,6 +109,33 @@
       "url": "https://www.youtube.com/watch?v=QK2yjcUNhMs",
       "matched_keywords": [
         "ラジオ"
+      ]
+    },
+    {
+      "id": "01KVX8BK31DZSEZSDR7MPPASN2",
+      "title": "【朝活雑談】雨じゃなくて飴が降って欲しい梅雨【早乙女ベリー/にじさんじ】",
+      "liver_name": "01J6CCJAK9N4AKCGFZ75P3W147",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/PYlOfGdnJTo/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-06-25T08:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=PYlOfGdnJTo",
+      "matched_keywords": [
+        "雑談",
+        "朝活"
+      ]
+    },
+    {
+      "id": "01KVX976QPPPZYHYNSRY36N4E8",
+      "title": "【 朝活 】少し変えたメイクしながら、君とおはなし準備 ^_ .̫ _^💭【城瀬いすみ / すぷれあ / にじさんじ】",
+      "liver_name": "01K5BBDKSPBQHW595ESQWN8BBP",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/NNdVBCc666c/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-06-25T07:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=NNdVBCc666c",
+      "matched_keywords": [
+        "朝活"
       ]
     },
     {
