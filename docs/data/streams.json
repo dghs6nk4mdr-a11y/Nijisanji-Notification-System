@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T22:00:49.445963+09:00",
+  "updated_at": "2026-06-24T22:24:17.353465+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -82,6 +82,19 @@
       "url": "https://www.youtube.com/watch?v=o2xSPj8Vamo",
       "matched_keywords": [
         "ラジオ"
+      ]
+    },
+    {
+      "id": "01KVWWM62H6Q0PVXYQ0X02W0DD",
+      "title": "【雑談】復帰です！お久しぶりです！【榊ネス/にじさんじ】",
+      "liver_name": "01J6CCJAKJWE5YZ4TD60BXXZBZ",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/6MnZ202BOTo/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-06-24T23:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=6MnZ202BOTo",
+      "matched_keywords": [
+        "雑談"
       ]
     },
     {
