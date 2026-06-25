@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26T02:31:10.071786+09:00",
+  "updated_at": "2026-06-26T03:00:55.015278+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -200,6 +200,19 @@
       "url": "https://www.youtube.com/watch?v=ieRARvqprPs",
       "matched_keywords": [
         "雑談"
+      ]
+    },
+    {
+      "id": "01KVZXKSK0VTNSH45K0EJKFJ1R",
+      "title": "【Chill】ラジオ気分で聞ける歌ってみたについての裏話【綺沙良/にじさんじ】",
+      "liver_name": "01J6CCJAKFW1BRQ4RMTBTCJRXP",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/vdGoHV6FcFA/maxresdefault.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-06-26T20:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=vdGoHV6FcFA",
+      "matched_keywords": [
+        "ラジオ"
       ]
     },
     {
