@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-25T21:30:44.905568+09:00",
+  "updated_at": "2026-06-25T22:00:57.810946+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -109,6 +109,32 @@
       "url": "https://www.youtube.com/watch?v=QK2yjcUNhMs",
       "matched_keywords": [
         "ラジオ"
+      ]
+    },
+    {
+      "id": "01KVZDJXRJNBGCGDD1DTBZNXF2",
+      "title": "【雑談】雑に駄弁るのが至高【渡会雲雀/にじさんじ】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/Xqus0yrDFvI/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-06-25T22:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=Xqus0yrDFvI",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
+      "id": "01KVZCDMA6K6VG1HJZ2VTGYFH2",
+      "title": "【雑談】Tシャツを着まわす季節になったよ【にじさんじ/える】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/GQcQYoit7gU/maxresdefault_live.jpg",
+      "status": "on_air",
+      "start_time": "2026-06-25T22:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=GQcQYoit7gU",
+      "matched_keywords": [
+        "雑談"
       ]
     },
     {
@@ -231,12 +257,12 @@
     },
     {
       "id": "01KVVW0FX5M8AN18D3VWJSC3JZ",
-      "title": "【#ろろめろ】お互いお疲れ様✨️晩御飯食べながら雑談🍚【水宮枢×司賀りこ】",
+      "title": "【#ろろめろ】お互いお疲れ様✨️ご飯食べながら雑談🍚【水宮枢×司賀りこ】",
       "liver_name": "01J6CCJAKFW1BRQ4RMTBTCJRXP",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/ieRARvqprPs/maxresdefault_live.jpg",
       "status": "not_on_air",
-      "start_time": "2026-06-26T19:00:00.000+09:00",
+      "start_time": "2026-06-26T22:30:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=ieRARvqprPs",
       "matched_keywords": [
         "雑談"
