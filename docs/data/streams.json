@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26T00:30:40.706935+09:00",
+  "updated_at": "2026-06-26T01:00:46.052456+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -11,8 +11,8 @@
       "title": "【雑談】お祓いに行ってきた話【健屋花那/にじさんじ】",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/MGZ9cFxQNr0/maxresdefault_live.jpg",
-      "status": "on_air",
+      "thumbnail": "https://i.ytimg.com/vi/MGZ9cFxQNr0/maxresdefault.jpg",
+      "status": "not_on_air",
       "start_time": "2026-06-25T23:45:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=MGZ9cFxQNr0",
       "matched_keywords": [
@@ -25,7 +25,7 @@
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/X61pRCGUUE8/maxresdefault_live.jpg",
-      "status": "on_air",
+      "status": "not_on_air",
       "start_time": "2026-06-25T23:25:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=X61pRCGUUE8",
       "matched_keywords": [
@@ -37,8 +37,8 @@
       "title": "だらだらとしゃべる | 雑談【にじさんじ/叶】",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/ko35hiYPwh8/maxresdefault_live.jpg",
-      "status": "on_air",
+      "thumbnail": "https://i.ytimg.com/vi/ko35hiYPwh8/maxresdefault.jpg",
+      "status": "not_on_air",
       "start_time": "2026-06-25T23:05:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=ko35hiYPwh8",
       "matched_keywords": [
@@ -50,23 +50,10 @@
       "title": "【雑談】雑に駄弁るのが至高【渡会雲雀/にじさんじ】",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/Xqus0yrDFvI/maxresdefault_live.jpg",
-      "status": "on_air",
+      "thumbnail": "https://i.ytimg.com/vi/Xqus0yrDFvI/maxresdefault.jpg",
+      "status": "not_on_air",
       "start_time": "2026-06-25T22:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=Xqus0yrDFvI",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KVZCDMA6K6VG1HJZ2VTGYFH2",
-      "title": "【雑談】Tシャツを着まわす季節になったよ【にじさんじ/える】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/GQcQYoit7gU/maxresdefault_live.jpg",
-      "status": "on_air",
-      "start_time": "2026-06-25T22:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=GQcQYoit7gU",
       "matched_keywords": [
         "雑談"
       ]
@@ -77,7 +64,7 @@
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/YiwM5xG8Mcc/maxresdefault_live.jpg",
-      "status": "on_air",
+      "status": "not_on_air",
       "start_time": "2026-06-25T22:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=YiwM5xG8Mcc",
       "matched_keywords": [
@@ -204,10 +191,10 @@
     },
     {
       "id": "01KVZNWRR9YKYDW7TSAXKWH0CB",
-      "title": "サムネ作成中〖 Minecraft 〗#あらなみマイクラ 朝活🔅博物館建築～ドパタッチ完成編🖐🏻～〖 にじさんじ / 夜牛詩乃 〗",
+      "title": "〖 Minecraft 〗#あらなみマイクラ 朝活🔅博物館建築～ドパタッチ完成編🖐🏻～〖 にじさんじ / 夜牛詩乃 〗",
       "liver_name": "01K2KXFY4WTXD0E42NN67KG73Q",
       "liver_icon": "",
-      "thumbnail": null,
+      "thumbnail": "https://i.ytimg.com/vi/YXhH9flfmM4/maxresdefault_live.jpg",
       "status": "not_on_air",
       "start_time": "2026-06-26T08:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=YXhH9flfmM4",
