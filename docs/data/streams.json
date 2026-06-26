@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26T22:30:40.461888+09:00",
+  "updated_at": "2026-06-26T23:00:47.856083+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -208,8 +208,8 @@
       "liver_name": "01J6CCJAKFW1BRQ4RMTBTCJRXP",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/ieRARvqprPs/maxresdefault_live.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-06-26T22:30:00.000+09:00",
+      "status": "on_air",
+      "start_time": "2026-06-26T23:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=ieRARvqprPs",
       "matched_keywords": [
         "雑談"
@@ -233,8 +233,8 @@
       "title": "【雑談】１週間お疲れ様でした会、今週末はコロッケ☔【雪城眞尋/にじさんじ】",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/1RjqoXNX3qk/maxresdefault_live.jpg",
-      "status": "on_air",
+      "thumbnail": "https://i.ytimg.com/vi/1RjqoXNX3qk/maxresdefault.jpg",
+      "status": "not_on_air",
       "start_time": "2026-06-26T21:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=1RjqoXNX3qk",
       "matched_keywords": [
