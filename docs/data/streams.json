@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26T19:30:41.510749+09:00",
+  "updated_at": "2026-06-26T20:00:45.319787+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -216,12 +216,25 @@
       ]
     },
     {
+      "id": "01KW1R805TNPKECSJD3GBK76XZ",
+      "title": "【雑談】１週間お疲れ様でした会、今週末はコロッケ☔【雪城眞尋/にじさんじ】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/1RjqoXNX3qk/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-06-26T21:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=1RjqoXNX3qk",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
       "id": "01KVZXKSK0VTNSH45K0EJKFJ1R",
       "title": "【Chill】ラジオ気分で聞ける歌ってみたについての裏話【綺沙良/にじさんじ】",
       "liver_name": "01J6CCJAKFW1BRQ4RMTBTCJRXP",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/vdGoHV6FcFA/maxresdefault.jpg",
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-06-26T20:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=vdGoHV6FcFA",
       "matched_keywords": [
