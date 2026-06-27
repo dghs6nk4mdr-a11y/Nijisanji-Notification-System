@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-28T00:00:49.865771+09:00",
+  "updated_at": "2026-06-28T00:30:45.714346+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -59,6 +59,19 @@
       ]
     },
     {
+      "id": "01KW4S8CVS1A3R6R2K8Y6S1C9D",
+      "title": "【 ラジオ📻 】 # 04　ののとみかの 「」らじお 【 にじさんじ / 蝸堂みかる と 十河ののは 】",
+      "liver_name": "01K2KXFYC3BCAYM6XJBVAM4YHT",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/kQMR3_L8Fsc/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-06-28T20:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=kQMR3_L8Fsc",
+      "matched_keywords": [
+        "ラジオ"
+      ]
+    },
+    {
       "id": "01KW4S82127H6BQQB17VHN6NJX",
       "title": "【朝雑談】除湿の性能が試される今日このごろ【四季凪アキラ/にじさんじ】",
       "liver_name": "",
@@ -91,7 +104,7 @@
       "liver_name": "01K2KXFY4WTXD0E42NN67KG73Q",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/651AjnuIi-c/maxresdefault_live.jpg",
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-06-28T00:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=651AjnuIi-c",
       "matched_keywords": [
