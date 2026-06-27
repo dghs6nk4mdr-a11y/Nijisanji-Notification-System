@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-27T17:30:44.977162+09:00",
+  "updated_at": "2026-06-27T17:40:59.534236+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -136,6 +136,19 @@
       "url": "https://www.youtube.com/watch?v=EC88t6RPAkc",
       "matched_keywords": [
         "ラジオ"
+      ]
+    },
+    {
+      "id": "01KW43GGP3GGXRSRDHS72DSVSS",
+      "title": "𓊆 雑談 𓊇 #きらにぱ3D ありがとうございました！！ 𓊆 雲母たまこ ┊ にじさんじ 𓊇",
+      "liver_name": "01J6CCJAK9N4AKCGFZ75P3W147",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/EamzgkU4NdA/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-06-27T20:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=EamzgkU4NdA",
+      "matched_keywords": [
+        "雑談"
       ]
     },
     {
