@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-28T02:30:42.703802+09:00",
+  "updated_at": "2026-06-28T03:00:52.665436+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -109,6 +109,19 @@
       "url": "https://www.youtube.com/watch?v=651AjnuIi-c",
       "matched_keywords": [
         "ラジオ"
+      ]
+    },
+    {
+      "id": "01KW52P9YSFPKB4Z37B9QWVQJ0",
+      "title": "【雑談】Summer Rolls In",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": null,
+      "status": "not_on_air",
+      "start_time": "2026-06-29T09:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=iGxsL_98cuw",
+      "matched_keywords": [
+        "雑談"
       ]
     },
     {
