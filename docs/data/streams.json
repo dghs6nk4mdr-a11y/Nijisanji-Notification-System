@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-27T23:30:43.483263+09:00",
+  "updated_at": "2026-06-28T00:00:49.865771+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -7,135 +7,16 @@
   ],
   "streams": [
     {
-      "id": "01KW1WHDAT31ZKH05TFP5Y5TZ1",
-      "title": "【雑談】実は仲良し！？ちまさんとゲヘナの感想など話してもっと仲良くなる【町田ちま&健屋花那/にじさんじ】",
-      "liver_name": "01G8WAJS14FF2EJC5K88TR368C",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/JyT2vq3Qudc/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-06-26T23:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=JyT2vq3Qudc",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KVVW0FX5M8AN18D3VWJSC3JZ",
-      "title": "【#ろろめろ】お互いお疲れ様✨️ご飯食べながら雑談🍚【水宮枢×司賀りこ】",
-      "liver_name": "01J6CCJAKFW1BRQ4RMTBTCJRXP",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/ieRARvqprPs/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-06-26T23:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=ieRARvqprPs",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KW1P828CT21A0SFD9C18SWE1",
-      "title": "雑談しながらお前らと家に帰るゲーム-RV There Yet?-",
+      "id": "01KW4RC54P1WDYPZDS2J8D5MGR",
+      "title": "【雑談】告知を終えた突発ざつだん【戌亥とこ/にじさんじ】",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": null,
-      "status": "not_on_air",
-      "start_time": "2026-06-26T22:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=XHkZHF_Elm0",
+      "thumbnail": "https://i.ytimg.com/vi/FS58yN3nh00/maxresdefault_live.jpg",
+      "status": "on_air",
+      "start_time": "2026-06-27T23:45:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=FS58yN3nh00",
       "matched_keywords": [
         "雑談"
-      ]
-    },
-    {
-      "id": "01KW1R805TNPKECSJD3GBK76XZ",
-      "title": "【雑談】１週間お疲れ様でした会、今週末はコロッケ☔【雪城眞尋/にじさんじ】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/1RjqoXNX3qk/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-06-26T21:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=1RjqoXNX3qk",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KVZXKSK0VTNSH45K0EJKFJ1R",
-      "title": "【Chill】ラジオ気分で聞ける歌ってみたについての裏話【綺沙良/にじさんじ】",
-      "liver_name": "01J6CCJAKFW1BRQ4RMTBTCJRXP",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/vdGoHV6FcFA/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-06-26T20:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=vdGoHV6FcFA",
-      "matched_keywords": [
-        "ラジオ"
-      ]
-    },
-    {
-      "id": "01KW0PFMVMFCSCSKA8Z0YKRNBH",
-      "title": "【雑談/talk】朝活成功の世界線、ダウナーな鷹宮とチルい曲(Chill MIX)【にじさんじ/鷹宮リオン】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/_zOW0LVQNjU/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-06-26T12:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=_zOW0LVQNjU",
-      "matched_keywords": [
-        "雑談",
-        "朝活"
-      ]
-    },
-    {
-      "id": "01KVZNWRR9YKYDW7TSAXKWH0CB",
-      "title": "〖 Minecraft 〗#あらなみマイクラ 朝活🔅博物館建築～ドパタッチ完成編🖐🏻～〖 にじさんじ / 夜牛詩乃 〗",
-      "liver_name": "01K2KXFY4WTXD0E42NN67KG73Q",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/YXhH9flfmM4/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-06-26T08:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=YXhH9flfmM4",
-      "matched_keywords": [
-        "朝活"
-      ]
-    },
-    {
-      "id": "01KW0BKW6K1QFRE2YNNS7TYH0K",
-      "title": "【朝活】おはようございます【不破湊/にじさんじ】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/oy4eaqid2F0/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-06-26T06:45:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=oy4eaqid2F0",
-      "matched_keywords": [
-        "朝活"
-      ]
-    },
-    {
-      "id": "01KVZNKMW92H80H1YVTR1A4CQX",
-      "title": "【 朝活 / 雑談 】金曜日はさすがにおはよう！【 皇れお  / にじさんじ 】",
-      "liver_name": "01K5BBDKSPBQHW595ESQWN8BBP",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/-m8eazSBXZs/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-06-26T06:30:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=-m8eazSBXZs",
-      "matched_keywords": [
-        "雑談",
-        "朝活"
-      ]
-    },
-    {
-      "id": "01KVZMF0DNZ18NAAF4X5Y0C43K",
-      "title": "〖深夜ラジオ〗2026年6月26日(金)のにゃルラジ🌙〖猫屋敷美紅 / にじさんじ〗",
-      "liver_name": "01K2KXFY4WTXD0E42NN67KG73Q",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/EC88t6RPAkc/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-06-26T00:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=EC88t6RPAkc",
-      "matched_keywords": [
-        "ラジオ"
       ]
     },
     {
@@ -175,6 +56,19 @@
       "url": "https://www.youtube.com/watch?v=w6EfxNcKsEw",
       "matched_keywords": [
         "ラジオ"
+      ]
+    },
+    {
+      "id": "01KW4S82127H6BQQB17VHN6NJX",
+      "title": "【朝雑談】除湿の性能が試される今日このごろ【四季凪アキラ/にじさんじ】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/OCLRolmDujk/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-06-28T10:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=OCLRolmDujk",
+      "matched_keywords": [
+        "雑談"
       ]
     },
     {
