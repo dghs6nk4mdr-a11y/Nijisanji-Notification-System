@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-28T20:00:51.683489+09:00",
+  "updated_at": "2026-06-28T20:30:45.169946+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -64,7 +64,7 @@
       "liver_name": "01K2KXFYC3BCAYM6XJBVAM4YHT",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/kQMR3_L8Fsc/maxresdefault_live.jpg",
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-06-28T20:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=kQMR3_L8Fsc",
       "matched_keywords": [
@@ -76,8 +76,8 @@
       "title": "〖 雑談 〗ひま先輩と人生のやりたいことリストつくる！🌻〖 にじさんじ / 本間ひまわり / 夜牛詩乃 〗",
       "liver_name": "01G8WAJR8TVFFTAYG2P37DAX74",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/LKl36x_nbKY/maxresdefault_live.jpg",
-      "status": "on_air",
+      "thumbnail": "https://i.ytimg.com/vi/LKl36x_nbKY/maxresdefault.jpg",
+      "status": "not_on_air",
       "start_time": "2026-06-28T18:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=LKl36x_nbKY",
       "matched_keywords": [
