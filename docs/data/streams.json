@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29T00:30:41.549215+09:00",
+  "updated_at": "2026-06-29T01:00:48.171063+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -7,24 +7,11 @@
   ],
   "streams": [
     {
-      "id": "01KW75M97PS4TYQHZ79YX6AGNE",
-      "title": "【おつかれさんご】　ゆるゆる定期雑談！第182回！俺が、ここで、永遠の桜の木になろう【周央サンゴ】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/eh_d8eStIxI/maxresdefault_live.jpg",
-      "status": "on_air",
-      "start_time": "2026-06-28T23:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=eh_d8eStIxI",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
       "id": "01KW75ATMBDFJ0CT69SWJVH54T",
       "title": "【雑談】６月ってあと２日らしいよ【にじさんじ/渋谷ハジメ】",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/IZEAIcRpjok/maxresdefault_live.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/IZEAIcRpjok/maxresdefault.jpg",
       "status": "not_on_air",
       "start_time": "2026-06-28T22:01:59.000+09:00",
       "url": "https://www.youtube.com/watch?v=IZEAIcRpjok",
@@ -169,7 +156,7 @@
       "liver_name": "01K2KXFY4WTXD0E42NN67KG73Q",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/QfeUGvmy--M/maxresdefault_live.jpg",
-      "status": "on_air",
+      "status": "not_on_air",
       "start_time": "2026-06-29T00:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=QfeUGvmy--M",
       "matched_keywords": [
