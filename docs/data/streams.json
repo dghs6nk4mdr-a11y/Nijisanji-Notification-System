@@ -1,63 +1,11 @@
 {
-  "updated_at": "2026-06-28T23:30:45.176689+09:00",
+  "updated_at": "2026-06-29T00:00:49.256169+09:00",
   "keywords": [
     "雑談",
     "朝活",
     "ラジオ"
   ],
   "streams": [
-    {
-      "id": "01KW4RC54P1WDYPZDS2J8D5MGR",
-      "title": "【雑談】告知を終えた突発ざつだん【戌亥とこ/にじさんじ】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/FS58yN3nh00/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-06-27T23:45:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=FS58yN3nh00",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KW43GGP3GGXRSRDHS72DSVSS",
-      "title": "𓊆 雑談 𓊇 #きらにぱ3D ありがとうございました！！ 𓊆 雲母たまこ ┊ にじさんじ 𓊇",
-      "liver_name": "01J6CCJAK9N4AKCGFZ75P3W147",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/EamzgkU4NdA/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-06-27T20:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=EamzgkU4NdA",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KW402RBAGHQDPE5VR5V9PY0J",
-      "title": "【 あつ森 / 雑談 】夏に向けて！まったりスローライフいくぞ！【 皇れお  / にじさんじ 】",
-      "liver_name": "01K5BBDKSPBQHW595ESQWN8BBP",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/M5QGkXO-h-U/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-06-27T20:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=M5QGkXO-h-U",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KVZVAQHXV69P5Z36EM7BM67A",
-      "title": "〖深夜ラジオ〗2026年6月27日(土)のにゃルラジ🌙〖猫屋敷美紅 / にじさんじ〗",
-      "liver_name": "01K2KXFY4WTXD0E42NN67KG73Q",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/w6EfxNcKsEw/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-06-27T00:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=w6EfxNcKsEw",
-      "matched_keywords": [
-        "ラジオ"
-      ]
-    },
     {
       "id": "01KW75M97PS4TYQHZ79YX6AGNE",
       "title": "【おつかれさんご】　ゆるゆる定期雑談！第182回！俺が、ここで、永遠の桜の木になろう【周央サンゴ】",
