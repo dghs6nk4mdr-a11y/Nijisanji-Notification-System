@@ -1,11 +1,24 @@
 {
-  "updated_at": "2026-06-29T01:30:41.960928+09:00",
+  "updated_at": "2026-06-29T01:43:11.935511+09:00",
   "keywords": [
     "雑談",
     "朝活",
     "ラジオ"
   ],
   "streams": [
+    {
+      "id": "01KW75M97PS4TYQHZ79YX6AGNE",
+      "title": "【おつかれさんご】　ゆるゆる定期雑談！第182回！俺が、ここで、永遠の桜の木になろう【周央サンゴ】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/eh_d8eStIxI/maxresdefault.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-06-28T23:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=eh_d8eStIxI",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
     {
       "id": "01KW75ATMBDFJ0CT69SWJVH54T",
       "title": "【雑談】６月ってあと２日らしいよ【にじさんじ/渋谷ハジメ】",
