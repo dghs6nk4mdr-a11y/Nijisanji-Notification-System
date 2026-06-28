@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29T02:30:41.392358+09:00",
+  "updated_at": "2026-06-29T03:00:48.561732+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -172,6 +172,20 @@
       "status": "not_on_air",
       "start_time": "2026-06-29T08:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=PYlOfGdnJTo",
+      "matched_keywords": [
+        "雑談",
+        "朝活"
+      ]
+    },
+    {
+      "id": "01KW7NYP4Y642FWH8EVC98W2EZ",
+      "title": "【 雑談 】まったり朝活の時間だぞ起きろ！【 皇れお  / にじさんじ 】",
+      "liver_name": "01K5BBDKSPBQHW595ESQWN8BBP",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/fU8bHiE8kRI/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-06-29T06:30:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=fU8bHiE8kRI",
       "matched_keywords": [
         "雑談",
         "朝活"
