@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29T11:00:50.374876+09:00",
+  "updated_at": "2026-06-29T11:30:43.047214+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -159,6 +159,19 @@
       "status": "not_on_air",
       "start_time": "2026-06-29T20:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=E-11oUhe1mE",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
+      "id": "01KW8K3XT70VNHE8MKWGCYDYSF",
+      "title": "【雑談】チル月のオワリ【長尾景/にじさんじ】【#ながおしゃべり】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/PAD4kFYglng/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-06-29T12:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=PAD4kFYglng",
       "matched_keywords": [
         "雑談"
       ]
