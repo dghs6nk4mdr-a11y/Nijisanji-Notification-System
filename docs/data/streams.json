@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29T19:30:45.144879+09:00",
+  "updated_at": "2026-06-29T20:00:54.069165+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -164,6 +164,19 @@
       ]
     },
     {
+      "id": "01KW9FQ3RC5X140NCNRP5H9H9C",
+      "title": "雑談ニング（momaira friends remix）",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/Rv77Bx8FyFs/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-06-29T20:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=Rv77Bx8FyFs",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
       "id": "01KW7QBTTX94H232DQ16YQ0Q0T",
       "title": "【雑談】生川家、コラボ最終回＿＿＿＿＿＿。✨最後に告知あり✨【影山シエン/白雪巴/にじさんじ】",
       "liver_name": "",
@@ -254,6 +267,32 @@
       "url": "https://www.youtube.com/watch?v=QfeUGvmy--M",
       "matched_keywords": [
         "ラジオ"
+      ]
+    },
+    {
+      "id": "01KW9GA8EC3CXQ17XN73AQF6ZC",
+      "title": "【昼雑】６月ももう終わりらしいよ雑談【にじさんじ/梢桃音】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/_phBA7c0m7Q/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-06-30T12:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=_phBA7c0m7Q",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
+      "id": "01KVKD1RW12TQ9B2FQSJ3ZZY5R",
+      "title": "【朝活#382】6月最後のおはようください🎶【雪城眞尋/にじさんじ】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/_8a6ifJ-PXA/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-06-30T07:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=_8a6ifJ-PXA",
+      "matched_keywords": [
+        "朝活"
       ]
     },
     {
