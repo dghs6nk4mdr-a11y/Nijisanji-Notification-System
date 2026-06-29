@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-30T05:03:22.816618+09:00",
+  "updated_at": "2026-06-30T05:30:46.511081+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -199,6 +199,19 @@
       "status": "not_on_air",
       "start_time": "2026-06-30T07:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=_8a6ifJ-PXA",
+      "matched_keywords": [
+        "朝活"
+      ]
+    },
+    {
+      "id": "01KWAG2C43KJ7T7DTJCBQCG84J",
+      "title": "【 Minecraft 】朝活マイクラ！村人を眺めようの会 #あらなみマイクラ【にじさんじ/獅子堂あかり】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/U-hGq2DpdV4/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-06-30T05:30:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=U-hGq2DpdV4",
       "matched_keywords": [
         "朝活"
       ]
