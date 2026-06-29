@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29T22:00:57.557779+09:00",
+  "updated_at": "2026-06-29T22:30:46.247248+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -138,12 +138,25 @@
       ]
     },
     {
+      "id": "01KW4ZH529QB2BV4YY49W07JEF",
+      "title": "【雑談】今日がデビューして2434日目らしい！🌈🕒【えま★おうがすと/にじさんじ所属】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/xB4eYz8dBeE/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-06-29T23:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=xB4eYz8dBeE",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
       "id": "01KW9N57Z9ZQ1S9JGTN1ZBZ8JS",
       "title": "【🔴雑談】もう6月も終わり！まだまだ梅雨が続くってほんてょ…？【にじさんじ/アンジュ・カトリーナ】",
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/DOS6CDq8R5U/maxresdefault_live.jpg",
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-06-29T22:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=DOS6CDq8R5U",
       "matched_keywords": [
@@ -181,8 +194,8 @@
       "title": "雑談ニング（momaira friends remix）",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/Rv77Bx8FyFs/maxresdefault_live.jpg",
-      "status": "on_air",
+      "thumbnail": "https://i.ytimg.com/vi/Rv77Bx8FyFs/maxresdefault.jpg",
+      "status": "not_on_air",
       "start_time": "2026-06-29T20:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=Rv77Bx8FyFs",
       "matched_keywords": [
