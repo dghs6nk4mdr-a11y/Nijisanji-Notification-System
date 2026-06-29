@@ -1,142 +1,11 @@
 {
-  "updated_at": "2026-06-29T23:34:15.299373+09:00",
+  "updated_at": "2026-06-30T00:01:00.154823+09:00",
   "keywords": [
     "雑談",
     "朝活",
     "ラジオ"
   ],
   "streams": [
-    {
-      "id": "01KW75M97PS4TYQHZ79YX6AGNE",
-      "title": "【おつかれさんご】　ゆるゆる定期雑談！第182回！俺が、ここで、永遠の桜の木になろう【周央サンゴ】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/eh_d8eStIxI/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-06-28T23:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=eh_d8eStIxI",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KW75ATMBDFJ0CT69SWJVH54T",
-      "title": "【雑談】６月ってあと２日らしいよ【にじさんじ/渋谷ハジメ】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/IZEAIcRpjok/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-06-28T22:01:59.000+09:00",
-      "url": "https://www.youtube.com/watch?v=IZEAIcRpjok",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KW4S8CVS1A3R6R2K8Y6S1C9D",
-      "title": "【 ラジオ📻 】 # 04　ののとみかの 「」らじお 【 にじさんじ / 蝸堂みかる と 十河ののは 】",
-      "liver_name": "01K2KXFYC3BCAYM6XJBVAM4YHT",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/kQMR3_L8Fsc/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-06-28T20:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=kQMR3_L8Fsc",
-      "matched_keywords": [
-        "ラジオ"
-      ]
-    },
-    {
-      "id": "01KW58ZXQVQ8J1FZ2YH45TVFEB",
-      "title": "〖 雑談 〗ひま先輩と人生のやりたいことリストつくる！🌻〖 にじさんじ / 本間ひまわり / 夜牛詩乃 〗",
-      "liver_name": "01G8WAJR8TVFFTAYG2P37DAX74",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/LKl36x_nbKY/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-06-28T18:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=LKl36x_nbKY",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KW62DS41ME57Y317NB1ZYV4B",
-      "title": "【ラジオ】ジョー・力一の空昼ブランコ #98【にじさんじ】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/XVky_fejFLc/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-06-28T14:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=XVky_fejFLc",
-      "matched_keywords": [
-        "ラジオ"
-      ]
-    },
-    {
-      "id": "01KW4S82127H6BQQB17VHN6NJX",
-      "title": "【朝雑談】除湿の性能が試される今日このごろ【四季凪アキラ/にじさんじ】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/OCLRolmDujk/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-06-28T10:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=OCLRolmDujk",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KW5RPEA41TM84DPMAT8DEZS6",
-      "title": "モイラの雑談配信【20260628】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/acOX8lR-M3g/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-06-28T09:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=acOX8lR-M3g",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KW4M3C6DBP7HZA9YXB3VZA87",
-      "title": "【朝活雑談】1時間雑談【ニチアサ！緋八マン！】【にじさんじ/緋八マナ】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/epSfQuPv5U8/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-06-28T07:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=epSfQuPv5U8",
-      "matched_keywords": [
-        "雑談",
-        "朝活"
-      ]
-    },
-    {
-      "id": "01KW56D7GMEY45T508YT7ZYFVT",
-      "title": "【 Minecraft 】朝活マイクラ！ちょっとだけ。 #あらなみマイクラ【にじさんじ/獅子堂あかり】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/fn-PDXe391c/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-06-28T04:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=fn-PDXe391c",
-      "matched_keywords": [
-        "朝活"
-      ]
-    },
-    {
-      "id": "01KW2KEG9Q3CWT34THWQ4PKW5E",
-      "title": "〖深夜ラジオ〗2026年6月28日(日)のにゃルラジ🌙〖猫屋敷美紅 / にじさんじ〗",
-      "liver_name": "01K2KXFY4WTXD0E42NN67KG73Q",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/651AjnuIi-c/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-06-28T00:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=651AjnuIi-c",
-      "matched_keywords": [
-        "ラジオ"
-      ]
-    },
     {
       "id": "01KW4ZH529QB2BV4YY49W07JEF",
       "title": "【雑談】今日がデビューして2434日目らしい！🌈🕒【えま★おうがすと/にじさんじ所属】",
@@ -155,8 +24,8 @@
       "title": "【🔴雑談】もう6月も終わり！まだまだ梅雨が続くってほんてょ…？【にじさんじ/アンジュ・カトリーナ】",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/DOS6CDq8R5U/maxresdefault_live.jpg",
-      "status": "on_air",
+      "thumbnail": "https://i.ytimg.com/vi/DOS6CDq8R5U/maxresdefault.jpg",
+      "status": "not_on_air",
       "start_time": "2026-06-29T22:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=DOS6CDq8R5U",
       "matched_keywords": [
