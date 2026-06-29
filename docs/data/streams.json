@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29T16:30:45.499403+09:00",
+  "updated_at": "2026-06-29T17:00:50.366186+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -135,6 +135,19 @@
       "url": "https://www.youtube.com/watch?v=651AjnuIi-c",
       "matched_keywords": [
         "ラジオ"
+      ]
+    },
+    {
+      "id": "01KW955FVR220796EYVWRNA7RB",
+      "title": "【雑談】最近のこととか久しぶりにゆっくり話そ～【九里詠太 / にじさんじ】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/1GBN24e8iJw/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-06-29T22:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=1GBN24e8iJw",
+      "matched_keywords": [
+        "雑談"
       ]
     },
     {
