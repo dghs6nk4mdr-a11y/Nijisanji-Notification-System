@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-30T21:00:57.428994+09:00",
+  "updated_at": "2026-06-30T21:29:15.759728+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -170,7 +170,7 @@
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/TD3IbW43Tt0/maxresdefault_live.jpg",
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-06-30T21:10:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=TD3IbW43Tt0",
       "matched_keywords": [
@@ -196,7 +196,7 @@
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/c7k4XoYQZeA/maxresdefault_live.jpg",
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-06-30T21:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=c7k4XoYQZeA",
       "matched_keywords": [
@@ -330,6 +330,19 @@
       "status": "not_on_air",
       "start_time": "2026-07-01T08:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=RIhB3SxnACI",
+      "matched_keywords": [
+        "朝活"
+      ]
+    },
+    {
+      "id": "01KWC7V4A6SMK76VGVJ8TPXZSC",
+      "title": "【朝活#383】7月最初のおはよして＝‼【雪城眞尋/にじさんじ】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/1IgnOfdGZbQ/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-07-01T07:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=1IgnOfdGZbQ",
       "matched_keywords": [
         "朝活"
       ]
