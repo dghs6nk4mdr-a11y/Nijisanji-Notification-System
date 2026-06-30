@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-30T09:01:03.569143+09:00",
+  "updated_at": "2026-06-30T09:30:48.562180+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -183,7 +183,7 @@
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/BnEjBhO0kHw/maxresdefault_live.jpg",
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-06-30T09:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=BnEjBhO0kHw",
       "matched_keywords": [
@@ -209,8 +209,8 @@
       "title": "【朝活】6月って祝日とかないんか？【にじさんじ/町田ちま】",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/aeU0YEbiwx8/maxresdefault_live.jpg",
-      "status": "on_air",
+      "thumbnail": "https://i.ytimg.com/vi/aeU0YEbiwx8/maxresdefault.jpg",
+      "status": "not_on_air",
       "start_time": "2026-06-30T07:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=aeU0YEbiwx8",
       "matched_keywords": [
