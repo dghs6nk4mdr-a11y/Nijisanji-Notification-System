@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-01T20:01:00.020912+09:00",
+  "updated_at": "2026-07-01T20:30:58.430139+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -172,6 +172,19 @@
       "status": "not_on_air",
       "start_time": "2026-07-01T22:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=xcFh2qNLWMc",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
+      "id": "01KWEP8CS3JZHK5B2VJA5PRFP6",
+      "title": "【雑談】七月になりました！！【ルンルン/にじさんじ】",
+      "liver_name": "01J6CCJAKFW1BRQ4RMTBTCJRXP",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/iFC5vor4aG4/maxresdefault_live.jpg",
+      "status": "on_air",
+      "start_time": "2026-07-01T20:20:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=iFC5vor4aG4",
       "matched_keywords": [
         "雑談"
       ]
