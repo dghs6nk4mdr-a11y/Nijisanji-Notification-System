@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T06:30:54.502326+09:00",
+  "updated_at": "2026-07-02T07:01:04.766910+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -125,12 +125,25 @@
       ]
     },
     {
+      "id": "01KWFV5DX0MNDF0SAR35QBRN2N",
+      "title": "【朝活】おはすず7月2日（木）＃553【七瀬すず菜/にじさんじ】",
+      "liver_name": "01J6CCJAK9N4AKCGFZ75P3W147",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/kK2EPBlOxWY/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-07-02T07:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=kK2EPBlOxWY",
+      "matched_keywords": [
+        "朝活"
+      ]
+    },
+    {
       "id": "01KWAEY0V1D3DHCR3BVRFTXTJW",
       "title": "〖朝活ラジオ〗2026年7月2日(木)のにゃルラジ🌙〖猫屋敷美紅 / にじさんじ〗",
       "liver_name": "01K2KXFY4WTXD0E42NN67KG73Q",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/890qrmfcNQs/maxresdefault_live.jpg",
-      "status": "on_air",
+      "thumbnail": "https://i.ytimg.com/vi/890qrmfcNQs/maxresdefault.jpg",
+      "status": "not_on_air",
       "start_time": "2026-07-02T06:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=890qrmfcNQs",
       "matched_keywords": [
