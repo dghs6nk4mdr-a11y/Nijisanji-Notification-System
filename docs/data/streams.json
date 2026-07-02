@@ -1,116 +1,11 @@
 {
-  "updated_at": "2026-07-02T23:30:53.061502+09:00",
+  "updated_at": "2026-07-03T00:01:05.877708+09:00",
   "keywords": [
     "雑談",
     "朝活",
     "ラジオ"
   ],
   "streams": [
-    {
-      "id": "01KWEWHQMVTS10WEPXX003D9EN",
-      "title": "【雑談】ふーん、つまり君はそういうヤツなんだ。【 にじさんじ / ミラン・ケストレル】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/zSBE6_j7084/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-07-01T22:15:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=zSBE6_j7084",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KWEMGYJN5S6DP16JDBNX85JA",
-      "title": "【雑談】新衣装でおしゃべりするよ～！【にじさんじ／空星きらめ】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/xcFh2qNLWMc/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-07-01T22:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=xcFh2qNLWMc",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KWEP8CS3JZHK5B2VJA5PRFP6",
-      "title": "【雑談】七月になりました！！【ルンルン/にじさんじ】",
-      "liver_name": "01J6CCJAKFW1BRQ4RMTBTCJRXP",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/iFC5vor4aG4/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-07-01T20:20:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=iFC5vor4aG4",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KWDEQZERGB4756ZZGAG4JJ1A",
-      "title": "モイラの雑談配信【20260701】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/4TtoGLYiYDo/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-07-01T08:45:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=4TtoGLYiYDo",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KW7MSY56C84E9H03KWVKEMDP",
-      "title": "【#あらなみマイクラ】朝活あらなみ！！！！コンカフェの準備！！【早乙女ベリー/にじさんじ】",
-      "liver_name": "01J6CCJAK9N4AKCGFZ75P3W147",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/RIhB3SxnACI/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-07-01T08:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=RIhB3SxnACI",
-      "matched_keywords": [
-        "朝活"
-      ]
-    },
-    {
-      "id": "01KWC7V4A6SMK76VGVJ8TPXZSC",
-      "title": "【朝活#383】7月最初のおはよして＝‼【雪城眞尋/にじさんじ】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/1IgnOfdGZbQ/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-07-01T07:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=1IgnOfdGZbQ",
-      "matched_keywords": [
-        "朝活"
-      ]
-    },
-    {
-      "id": "01KWCQKHPQZC21C5VF0CPBTCQP",
-      "title": "【 雑談 】7月最初の朝活、明日誕生日ってマジか！？【 皇れお  / にじさんじ 】",
-      "liver_name": "01K5BBDKSPBQHW595ESQWN8BBP",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/kSfc9Uh2HZg/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-07-01T06:30:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=kSfc9Uh2HZg",
-      "matched_keywords": [
-        "雑談",
-        "朝活"
-      ]
-    },
-    {
-      "id": "01KWA4XKRVRCBP2HX2KV309N7P",
-      "title": "〖深夜ラジオ〗2026年7月1日(水)のにゃルラジ🌙〖猫屋敷美紅 / にじさんじ〗",
-      "liver_name": "01K2KXFY4WTXD0E42NN67KG73Q",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/LUm21zaGCVk/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-07-01T00:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=LUm21zaGCVk",
-      "matched_keywords": [
-        "ラジオ"
-      ]
-    },
     {
       "id": "01KWGRKE5B21NPYSF4FKW7TERG",
       "title": "【雑談】雨のちインターネット☔近況報告、夏はすぐそこ！【 にじさんじ / 家長むぎ 】",
