@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T11:30:55.796664+09:00",
+  "updated_at": "2026-07-02T12:00:56.638306+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -109,6 +109,32 @@
       "url": "https://www.youtube.com/watch?v=LUm21zaGCVk",
       "matched_keywords": [
         "ラジオ"
+      ]
+    },
+    {
+      "id": "01KWGBESJKWZE6NFSB6R75Q8V4",
+      "title": "【雑談】7月初昼雑【長尾景/にじさんじ】【#ながおしゃべり】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/ZOb7gzeXujU/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-07-02T12:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=ZOb7gzeXujU",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
+      "id": "01KWGAW9YBGV9J8JCCZ8VFNBNH",
+      "title": "【ランチ雑談】飯を食べながら飯の話をする。【にじさんじ / 葉加瀬冬雪】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/87VyLv3U7F8/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-07-02T12:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=87VyLv3U7F8",
+      "matched_keywords": [
+        "雑談"
       ]
     },
     {
