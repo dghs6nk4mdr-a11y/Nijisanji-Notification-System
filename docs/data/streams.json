@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-03T00:01:05.877708+09:00",
+  "updated_at": "2026-07-03T00:30:59.385067+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -125,6 +125,19 @@
       ]
     },
     {
+      "id": "01KWHPNWG5DD9MTYPR9HRBXT22",
+      "title": "【 雑談 / 対談 】紹介アポくださいっ！ / 12人目：戌亥とこ様【 にじさんじ / 五木左京 】 #紹介アポ",
+      "liver_name": "01G8WAJS2FW516GS8ACRZE12XV",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/vJznEzYDekM/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-07-03T21:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=vJznEzYDekM",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
       "id": "01KWHAN9A6ZWJPYTZM5N4FMPT0",
       "title": "【運動🏃🏻】朝活☀️リングフィットアドベンチャー✨【にじさんじ/梢桃音】",
       "liver_name": "",
@@ -143,7 +156,7 @@
       "liver_name": "01K2KXFY4WTXD0E42NN67KG73Q",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/Wksg4P5KwSA/maxresdefault_live.jpg",
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-07-03T00:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=Wksg4P5KwSA",
       "matched_keywords": [
