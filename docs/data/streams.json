@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-03T00:41:26.173374+09:00",
+  "updated_at": "2026-07-03T01:00:57.391862+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -147,6 +147,20 @@
       "start_time": "2026-07-03T08:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=PfZG5L3dnGI",
       "matched_keywords": [
+        "朝活"
+      ]
+    },
+    {
+      "id": "01KWHRP0W9KH3N8Z63T2G6FB8Y",
+      "title": "【 朝活雑談 】おはよ～！エンドラ討伐の感想話したい！🌞【にじさんじ / 水面まどか】",
+      "liver_name": "01KG4FVDPQ5XJKP79RVD4SVM6R",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/iVAUSIaU6K4/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-07-03T07:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=iVAUSIaU6K4",
+      "matched_keywords": [
+        "雑談",
         "朝活"
       ]
     },
