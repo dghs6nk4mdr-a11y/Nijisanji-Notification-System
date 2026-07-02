@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-03T06:30:52.446024+09:00",
+  "updated_at": "2026-07-03T07:01:02.994563+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -125,6 +125,19 @@
       ]
     },
     {
+      "id": "01KWJCDPEA8EF6F0PKG79103PV",
+      "title": "【 雑談 】幸せすぎた時間を振り返ろうぜ【 皇れお  / にじさんじ 】",
+      "liver_name": "01K5BBDKSPBQHW595ESQWN8BBP",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/Y6oxITaz1ag/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-07-03T21:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=Y6oxITaz1ag",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
       "id": "01KWHPNWG5DD9MTYPR9HRBXT22",
       "title": "【 雑談 / 対談 】紹介アポくださいっ！ / 12人目：戌亥とこ様【 にじさんじ / 五木左京 】 #紹介アポ",
       "liver_name": "01G8WAJS2FW516GS8ACRZE12XV",
@@ -146,6 +159,19 @@
       "status": "not_on_air",
       "start_time": "2026-07-03T08:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=PfZG5L3dnGI",
+      "matched_keywords": [
+        "朝活"
+      ]
+    },
+    {
+      "id": "01KWJD8WZ8ERVASNYP5GVA2H1W",
+      "title": "【朝活】おはすず7月3日（金）＃554【七瀬すず菜/にじさんじ】",
+      "liver_name": "01J6CCJAK9N4AKCGFZ75P3W147",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/nCEOOHbVv58/maxresdefault_live.jpg",
+      "status": "on_air",
+      "start_time": "2026-07-03T07:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=nCEOOHbVv58",
       "matched_keywords": [
         "朝活"
       ]
