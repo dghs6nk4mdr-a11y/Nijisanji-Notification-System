@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-03T22:30:55.778656+09:00",
+  "updated_at": "2026-07-03T23:01:03.110654+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -130,7 +130,7 @@
       "liver_name": "01K5BBDKSYSYSTCJFYT97QTDWN",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/TcIumBcuN2w/maxresdefault_live.jpg",
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-07-03T23:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=TcIumBcuN2w",
       "matched_keywords": [
@@ -169,7 +169,7 @@
       "liver_name": "01G8WAJS2FW516GS8ACRZE12XV",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/vJznEzYDekM/maxresdefault_live.jpg",
-      "status": "on_air",
+      "status": "not_on_air",
       "start_time": "2026-07-03T21:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=vJznEzYDekM",
       "matched_keywords": [
@@ -266,6 +266,19 @@
       "url": "https://www.youtube.com/watch?v=Wksg4P5KwSA",
       "matched_keywords": [
         "ラジオ"
+      ]
+    },
+    {
+      "id": "01KWK8QXSVGMT46JJ6MAK1JWV8",
+      "title": "〖 きゅうり 〗〖 雑談 〗きゅうりもぐもぐダービー！🥒🤍きゅうりに１番合う調味料はなに？〖 にじさんじ / 白砂あやね / 夜牛詩乃 〗",
+      "liver_name": "01K2KXFY4WTXD0E42NN67KG73Q",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/XXZwdB-5HVw/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-07-04T12:30:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=XXZwdB-5HVw",
+      "matched_keywords": [
+        "雑談"
       ]
     },
     {
