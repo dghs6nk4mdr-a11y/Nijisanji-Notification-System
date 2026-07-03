@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-04T06:30:59.499404+09:00",
+  "updated_at": "2026-07-04T07:01:00.888022+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -172,6 +172,19 @@
       "status": "not_on_air",
       "start_time": "2026-07-04T12:30:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=XXZwdB-5HVw",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
+      "id": "01KWMZYQFSS9NVRBG46TX5NB1S",
+      "title": "【雑談】saturday morning fomo",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": null,
+      "status": "not_on_air",
+      "start_time": "2026-07-04T08:30:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=qUrG6Uh_jKA",
       "matched_keywords": [
         "雑談"
       ]
