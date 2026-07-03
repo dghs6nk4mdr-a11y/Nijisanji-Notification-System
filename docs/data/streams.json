@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-03T16:46:24.313480+09:00",
+  "updated_at": "2026-07-03T17:00:55.386197+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -146,6 +146,19 @@
       "status": "not_on_air",
       "start_time": "2026-07-03T21:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=vJznEzYDekM",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
+      "id": "01KWKFJRX06JPCNEB0TDZW87XA",
+      "title": "【雑談】一時帰国結構満喫してるよ話【にじさんじ/矢車りね】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/eyYSaRcmLEM/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-07-03T17:30:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=eyYSaRcmLEM",
       "matched_keywords": [
         "雑談"
       ]
