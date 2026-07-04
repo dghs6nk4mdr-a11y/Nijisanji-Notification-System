@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-04T23:01:02.475177+09:00",
+  "updated_at": "2026-07-04T23:31:01.283783+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -148,6 +148,19 @@
       "url": "https://www.youtube.com/watch?v=Wksg4P5KwSA",
       "matched_keywords": [
         "ラジオ"
+      ]
+    },
+    {
+      "id": "01KWPQ5YFRS6SBSWBH21EQ4N4Q",
+      "title": "【 雑談 】 夏が来た。ギターも来た。 【 にじさんじ / 蝸堂みかる 】",
+      "liver_name": "01K2KXFY4WTXD0E42NN67KG73Q",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/O5qqka40Ekw/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-07-04T23:30:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=O5qqka40Ekw",
+      "matched_keywords": [
+        "雑談"
       ]
     },
     {
