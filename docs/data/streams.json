@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-04T19:01:03.742851+09:00",
+  "updated_at": "2026-07-04T19:31:01.105347+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -151,6 +151,19 @@
       ]
     },
     {
+      "id": "01KWN7P2007PCYMZ3P0D1HWD1F",
+      "title": "【製麺雑談】タコス・トルティーヤ麺……！【一橋綾人/にじさんじ】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/XMGI_rbwfn4/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-07-04T21:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=XMGI_rbwfn4",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
       "id": "01KWMA730384M4VYWE2CYP9DPS",
       "title": "【雑談】休止前最後にお話しましょう！【ルンルン/にじさんじ】",
       "liver_name": "01J6CCJAKFW1BRQ4RMTBTCJRXP",
@@ -159,19 +172,6 @@
       "status": "not_on_air",
       "start_time": "2026-07-04T21:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=9hpsAclju5E",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KWN7P2007PCYMZ3P0D1HWD1F",
-      "title": "【製麺雑談】タコス・トルティーヤ麺……！【一橋綾人/にじさんじ】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/XMGI_rbwfn4/maxresdefault_live.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-07-04T20:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=XMGI_rbwfn4",
       "matched_keywords": [
         "雑談"
       ]
