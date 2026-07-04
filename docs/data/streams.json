@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-05T06:31:07.990122+09:00",
+  "updated_at": "2026-07-05T07:01:05.183354+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -147,6 +147,19 @@
       "url": "https://www.youtube.com/watch?v=s-cQD0R8o8U",
       "matched_keywords": [
         "雑談",
+        "朝活"
+      ]
+    },
+    {
+      "id": "01KWQGX7NR4D1X0APAGDSZ8PAW",
+      "title": "⋙ Minecraft ⋮❙⋮ 色々ありまして朝活 ⋮❙⋮ 弦月藤士郎 / にじさんじ ⋘",
+      "liver_name": "01J6CCJAKZQPKXESHHKBER8FD4",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/Qm1AWP1udhY/maxresdefault_live.jpg",
+      "status": "on_air",
+      "start_time": "2026-07-05T06:30:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=Qm1AWP1udhY",
+      "matched_keywords": [
         "朝活"
       ]
     },
