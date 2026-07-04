@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-05T02:01:03.570327+09:00",
+  "updated_at": "2026-07-05T02:30:58.975788+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -155,10 +155,23 @@
       "title": "〖深夜ラジオ〗2026年7月5日(日)のにゃルラジ🌙〖猫屋敷美紅 / にじさんじ〗",
       "liver_name": "01K2KXFY4WTXD0E42NN67KG73Q",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/LF01xmGBa0c/maxresdefault_live.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/LF01xmGBa0c/maxresdefault.jpg",
       "status": "not_on_air",
       "start_time": "2026-07-05T00:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=LF01xmGBa0c",
+      "matched_keywords": [
+        "ラジオ"
+      ]
+    },
+    {
+      "id": "01KWQ1RQY1F26YS9WHGK4BFRZJ",
+      "title": "〖深夜ラジオ〗2026年7月6日(月)のにゃルラジ🌙〖猫屋敷美紅 / にじさんじ〗",
+      "liver_name": "01K2KXFY4WTXD0E42NN67KG73Q",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/3NuciqERJo8/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-07-06T00:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=3NuciqERJo8",
       "matched_keywords": [
         "ラジオ"
       ]
