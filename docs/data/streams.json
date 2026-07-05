@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-05T19:19:01.787149+09:00",
+  "updated_at": "2026-07-05T19:31:04.404201+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -116,7 +116,7 @@
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/7xHA8alEw5E/maxresdefault_live.jpg",
-      "status": "on_air",
+      "status": "not_on_air",
       "start_time": "2026-07-05T17:45:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=7xHA8alEw5E",
       "matched_keywords": [
@@ -187,6 +187,19 @@
       "url": "https://www.youtube.com/watch?v=LF01xmGBa0c",
       "matched_keywords": [
         "ラジオ"
+      ]
+    },
+    {
+      "id": "01KWRX912XJCSFG0TNPST136HW",
+      "title": "【 雑談 】夏の朝にまったり時間はいかがですか！【 皇れお  / にじさんじ 】",
+      "liver_name": "01K5BBDKSPBQHW595ESQWN8BBP",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/qDt_GVHfSzo/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-07-06T06:30:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=qDt_GVHfSzo",
+      "matched_keywords": [
+        "雑談"
       ]
     },
     {
