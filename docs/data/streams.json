@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-06T18:31:10.522022+09:00",
+  "updated_at": "2026-07-06T19:01:17.142420+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -109,6 +109,19 @@
       "url": "https://www.youtube.com/watch?v=LF01xmGBa0c",
       "matched_keywords": [
         "ラジオ"
+      ]
+    },
+    {
+      "id": "01KWVDYTE967AGF4P8AK955NH1",
+      "title": "【  雑談 】夏始まっちゃったね。あついね。【城瀬いすみ / すぷれあ / にじさんじ】",
+      "liver_name": "01K5BBDKSPBQHW595ESQWN8BBP",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/hCFf3-FTbtU/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-07-06T22:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=hCFf3-FTbtU",
+      "matched_keywords": [
+        "雑談"
       ]
     },
     {
