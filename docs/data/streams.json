@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-06T23:31:08.681904+09:00",
+  "updated_at": "2026-07-07T00:01:14.485110+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -7,117 +7,12 @@
   ],
   "streams": [
     {
-      "id": "01KWS4ZZ024CNZBR7TGQARW875",
-      "title": "【深夜雑談】■みをアルコールに溶かしながら。一晩中、【 にじさんじ / ミラン・ケストレル】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/Lve-PXycgbM/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-07-05T23:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=Lve-PXycgbM",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KWS0Z9C5DV1K4ZPSPPHS8YVG",
-      "title": "ゲリラ雑談。もっちゅりん食べ🍩",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/lqu7AXnGxPI/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-07-05T21:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=lqu7AXnGxPI",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KWRPD9GXF99H6JQZ31BEJK1N",
-      "title": "【雑談】夕方に世にも珍しい突発雑談配信の枠がたちました。【花籠つばさ / にじさんじ】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/7xHA8alEw5E/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-07-05T17:45:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=7xHA8alEw5E",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KWPW9PD1TK078XR55C60SK7V",
-      "title": "【ラジオ】ジョー・力一の空昼ブランコ #99【にじさんじ】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/t7EqwskOKYg/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-07-05T14:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=t7EqwskOKYg",
-      "matched_keywords": [
-        "ラジオ"
-      ]
-    },
-    {
-      "id": "01KWPNQTZZ2V10HFCBSCZJTG9B",
-      "title": "【朝雑談】朝食のお供にでもいかがですか【四季凪アキラ/にじさんじ】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/_MAoelURAnQ/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-07-05T10:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=_MAoelURAnQ",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KWPXF4Z95JVHHXFKM2Z5YEVA",
-      "title": "【朝活雑談】最近暑くね？と捉えるか7月にしては暑くないと捉えるか……。【ニチアサ！緋八マン！】【にじさんじ/緋八マナ】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/s-cQD0R8o8U/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-07-05T07:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=s-cQD0R8o8U",
-      "matched_keywords": [
-        "雑談",
-        "朝活"
-      ]
-    },
-    {
-      "id": "01KWQGX7NR4D1X0APAGDSZ8PAW",
-      "title": "⋙ Minecraft ⋮❙⋮ 色々ありまして朝活 ⋮❙⋮ 弦月藤士郎 / にじさんじ ⋘",
-      "liver_name": "01J6CCJAKZQPKXESHHKBER8FD4",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/Qm1AWP1udhY/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-07-05T06:30:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=Qm1AWP1udhY",
-      "matched_keywords": [
-        "朝活"
-      ]
-    },
-    {
-      "id": "01KWMEGDHC29D8G2X53KBBHT6W",
-      "title": "〖深夜ラジオ〗2026年7月5日(日)のにゃルラジ🌙〖猫屋敷美紅 / にじさんじ〗",
-      "liver_name": "01K2KXFY4WTXD0E42NN67KG73Q",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/LF01xmGBa0c/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-07-05T00:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=LF01xmGBa0c",
-      "matched_keywords": [
-        "ラジオ"
-      ]
-    },
-    {
       "id": "01KWVDYTE967AGF4P8AK955NH1",
       "title": "【  雑談 】夏始まっちゃったね。あついね。【城瀬いすみ / すぷれあ / にじさんじ】",
       "liver_name": "01K5BBDKSPBQHW595ESQWN8BBP",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/hCFf3-FTbtU/maxresdefault_live.jpg",
-      "status": "on_air",
+      "status": "not_on_air",
       "start_time": "2026-07-06T22:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=hCFf3-FTbtU",
       "matched_keywords": [
