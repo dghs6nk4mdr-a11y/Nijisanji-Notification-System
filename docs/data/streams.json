@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-06T22:31:06.520971+09:00",
+  "updated_at": "2026-07-06T23:01:16.310364+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -290,6 +290,19 @@
       "status": "not_on_air",
       "start_time": "2026-07-07T08:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=rOo4knoecNc",
+      "matched_keywords": [
+        "朝活"
+      ]
+    },
+    {
+      "id": "01KWSS06QVFEKX03EGR99CPY1E",
+      "title": "【朝活#384】七夕だけど今日も☔【雪城眞尋/にじさんじ】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/iUAFvSt8Qls/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-07-07T07:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=iUAFvSt8Qls",
       "matched_keywords": [
         "朝活"
       ]
