@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-06T21:01:22.558647+09:00",
+  "updated_at": "2026-07-06T21:31:15.270423+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -130,7 +130,7 @@
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/JoG6m-Ry9DQ/maxresdefault_live.jpg",
-      "status": "on_air",
+      "status": "not_on_air",
       "start_time": "2026-07-06T20:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=JoG6m-Ry9DQ",
       "matched_keywords": [
@@ -142,7 +142,7 @@
       "title": "【雑談】夏だ～～～～🌻👻🌴【 椎名唯華/にじさんじ】",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/1IgnwYwlzo4/maxresdefault_live.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/1IgnwYwlzo4/maxresdefault.jpg",
       "status": "not_on_air",
       "start_time": "2026-07-06T19:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=1IgnwYwlzo4",
