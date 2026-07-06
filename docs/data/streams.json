@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-06T09:31:02.016546+09:00",
+  "updated_at": "2026-07-06T10:01:08.338014+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -109,6 +109,19 @@
       "url": "https://www.youtube.com/watch?v=LF01xmGBa0c",
       "matched_keywords": [
         "ラジオ"
+      ]
+    },
+    {
+      "id": "01KWTEEXDJ2QZR6PFDW84AP307",
+      "title": "雑談】最近食欲ヤバい【ラトナ・プティ/にじさんじ】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/zJyyCZHE_yI/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-07-06T10:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=zJyyCZHE_yI",
+      "matched_keywords": [
+        "雑談"
       ]
     },
     {
