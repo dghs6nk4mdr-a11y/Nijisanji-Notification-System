@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-07T20:31:03.625682+09:00",
+  "updated_at": "2026-07-07T21:01:16.525084+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -172,6 +172,19 @@
       "status": "not_on_air",
       "start_time": "2026-07-07T22:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=1sG1BnDseqI",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
+      "id": "01KWY6KT1CG87T7B8GK98N7GS2",
+      "title": "《 メンバー限定 》全身筋肉痛のおむぎによるゲーム雑談《 雑談 》",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/qcJpC5rTwQ0/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-07-07T21:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=qcJpC5rTwQ0",
       "matched_keywords": [
         "雑談"
       ]
