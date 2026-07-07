@@ -1,168 +1,11 @@
 {
-  "updated_at": "2026-07-07T23:31:38.066113+09:00",
+  "updated_at": "2026-07-08T00:01:12.733848+09:00",
   "keywords": [
     "雑談",
     "朝活",
     "ラジオ"
   ],
   "streams": [
-    {
-      "id": "01KWVDYTE967AGF4P8AK955NH1",
-      "title": "【  雑談 】夏始まっちゃったね。あついね。【城瀬いすみ / すぷれあ / にじさんじ】",
-      "liver_name": "01K5BBDKSPBQHW595ESQWN8BBP",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/hCFf3-FTbtU/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-07-06T22:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=hCFf3-FTbtU",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KWVHCBJCGS9D2QGGRPW2WBR2",
-      "title": "【雑談】まっつぁ～り【宇佐美リト/にじさんじ】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/JoG6m-Ry9DQ/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-07-06T20:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=JoG6m-Ry9DQ",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KWVBXPY3883APGR6NFTEWP42",
-      "title": "【雑談】夏だ～～～～🌻👻🌴【 椎名唯華/にじさんじ】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/1IgnwYwlzo4/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-07-06T19:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=1IgnwYwlzo4",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KWTH16Y4GQ56VZYBD1M32SHX",
-      "title": "【雑談/talk】朝活成功の世界線、ダウナーな鷹宮とチルい曲(Chill MIX)【にじさんじ/鷹宮リオン】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/eaZ7IARIGsk/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-07-06T12:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=eaZ7IARIGsk",
-      "matched_keywords": [
-        "雑談",
-        "朝活"
-      ]
-    },
-    {
-      "id": "01KWTEEXDJ2QZR6PFDW84AP307",
-      "title": "雑談】最近食欲ヤバい【ラトナ・プティ/にじさんじ】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/zJyyCZHE_yI/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-07-06T10:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=zJyyCZHE_yI",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KWT91JPWR03W8T0Z8W5H5PAV",
-      "title": "【朝活】あと50時間くらいだけ二度寝したい【にじさんじ/梢桃音】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/e3cmQpjNYhM/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-07-06T09:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=e3cmQpjNYhM",
-      "matched_keywords": [
-        "朝活"
-      ]
-    },
-    {
-      "id": "01KWSJEBWT5EZQRJJVB60Q7JW4",
-      "title": "【デュエプレ】朝活！視聴者参加型！！練習会！！！【早乙女ベリー/にじさんじ】",
-      "liver_name": "01J6CCJAK9N4AKCGFZ75P3W147",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/EaIIEvMb-wY/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-07-06T08:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=EaIIEvMb-wY",
-      "matched_keywords": [
-        "朝活"
-      ]
-    },
-    {
-      "id": "01KWT59QER1FHW7RVY2N4XYQT5",
-      "title": "🍓なんかとつぜんの朝活になりました🍓",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/TDobe7nElcA/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-07-06T07:10:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=TDobe7nElcA",
-      "matched_keywords": [
-        "朝活"
-      ]
-    },
-    {
-      "id": "01KWT3KN55KN0D01DK985RT6JH",
-      "title": "【朝活】おはすず7月6日（月）＃555【七瀬すず菜/にじさんじ】",
-      "liver_name": "01J6CCJAK9N4AKCGFZ75P3W147",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/JBtV9F80wZs/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-07-06T07:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=JBtV9F80wZs",
-      "matched_keywords": [
-        "朝活"
-      ]
-    },
-    {
-      "id": "01KWS101V07F9K0ZQJZ6J4NBPG",
-      "title": "【朝雑談】おはようみゃみー！ 2026/07/06 #20【白砂あやね / 水面まどか / にじさんじ】",
-      "liver_name": "01KG4FVDPNJXY4TA6Z4B365S5V",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/TbezKgpQg4s/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-07-06T07:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=TbezKgpQg4s",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KWRX912XJCSFG0TNPST136HW",
-      "title": "【 雑談 】夏の朝にまったり時間はいかがですか！【 皇れお  / にじさんじ 】",
-      "liver_name": "01K5BBDKSPBQHW595ESQWN8BBP",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/qDt_GVHfSzo/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-07-06T06:30:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=qDt_GVHfSzo",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KWQ1RQY1F26YS9WHGK4BFRZJ",
-      "title": "〖深夜ラジオ〗2026年7月6日(月)のにゃルラジ🌙〖猫屋敷美紅 / にじさんじ〗",
-      "liver_name": "01K2KXFY4WTXD0E42NN67KG73Q",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/3NuciqERJo8/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-07-06T00:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=3NuciqERJo8",
-      "matched_keywords": [
-        "ラジオ"
-      ]
-    },
     {
       "id": "01KWV8FQ77C3ERDHS0BRWSDPNN",
       "title": "#叶生誕祭2026 | お誕生日記念雑談＆今年のPUBG彼氏決定戦〜！【にじさんじ/叶】",
@@ -181,8 +24,8 @@
       "title": "【 雑談 】七夕ケーキを食べながらお願い事したり近況話したりの会【にじさんじ / 珠乃井ナナ】",
       "liver_name": "01J6CCJAKFW1BRQ4RMTBTCJRXP",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/vCu-JGKP9iM/maxresdefault_live.jpg",
-      "status": "on_air",
+      "thumbnail": "https://i.ytimg.com/vi/vCu-JGKP9iM/maxresdefault.jpg",
+      "status": "not_on_air",
       "start_time": "2026-07-07T21:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=vCu-JGKP9iM",
       "matched_keywords": [
@@ -265,6 +108,19 @@
       "url": "https://www.youtube.com/watch?v=jTOYuyu3GgI",
       "matched_keywords": [
         "ラジオ"
+      ]
+    },
+    {
+      "id": "01KWSS06QV038ED2AA5Z7YMBHN",
+      "title": "【朝活#385】50%の確率で起きます、結果は7時‼【雪城眞尋/にじさんじ】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/lPluE0ci7nY/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-07-08T07:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=lPluE0ci7nY",
+      "matched_keywords": [
+        "朝活"
       ]
     },
     {
