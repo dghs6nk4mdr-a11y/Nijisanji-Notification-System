@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-07T12:46:37.664501+09:00",
+  "updated_at": "2026-07-07T13:01:09.046802+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -172,6 +172,19 @@
       "status": "not_on_air",
       "start_time": "2026-07-07T22:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=1sG1BnDseqI",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
+      "id": "01KWXB5XRWYF2JGJE17HNB2AB0",
+      "title": "【Work+Chat】Let's prepare for some festivities! Work-Chat Pomodoro! おめでたい作業雑談！【NIJISANI EN | Seible】",
+      "liver_name": "01GHE21YHHT7MGCSEMXAN4GVHG",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/OKPTY6kQamY/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-07-07T14:30:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=OKPTY6kQamY",
       "matched_keywords": [
         "雑談"
       ]
