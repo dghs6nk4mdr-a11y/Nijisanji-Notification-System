@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-07T19:31:05.590995+09:00",
+  "updated_at": "2026-07-07T20:01:13.234739+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -172,6 +172,32 @@
       "status": "not_on_air",
       "start_time": "2026-07-07T22:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=1sG1BnDseqI",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
+      "id": "01KWY2XQ3M3S7720AE09C4HBQ0",
+      "title": "【 雑談 】七夕ケーキを食べながらお願い事したり近況話したりの会【にじさんじ / 珠乃井ナナ】",
+      "liver_name": "01J6CCJAKFW1BRQ4RMTBTCJRXP",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/vCu-JGKP9iM/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-07-07T21:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=vCu-JGKP9iM",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
+      "id": "01KWY362Q2THB9VANHDZHBGFSR",
+      "title": "【雑談】最近眠すぎるのだけどもいかがお過ごしでしょうか？【にじさんじ/桜凛月】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/s9I3GD1d48Y/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-07-07T20:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=s9I3GD1d48Y",
       "matched_keywords": [
         "雑談"
       ]
