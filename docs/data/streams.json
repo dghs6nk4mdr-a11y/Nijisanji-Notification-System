@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-08T21:01:14.876889+09:00",
+  "updated_at": "2026-07-08T21:31:06.655268+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -108,6 +108,19 @@
       "url": "https://www.youtube.com/watch?v=jTOYuyu3GgI",
       "matched_keywords": [
         "ラジオ"
+      ]
+    },
+    {
+      "id": "01KX0V113X9RRDV56FEC8D2QQF",
+      "title": "【雑談】今年半分終わってもた【甲斐田晴/にじさんじ】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/zvFXJaiIId8/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-07-08T22:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=zvFXJaiIId8",
+      "matched_keywords": [
+        "雑談"
       ]
     },
     {
