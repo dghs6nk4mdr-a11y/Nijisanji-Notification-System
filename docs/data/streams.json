@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-09T00:42:19.341150+09:00",
+  "updated_at": "2026-07-09T01:01:14.026046+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -95,6 +95,19 @@
       "url": "https://www.youtube.com/watch?v=U_o5e_jO2RM",
       "matched_keywords": [
         "ラジオ"
+      ]
+    },
+    {
+      "id": "01KX17AB1TQ3V410WVBR5ZXXQ6",
+      "title": "【映画雑談】映画を見るという習慣作り。劇場に足を運んでも良し、サブスクで観るもよし🎬",
+      "liver_name": "01GHAYG7HKX3CM741NB363668C",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/chnpnM5gTF4/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-07-09T21:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=chnpnM5gTF4",
+      "matched_keywords": [
+        "雑談"
       ]
     },
     {
