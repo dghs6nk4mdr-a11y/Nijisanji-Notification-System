@@ -1,115 +1,11 @@
 {
-  "updated_at": "2026-07-08T23:31:11.167949+09:00",
+  "updated_at": "2026-07-09T00:01:12.644144+09:00",
   "keywords": [
     "雑談",
     "朝活",
     "ラジオ"
   ],
   "streams": [
-    {
-      "id": "01KWV8FQ77C3ERDHS0BRWSDPNN",
-      "title": "#叶生誕祭2026 | お誕生日記念雑談＆今年のPUBG彼氏決定戦〜！【にじさんじ/叶】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/1sG1BnDseqI/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-07-07T22:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=1sG1BnDseqI",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KWY2XQ3M3S7720AE09C4HBQ0",
-      "title": "【 雑談 】七夕ケーキを食べながらお願い事したり近況話したりの会【にじさんじ / 珠乃井ナナ】",
-      "liver_name": "01J6CCJAKFW1BRQ4RMTBTCJRXP",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/vCu-JGKP9iM/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-07-07T21:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=vCu-JGKP9iM",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KWY362Q2THB9VANHDZHBGFSR",
-      "title": "【雑談】最近眠すぎるのだけどもいかがお過ごしでしょうか？【にじさんじ/桜凛月】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/s9I3GD1d48Y/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-07-07T20:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=s9I3GD1d48Y",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KWXB5XRWYF2JGJE17HNB2AB0",
-      "title": "【Work+Chat】Let's prepare for some festivities! Work-Chat Pomodoro! おめでたい作業雑談！【NIJISANI EN | Seible】",
-      "liver_name": "01GHE21YHHT7MGCSEMXAN4GVHG",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/OKPTY6kQamY/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-07-07T14:30:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=OKPTY6kQamY",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KWVM82ME6Z3MV02T9AB749AG",
-      "title": "【デュエプレ】朝活！視聴者参加型！！練習会！！！ミラーなど【早乙女ベリー/にじさんじ】",
-      "liver_name": "01J6CCJAK9N4AKCGFZ75P3W147",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/rOo4knoecNc/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-07-07T08:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=rOo4knoecNc",
-      "matched_keywords": [
-        "朝活"
-      ]
-    },
-    {
-      "id": "01KWSS06QVFEKX03EGR99CPY1E",
-      "title": "【朝活#384】七夕だけど今日も☔【雪城眞尋/にじさんじ】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/iUAFvSt8Qls/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-07-07T07:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=iUAFvSt8Qls",
-      "matched_keywords": [
-        "朝活"
-      ]
-    },
-    {
-      "id": "01KWVM87DTCF094CEFDP3H903C",
-      "title": "【 雑談 】七夕の朝一緒に過ごしちゃう？【 皇れお  / にじさんじ 】",
-      "liver_name": "01K5BBDKSPBQHW595ESQWN8BBP",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/WKc03p1PJ5c/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-07-07T06:30:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=WKc03p1PJ5c",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KWSKK50A51Y3M7QW8K1F7R9F",
-      "title": "〖深夜ラジオ〗2026年7月7日(火)のにゃルラジ🌙〖猫屋敷美紅 / にじさんじ〗",
-      "liver_name": "01K2KXFY4WTXD0E42NN67KG73Q",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/jTOYuyu3GgI/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-07-07T00:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=jTOYuyu3GgI",
-      "matched_keywords": [
-        "ラジオ"
-      ]
-    },
     {
       "id": "01KX0V113X9RRDV56FEC8D2QQF",
       "title": "【雑談】今年半分終わってもた【甲斐田晴/にじさんじ】",
