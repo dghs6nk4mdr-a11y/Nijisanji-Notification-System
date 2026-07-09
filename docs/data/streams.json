@@ -1,102 +1,11 @@
 {
-  "updated_at": "2026-07-09T23:31:02.800838+09:00",
+  "updated_at": "2026-07-10T00:01:12.758779+09:00",
   "keywords": [
     "雑談",
     "朝活",
     "ラジオ"
   ],
   "streams": [
-    {
-      "id": "01KX0V113X9RRDV56FEC8D2QQF",
-      "title": "【雑談】今年半分終わってもた【甲斐田晴/にじさんじ】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/zvFXJaiIId8/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-07-08T22:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=zvFXJaiIId8",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KX0HAEWF28DS7SBAYJ6TY4T1",
-      "title": "【雑談】男虎の10万人を見守る【にじさんじ】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/pp7ooPo5B40/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-07-08T18:35:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=pp7ooPo5B40",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KWVMTCKY1J7RKW0XZ1AQJZXH",
-      "title": "【#あらなみマイクラ】朝活あらなみ！！！！コンコン！！！【早乙女ベリー/にじさんじ】",
-      "liver_name": "01J6CCJAK9N4AKCGFZ75P3W147",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/QwrBwLgkwYk/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-07-08T08:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=QwrBwLgkwYk",
-      "matched_keywords": [
-        "朝活"
-      ]
-    },
-    {
-      "id": "01KWZ8D412FC4D343R8JSPZV9G",
-      "title": "【朝活】おはすず7月8日（水）＃556【七瀬すず菜/にじさんじ】",
-      "liver_name": "01J6CCJAK9N4AKCGFZ75P3W147",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/AJRUfISe7SY/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-07-08T07:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=AJRUfISe7SY",
-      "matched_keywords": [
-        "朝活"
-      ]
-    },
-    {
-      "id": "01KWSS06QV038ED2AA5Z7YMBHN",
-      "title": "【朝活#385】50%の確率で起きます、結果は7時‼【雪城眞尋/にじさんじ】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/lPluE0ci7nY/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-07-08T07:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=lPluE0ci7nY",
-      "matched_keywords": [
-        "朝活"
-      ]
-    },
-    {
-      "id": "01KWYT3FT2MWCW816PY5372FZB",
-      "title": "【 雑談 】涼しい朝とまったり時間を一緒に😉【 皇れお  / にじさんじ 】",
-      "liver_name": "01K5BBDKSPBQHW595ESQWN8BBP",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/SbRRR27jOD4/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-07-08T06:30:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=SbRRR27jOD4",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KWWJVRZT5HTAQP2PZWZ9R2PY",
-      "title": "〖深夜ラジオ〗2026年7月8日(水)のにゃルラジ🌙〖猫屋敷美紅 / にじさんじ〗",
-      "liver_name": "01K2KXFY4WTXD0E42NN67KG73Q",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/U_o5e_jO2RM/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-07-08T04:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=U_o5e_jO2RM",
-      "matched_keywords": [
-        "ラジオ"
-      ]
-    },
     {
       "id": "01KX3JJW8JZ4RBJC805SREJ6JS",
       "title": "【 雑談 】寝る前にゆるっと雑談！【 ソフィア・ヴァレンタイン / にじさんじ】",
@@ -142,7 +51,7 @@
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/jPIZnQwuTyc/maxresdefault_live.jpg",
-      "status": "on_air",
+      "status": "not_on_air",
       "start_time": "2026-07-09T23:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=jPIZnQwuTyc",
       "matched_keywords": [
@@ -167,8 +76,8 @@
       "title": "【映画雑談】映画を見るという習慣作り。劇場に足を運んでも良し、サブスクで観るもよし🎬",
       "liver_name": "01GHAYG7HKX3CM741NB363668C",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/chnpnM5gTF4/maxresdefault_live.jpg",
-      "status": "on_air",
+      "thumbnail": "https://i.ytimg.com/vi/chnpnM5gTF4/maxresdefault.jpg",
+      "status": "not_on_air",
       "start_time": "2026-07-09T22:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=chnpnM5gTF4",
       "matched_keywords": [
