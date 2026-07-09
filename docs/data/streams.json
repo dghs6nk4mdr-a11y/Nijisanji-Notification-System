@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-09T22:01:19.672442+09:00",
+  "updated_at": "2026-07-09T22:31:13.257578+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -98,6 +98,32 @@
       ]
     },
     {
+      "id": "01KX3H4KBMGJV13976MRFH7K0J",
+      "title": "【雑談】実は明日早起きですがやることはまだあります【戌亥とこ/にじさんじ】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/xYiYdl2JjvA/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-07-09T23:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=xYiYdl2JjvA",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
+      "id": "01KX3FPSBVVNTN02EA1ED5N5JR",
+      "title": "【🗣️雑談】梅雨にSAYONARA 👋🏽来いやNATSU☀️😁【にじさんじ/轟京子】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/h4tAQUyCrWM/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-07-09T23:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=h4tAQUyCrWM",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
       "id": "01KX3D4QARM94VP275VZYMGF6F",
       "title": "【雑談】最近の色々！みんなはどうですか？【にじさんじ／ジユ】",
       "liver_name": "",
@@ -129,7 +155,7 @@
       "liver_name": "01GHAYG7HKX3CM741NB363668C",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/chnpnM5gTF4/maxresdefault_live.jpg",
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-07-09T22:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=chnpnM5gTF4",
       "matched_keywords": [
