@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-09T11:01:07.580075+09:00",
+  "updated_at": "2026-07-09T11:31:11.342549+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -115,8 +115,8 @@
       "title": "【 雑談 】なんか早起きしてしまった朝【 にじさんじ  / 小々波いるか 】",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/j8rbJFQeSzw/maxresdefault_live.jpg",
-      "status": "on_air",
+      "thumbnail": "https://i.ytimg.com/vi/j8rbJFQeSzw/maxresdefault.jpg",
+      "status": "not_on_air",
       "start_time": "2026-07-09T08:05:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=j8rbJFQeSzw",
       "matched_keywords": [
@@ -142,7 +142,7 @@
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/DusY09bZSCM/maxresdefault_live.jpg",
-      "status": "on_air",
+      "status": "not_on_air",
       "start_time": "2026-07-09T07:30:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=DusY09bZSCM",
       "matched_keywords": [
