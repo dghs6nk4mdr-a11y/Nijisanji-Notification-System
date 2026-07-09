@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-10T00:01:12.758779+09:00",
+  "updated_at": "2026-07-10T00:31:04.395431+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -24,8 +24,8 @@
       "title": "【雑談】実は明日早起きですがやることはまだあります【戌亥とこ/にじさんじ】",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/xYiYdl2JjvA/maxresdefault_live.jpg",
-      "status": "on_air",
+      "thumbnail": "https://i.ytimg.com/vi/xYiYdl2JjvA/maxresdefault.jpg",
+      "status": "not_on_air",
       "start_time": "2026-07-09T23:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=xYiYdl2JjvA",
       "matched_keywords": [
@@ -54,19 +54,6 @@
       "status": "not_on_air",
       "start_time": "2026-07-09T23:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=jPIZnQwuTyc",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KX00PQ3PJD5RJP8AN51C522X",
-      "title": "【雑談】企画や、うたみたなどなど💛🦊いろいろあったので振り返ろう【 にじさんじフミ 】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/wD-2SwpuqHU/maxresdefault_live.jpg",
-      "status": "on_air",
-      "start_time": "2026-07-09T22:30:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=wD-2SwpuqHU",
       "matched_keywords": [
         "雑談"
       ]
@@ -150,6 +137,19 @@
       ]
     },
     {
+      "id": "01KX3R14T081H3864ARJ8NM6C8",
+      "title": "【晩酌雑談】今週も一週間お疲れ様でしたということで【にじさんじ / 五木左京】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/4289atvXYac/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-07-10T20:10:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=4289atvXYac",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
       "id": "01KWSS06QVBF2NPPHQ8DGGN3NS",
       "title": "【朝活#386】気温、来週は35度超えるってよ【雪城眞尋/にじさんじ】",
       "liver_name": "",
@@ -168,7 +168,7 @@
       "liver_name": "01K2KXFY4WTXD0E42NN67KG73Q",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/nPcfmlqdvcs/maxresdefault_live.jpg",
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-07-10T00:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=nPcfmlqdvcs",
       "matched_keywords": [
