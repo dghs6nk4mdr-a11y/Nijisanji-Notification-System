@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-10T01:31:05.136886+09:00",
+  "updated_at": "2026-07-10T02:01:09.951793+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -11,7 +11,7 @@
       "title": "【 雑談 】寝る前にゆるっと雑談！【 ソフィア・ヴァレンタイン / にじさんじ】",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/m5X2YSwUmkk/maxresdefault_live.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/m5X2YSwUmkk/maxresdefault.jpg",
       "status": "not_on_air",
       "start_time": "2026-07-09T23:15:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=m5X2YSwUmkk",
@@ -37,8 +37,8 @@
       "title": "【🗣️雑談】梅雨にSAYONARA 👋🏽来いやNATSU☀️😁【にじさんじ/轟京子】",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/h4tAQUyCrWM/maxresdefault_live.jpg",
-      "status": "on_air",
+      "thumbnail": "https://i.ytimg.com/vi/h4tAQUyCrWM/maxresdefault.jpg",
+      "status": "not_on_air",
       "start_time": "2026-07-09T23:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=h4tAQUyCrWM",
       "matched_keywords": [
@@ -54,6 +54,19 @@
       "status": "not_on_air",
       "start_time": "2026-07-09T23:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=jPIZnQwuTyc",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
+      "id": "01KX00PQ3PJD5RJP8AN51C522X",
+      "title": "【雑談】企画や、うたみたなどなど💛🦊いろいろあったので振り返ろう【 にじさんじフミ 】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/wD-2SwpuqHU/maxresdefault.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-07-09T22:30:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=wD-2SwpuqHU",
       "matched_keywords": [
         "雑談"
       ]
