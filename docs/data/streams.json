@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-09T22:31:13.257578+09:00",
+  "updated_at": "2026-07-09T23:01:11.659833+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -98,6 +98,19 @@
       ]
     },
     {
+      "id": "01KX3JJW8JZ4RBJC805SREJ6JS",
+      "title": "【 雑談 】寝る前にゆるっと雑談！【 ソフィア・ヴァレンタイン / にじさんじ】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/m5X2YSwUmkk/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-07-09T23:15:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=m5X2YSwUmkk",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
       "id": "01KX3H4KBMGJV13976MRFH7K0J",
       "title": "【雑談】実は明日早起きですがやることはまだあります【戌亥とこ/にじさんじ】",
       "liver_name": "",
@@ -142,7 +155,7 @@
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/wD-2SwpuqHU/maxresdefault_live.jpg",
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-07-09T22:30:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=wD-2SwpuqHU",
       "matched_keywords": [
