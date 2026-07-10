@@ -1,154 +1,11 @@
 {
-  "updated_at": "2026-07-10T23:31:06.510589+09:00",
+  "updated_at": "2026-07-11T00:01:15.315577+09:00",
   "keywords": [
     "雑談",
     "朝活",
     "ラジオ"
   ],
   "streams": [
-    {
-      "id": "01KX3JJW8JZ4RBJC805SREJ6JS",
-      "title": "【 雑談 】寝る前にゆるっと雑談！【 ソフィア・ヴァレンタイン / にじさんじ】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/m5X2YSwUmkk/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-07-09T23:15:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=m5X2YSwUmkk",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KX3H4KBMGJV13976MRFH7K0J",
-      "title": "【雑談】実は明日早起きですがやることはまだあります【戌亥とこ/にじさんじ】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/xYiYdl2JjvA/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-07-09T23:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=xYiYdl2JjvA",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KX3FPSBVVNTN02EA1ED5N5JR",
-      "title": "【🗣️雑談】梅雨にSAYONARA 👋🏽来いやNATSU☀️😁【にじさんじ/轟京子】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/h4tAQUyCrWM/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-07-09T23:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=h4tAQUyCrWM",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KX3D4QARM94VP275VZYMGF6F",
-      "title": "【雑談】最近の色々！みんなはどうですか？【にじさんじ／ジユ】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/jPIZnQwuTyc/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-07-09T23:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=jPIZnQwuTyc",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KX00PQ3PJD5RJP8AN51C522X",
-      "title": "【雑談】企画や、うたみたなどなど💛🦊いろいろあったので振り返ろう【 にじさんじフミ 】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/wD-2SwpuqHU/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-07-09T22:30:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=wD-2SwpuqHU",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KX17AB1TQ3V410WVBR5ZXXQ6",
-      "title": "【映画雑談】映画を見るという習慣作り。劇場に足を運んでも良し、サブスクで観るもよし🎬",
-      "liver_name": "01GHAYG7HKX3CM741NB363668C",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/chnpnM5gTF4/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-07-09T22:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=chnpnM5gTF4",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KX1ZNN5T59GKWKMTPBRM5FS0",
-      "title": "【 雑談 】なんか早起きしてしまった朝【 にじさんじ  / 小々波いるか 】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/j8rbJFQeSzw/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-07-09T08:05:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=j8rbJFQeSzw",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KX1XN6S0ZTMRQZV338FS40D4",
-      "title": "【朝活】７月初回のおはよう！オハ城2026【赤城ウェン/にじさんじ】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/TSZtnVBeayQ/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-07-09T08:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=TSZtnVBeayQ",
-      "matched_keywords": [
-        "朝活"
-      ]
-    },
-    {
-      "id": "01KX1WS21Z1FTG0RGDCZGPKPZR",
-      "title": "【APEX】朝活エーペックス！！朝エペはTKG【にじさんじ/桜凛月】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/DusY09bZSCM/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-07-09T07:30:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=DusY09bZSCM",
-      "matched_keywords": [
-        "朝活"
-      ]
-    },
-    {
-      "id": "01KX1TSSDDV9XWFYF3B6X9DE8Y",
-      "title": "【朝活】おはすず7月9日（木）＃557【七瀬すず菜/にじさんじ】",
-      "liver_name": "01J6CCJAK9N4AKCGFZ75P3W147",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/GyOx8MrIxNo/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-07-09T07:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=GyOx8MrIxNo",
-      "matched_keywords": [
-        "朝活"
-      ]
-    },
-    {
-      "id": "01KWZ8ZHJXMG6F49X94P8MSAZJ",
-      "title": "〖深夜ラジオ〗2026年7月9日(木)のにゃルラジ🌙〖猫屋敷美紅 / にじさんじ〗",
-      "liver_name": "01K2KXFY4WTXD0E42NN67KG73Q",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/lxbH8xenLHs/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-07-09T00:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=lxbH8xenLHs",
-      "matched_keywords": [
-        "ラジオ"
-      ]
-    },
     {
       "id": "01KX3R14T081H3864ARJ8NM6C8",
       "title": "【晩酌雑談】今週も一週間お疲れ様でしたということで【にじさんじ / 五木左京】",
@@ -168,7 +25,7 @@
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/Zj2ztsLly6c/maxresdefault_live.jpg",
-      "status": "on_air",
+      "status": "not_on_air",
       "start_time": "2026-07-10T22:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=Zj2ztsLly6c",
       "matched_keywords": [
