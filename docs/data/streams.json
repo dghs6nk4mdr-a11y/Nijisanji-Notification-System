@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-10T08:31:09.218404+09:00",
+  "updated_at": "2026-07-10T09:01:14.216263+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -194,7 +194,7 @@
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/ppoe54cimZw/maxresdefault_live.jpg",
-      "status": "on_air",
+      "status": "not_on_air",
       "start_time": "2026-07-10T07:30:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=ppoe54cimZw",
       "matched_keywords": [
@@ -233,8 +233,8 @@
       "title": "【朝活#386】気温、来週は35度超えるってよ【雪城眞尋/にじさんじ】",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/PMa6cg4_aDQ/maxresdefault_live.jpg",
-      "status": "on_air",
+      "thumbnail": "https://i.ytimg.com/vi/PMa6cg4_aDQ/maxresdefault.jpg",
+      "status": "not_on_air",
       "start_time": "2026-07-10T07:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=PMa6cg4_aDQ",
       "matched_keywords": [
