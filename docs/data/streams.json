@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-10T17:31:11.451875+09:00",
+  "updated_at": "2026-07-10T18:01:12.847007+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -158,6 +158,19 @@
       "status": "not_on_air",
       "start_time": "2026-07-10T22:10:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=4289atvXYac",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
+      "id": "01KX5KTN76EJM51HSY2XT3W2E3",
+      "title": "【雑談】初めまして！あなたもっちゅりんって言うのね！【花籠つばさ / にじさんじ】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/M1h62SYWROo/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-07-10T18:15:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=M1h62SYWROo",
       "matched_keywords": [
         "雑談"
       ]
