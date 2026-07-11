@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-11T20:31:11.671392+09:00",
+  "updated_at": "2026-07-11T21:01:10.670316+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -135,6 +135,19 @@
       "url": "https://www.youtube.com/watch?v=nPcfmlqdvcs",
       "matched_keywords": [
         "ラジオ"
+      ]
+    },
+    {
+      "id": "01KX8FMSQAPQ5JQJ12MPCJPC0T",
+      "title": "雑談しながらお前らと家に帰るゲーム　後半戦　-RV There Yet?-",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": null,
+      "status": "not_on_air",
+      "start_time": "2026-07-11T21:30:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=ZSAgJ5GQYoY",
+      "matched_keywords": [
+        "雑談"
       ]
     },
     {
