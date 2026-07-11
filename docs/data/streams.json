@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-11T20:01:08.628687+09:00",
+  "updated_at": "2026-07-11T20:14:27.938157+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -188,6 +188,20 @@
       "url": "https://www.youtube.com/watch?v=r9XB6EGVwcg",
       "matched_keywords": [
         "ラジオ"
+      ]
+    },
+    {
+      "id": "01KX8DY7BV3392FCKJXD8PFJCR",
+      "title": "【朝活雑談】任務前に…ふぉまえらの顔が…見たくってさぁ？【ニチアサ！緋八マン！】【にじさんじ/緋八マナ】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/F6SqqvO0r-U/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-07-12T07:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=F6SqqvO0r-U",
+      "matched_keywords": [
+        "雑談",
+        "朝活"
       ]
     },
     {
