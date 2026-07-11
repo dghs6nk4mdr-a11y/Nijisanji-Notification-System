@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-11T21:31:04.784208+09:00",
+  "updated_at": "2026-07-11T22:01:11.349026+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -143,7 +143,7 @@
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": null,
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-07-11T21:30:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=ZSAgJ5GQYoY",
       "matched_keywords": [
@@ -199,6 +199,19 @@
       "status": "not_on_air",
       "start_time": "2026-07-11T00:25:48.000+09:00",
       "url": "https://www.youtube.com/watch?v=r9XB6EGVwcg",
+      "matched_keywords": [
+        "ラジオ"
+      ]
+    },
+    {
+      "id": "01KX8KMKKMDEQJFQQ3C2932PFM",
+      "title": "【ラジオ】ジョー・力一の空昼ブランコ #100【にじさんじ】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/ZgjaDssxRrc/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-07-12T14:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=ZgjaDssxRrc",
       "matched_keywords": [
         "ラジオ"
       ]
