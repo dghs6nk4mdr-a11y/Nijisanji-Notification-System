@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-11T22:31:03.910055+09:00",
+  "updated_at": "2026-07-11T23:01:07.624388+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -228,6 +228,19 @@
       "matched_keywords": [
         "雑談",
         "朝活"
+      ]
+    },
+    {
+      "id": "01KX8QBXYDRM81R5BDZ2H2HMH1",
+      "title": "【深夜雑談】深夜のやまだよ～🌃♡【にじさんじ/山神カルタ】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/ISd6f6Fn7L4/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-07-12T00:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=ISd6f6Fn7L4",
+      "matched_keywords": [
+        "雑談"
       ]
     },
     {
