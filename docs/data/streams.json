@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-11T23:05:22.582927+09:00",
+  "updated_at": "2026-07-11T23:31:08.996779+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -214,6 +214,19 @@
       "url": "https://www.youtube.com/watch?v=ZgjaDssxRrc",
       "matched_keywords": [
         "ラジオ"
+      ]
+    },
+    {
+      "id": "01KX8SCBTDGTCZS0NY7XHSGHC2",
+      "title": "【朝雑談】急に暑くなってしまいまして…。【四季凪アキラ/にじさんじ】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/ZHg2THA0_sA/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-07-12T10:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=ZHg2THA0_sA",
+      "matched_keywords": [
+        "雑談"
       ]
     },
     {
