@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-12T21:31:09.561282+09:00",
+  "updated_at": "2026-07-12T22:01:15.121047+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -81,6 +81,19 @@
       "status": "not_on_air",
       "start_time": "2026-07-12T23:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=Z8MIsAcrooQ",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
+      "id": "01KXB5S8QJG1ED0XM4YJ1DNCVS",
+      "title": "【雑談】男虎の最近の話と質問等募集【にじさんじ】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/Pha9DdqWO5g/maxresdefault_live.jpg",
+      "status": "on_air",
+      "start_time": "2026-07-12T22:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=Pha9DdqWO5g",
       "matched_keywords": [
         "雑談"
       ]
