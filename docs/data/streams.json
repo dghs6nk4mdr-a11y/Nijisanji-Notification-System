@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-12T20:31:05.796805+09:00",
+  "updated_at": "2026-07-12T21:01:16.474443+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -70,6 +70,19 @@
       "url": "https://www.youtube.com/watch?v=r9XB6EGVwcg",
       "matched_keywords": [
         "ラジオ"
+      ]
+    },
+    {
+      "id": "01KXB2X02TJQZGP45HBNVS66RK",
+      "title": "【おつかれさんご】　ゆるゆる定期雑談！第183回！TUBE、組み合わせ無限大【周央サンゴ】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/Z8MIsAcrooQ/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-07-12T23:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=Z8MIsAcrooQ",
+      "matched_keywords": [
+        "雑談"
       ]
     },
     {
