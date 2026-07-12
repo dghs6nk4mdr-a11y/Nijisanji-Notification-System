@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-12T12:46:36.209392+09:00",
+  "updated_at": "2026-07-12T13:01:11.002364+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -70,6 +70,19 @@
       "url": "https://www.youtube.com/watch?v=r9XB6EGVwcg",
       "matched_keywords": [
         "ラジオ"
+      ]
+    },
+    {
+      "id": "01KXA7DPTE8MKN6P2BQKCCDRH9",
+      "title": "【雑談コラボ】二人でマシュマロ読みます【ベルモンド・バンデラス/アンジュ・カトリーナ/にじさんじ】",
+      "liver_name": "01G8WAJS2D4RQ455RW2BMDXG5K",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/TOjlsudr0vM/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-07-12T22:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=TOjlsudr0vM",
+      "matched_keywords": [
+        "雑談"
       ]
     },
     {
