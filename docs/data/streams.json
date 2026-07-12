@@ -1,77 +1,11 @@
 {
-  "updated_at": "2026-07-12T23:31:09.944904+09:00",
+  "updated_at": "2026-07-13T00:01:13.391806+09:00",
   "keywords": [
     "雑談",
     "朝活",
     "ラジオ"
   ],
   "streams": [
-    {
-      "id": "01KX8FMSQAPQ5JQJ12MPCJPC0T",
-      "title": "雑談しながらお前らと家に帰るゲーム　後半戦　-RV There Yet?-",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": null,
-      "status": "not_on_air",
-      "start_time": "2026-07-11T21:30:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=ZSAgJ5GQYoY",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KX84RF4E689A56QVTWQFX3BY",
-      "title": "モイラの雑談配信【20260711】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/pYkfqFIzeyM/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-07-11T17:30:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=pYkfqFIzeyM",
-      "matched_keywords": [
-        "雑談"
-      ]
-    },
-    {
-      "id": "01KX73A7GQ6W496XD3EE3WMEJG",
-      "title": "【デュエプレ】今日も朝活！視聴者参加型！！練習会！！！ドンジャングルに負けない【早乙女ベリー/にじさんじ】",
-      "liver_name": "01J6CCJAK9N4AKCGFZ75P3W147",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/5nPXDYJ_u88/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-07-11T08:00:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=5nPXDYJ_u88",
-      "matched_keywords": [
-        "朝活"
-      ]
-    },
-    {
-      "id": "01KX6VVG037Q4RKA2H6WTJMJHN",
-      "title": "【雑談/talk】朝活成功の世界線、ダウナーな鷹宮とチルい曲(Chill MIX)【にじさんじ/鷹宮リオン】",
-      "liver_name": "",
-      "liver_icon": "",
-      "thumbnail": null,
-      "status": "not_on_air",
-      "start_time": "2026-07-11T05:30:00.000+09:00",
-      "url": "https://www.youtube.com/watch?v=RJygkmTh2LE",
-      "matched_keywords": [
-        "雑談",
-        "朝活"
-      ]
-    },
-    {
-      "id": "01KX6ADXENFK08KFVRM46K5658",
-      "title": "〖深夜ラジオ〗2026年7月11日〖猫屋敷美紅 / にじさんじ〗",
-      "liver_name": "01K2KXFY4WTXD0E42NN67KG73Q",
-      "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/r9XB6EGVwcg/maxresdefault.jpg",
-      "status": "not_on_air",
-      "start_time": "2026-07-11T00:25:48.000+09:00",
-      "url": "https://www.youtube.com/watch?v=r9XB6EGVwcg",
-      "matched_keywords": [
-        "ラジオ"
-      ]
-    },
     {
       "id": "01KXB2X02TJQZGP45HBNVS66RK",
       "title": "【おつかれさんご】　ゆるゆる定期雑談！第183回！TUBE、組み合わせ無限大【周央サンゴ】",
@@ -91,7 +25,7 @@
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/Pha9DdqWO5g/maxresdefault_live.jpg",
-      "status": "on_air",
+      "status": "not_on_air",
       "start_time": "2026-07-12T22:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=Pha9DdqWO5g",
       "matched_keywords": [
@@ -103,8 +37,8 @@
       "title": "【雑談コラボ】二人でマシュマロ読みます【ベルモンド・バンデラス/アンジュ・カトリーナ/にじさんじ】",
       "liver_name": "01G8WAJS2D4RQ455RW2BMDXG5K",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/TOjlsudr0vM/maxresdefault_live.jpg",
-      "status": "on_air",
+      "thumbnail": "https://i.ytimg.com/vi/TOjlsudr0vM/maxresdefault.jpg",
+      "status": "not_on_air",
       "start_time": "2026-07-12T22:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=TOjlsudr0vM",
       "matched_keywords": [
@@ -227,6 +161,19 @@
       "url": "https://www.youtube.com/watch?v=q7ICHexYQMA",
       "matched_keywords": [
         "雑談"
+      ]
+    },
+    {
+      "id": "01KX8NMP93KVPJ9ZAS4N9PDC7V",
+      "title": "【 #ジョークレアラジオ 】JOKE RARE RADIO📻#05【にじさんじ/ジョー・力一/シスター・クレア】",
+      "liver_name": "01G8WAJR7YBTCJ686MMSM657B0",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/9IdHgWuk-kU/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-07-14T22:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=9IdHgWuk-kU",
+      "matched_keywords": [
+        "ラジオ"
       ]
     }
   ]
