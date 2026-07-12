@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-12T16:01:10.441784+09:00",
+  "updated_at": "2026-07-12T16:31:06.806426+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -81,6 +81,19 @@
       "status": "not_on_air",
       "start_time": "2026-07-12T22:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=TOjlsudr0vM",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
+      "id": "01KXAJK9H1VE0XBBF2HDM7KVK6",
+      "title": "誕生日 雑談【ハユン/にじさんじ】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/lt0GisSs274/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-07-12T18:30:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=lt0GisSs274",
       "matched_keywords": [
         "雑談"
       ]
