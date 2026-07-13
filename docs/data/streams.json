@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-13T19:01:18.390470+09:00",
+  "updated_at": "2026-07-13T19:31:10.778530+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -135,6 +135,19 @@
       "url": "https://www.youtube.com/watch?v=cm7isJnayBg",
       "matched_keywords": [
         "ラジオ"
+      ]
+    },
+    {
+      "id": "01KXDGEQQQCJKN8RCVCBN2EPCG",
+      "title": "【雑談】明日のゆるスタ練に向けてエレキギターの音作りでもしようかと。【花籠つばさ / にじさんじ】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/vZ3Tk0yI1Yg/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-07-13T22:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=vZ3Tk0yI1Yg",
+      "matched_keywords": [
+        "雑談"
       ]
     },
     {
