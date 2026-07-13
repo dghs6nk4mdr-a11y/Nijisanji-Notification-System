@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-13T18:01:13.729426+09:00",
+  "updated_at": "2026-07-13T18:31:10.817626+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -172,6 +172,19 @@
       "status": "not_on_air",
       "start_time": "2026-07-13T21:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=cDcGTG12AuA",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
+      "id": "01KXDCQJ9XB1Z3THV10GF21JKN",
+      "title": "【雑談】デュエプレの振り返りやら恋愛漫画やら【渚トラウト/にじさんじ】",
+      "liver_name": "01J6CCJAK9N4AKCGFZ75P3W147",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/5GC20VrdHlA/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-07-13T19:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=5GC20VrdHlA",
       "matched_keywords": [
         "雑談"
       ]
