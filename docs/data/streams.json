@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-13T23:01:22.066395+09:00",
+  "updated_at": "2026-07-13T23:31:14.837660+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -143,7 +143,7 @@
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/vZ3Tk0yI1Yg/maxresdefault_live.jpg",
-      "status": "on_air",
+      "status": "not_on_air",
       "start_time": "2026-07-13T22:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=vZ3Tk0yI1Yg",
       "matched_keywords": [
@@ -155,8 +155,8 @@
       "title": "【雑談】夢の中でだけ見るあの場所【 にじさんじ / 家長むぎ 】",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/oeHP9YxzDRY/maxresdefault_live.jpg",
-      "status": "on_air",
+      "thumbnail": "https://i.ytimg.com/vi/oeHP9YxzDRY/maxresdefault.jpg",
+      "status": "not_on_air",
       "start_time": "2026-07-13T22:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=oeHP9YxzDRY",
       "matched_keywords": [
