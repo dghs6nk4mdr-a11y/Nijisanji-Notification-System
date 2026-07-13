@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-13T13:01:13.264489+09:00",
+  "updated_at": "2026-07-13T13:31:06.477339+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -148,6 +148,19 @@
       "url": "https://www.youtube.com/watch?v=QEOAh6n9seo",
       "matched_keywords": [
         "ラジオ"
+      ]
+    },
+    {
+      "id": "01KXCVVKPDG3KZFRAW2HN7DK2P",
+      "title": "【Chat/雑談】Let's catch-up! Nijibuttlers and more! 久しぶりの雑談！【NIJISANI EN | Seible】",
+      "liver_name": "01GHE21YHHT7MGCSEMXAN4GVHG",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/cDcGTG12AuA/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-07-13T21:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=cDcGTG12AuA",
+      "matched_keywords": [
+        "雑談"
       ]
     },
     {
