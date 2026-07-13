@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-13T22:01:17.960673+09:00",
+  "updated_at": "2026-07-13T22:31:08.941558+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -143,7 +143,7 @@
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/vZ3Tk0yI1Yg/maxresdefault_live.jpg",
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-07-13T22:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=vZ3Tk0yI1Yg",
       "matched_keywords": [
@@ -156,7 +156,7 @@
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/oeHP9YxzDRY/maxresdefault_live.jpg",
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-07-13T22:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=oeHP9YxzDRY",
       "matched_keywords": [
@@ -169,7 +169,7 @@
       "liver_name": "01G8WAJS22K32RPTK15KW3PX0Y",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/QEOAh6n9seo/maxresdefault_live.jpg",
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-07-13T22:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=QEOAh6n9seo",
       "matched_keywords": [
@@ -279,6 +279,19 @@
       "url": "https://www.youtube.com/watch?v=9IdHgWuk-kU",
       "matched_keywords": [
         "ラジオ"
+      ]
+    },
+    {
+      "id": "01KXDTR5AH9J8QBQT2QRYE6DQ0",
+      "title": "【雑談】朝だよ！みんな起きて！【にじさんじ/梢桃音】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/guWCbwvEsPQ/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-07-14T08:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=guWCbwvEsPQ",
+      "matched_keywords": [
+        "雑談"
       ]
     },
     {
