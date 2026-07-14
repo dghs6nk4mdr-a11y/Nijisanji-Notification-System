@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-14T22:01:21.796496+09:00",
+  "updated_at": "2026-07-14T22:31:16.858532+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -143,7 +143,7 @@
       "liver_name": "01GHE21YHHT7MGCSEMXAN4GVHG",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/CoClbuVcz1Y/maxresdefault_live.jpg",
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-07-14T22:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=CoClbuVcz1Y",
       "matched_keywords": [
@@ -156,7 +156,7 @@
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/CilM6_8XDhg/maxresdefault_live.jpg",
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-07-14T22:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=CilM6_8XDhg",
       "matched_keywords": [
@@ -169,7 +169,7 @@
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/ebAvjzaKkTM/maxresdefault_live.jpg",
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-07-14T22:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=ebAvjzaKkTM",
       "matched_keywords": [
@@ -182,7 +182,7 @@
       "liver_name": "01G8WAJR7YBTCJ686MMSM657B0",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/9IdHgWuk-kU/maxresdefault_live.jpg",
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-07-14T22:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=9IdHgWuk-kU",
       "matched_keywords": [
