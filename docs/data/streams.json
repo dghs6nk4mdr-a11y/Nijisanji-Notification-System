@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-14T10:01:13.130918+09:00",
+  "updated_at": "2026-07-14T10:31:06.757221+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -151,6 +151,19 @@
       ]
     },
     {
+      "id": "01KXF3MQRGVTJCDRVE5H5S21H8",
+      "title": "【 ランチ雑談 】夏になりました。いかがお過ごしですか。【にじさんじ / 葉加瀬冬雪】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/eU4O4QB-ABI/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-07-14T12:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=eU4O4QB-ABI",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
       "id": "01KXE6RPVJ10C8ZAEYHTGSAEW5",
       "title": "【朝活雑談】久しぶりの朝活で最近の振り返りとかする【早乙女ベリー/にじさんじ】",
       "liver_name": "01J6CCJAK9N4AKCGFZ75P3W147",
@@ -169,8 +182,8 @@
       "title": "【雑談】朝だよ！みんな起きて！【にじさんじ/梢桃音】",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/guWCbwvEsPQ/maxresdefault_live.jpg",
-      "status": "on_air",
+      "thumbnail": "https://i.ytimg.com/vi/guWCbwvEsPQ/maxresdefault.jpg",
+      "status": "not_on_air",
       "start_time": "2026-07-14T08:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=guWCbwvEsPQ",
       "matched_keywords": [
