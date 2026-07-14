@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-15T00:01:16.929848+09:00",
+  "updated_at": "2026-07-15T00:31:13.221012+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -24,7 +24,7 @@
       "title": "【雑談】突然ですがまったりした夜を少しだけ共有しませんか？【NIJISANI EN | Seible】",
       "liver_name": "01GHE21YHHT7MGCSEMXAN4GVHG",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/CoClbuVcz1Y/maxresdefault_live.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/CoClbuVcz1Y/maxresdefault.jpg",
       "status": "not_on_air",
       "start_time": "2026-07-14T22:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=CoClbuVcz1Y",
@@ -50,7 +50,7 @@
       "title": "【雑談】1時間で絶対終わる雑談のお時間ですよ【にじさんじ／空星きらめ】",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/ebAvjzaKkTM/maxresdefault_live.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/ebAvjzaKkTM/maxresdefault.jpg",
       "status": "not_on_air",
       "start_time": "2026-07-14T22:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=ebAvjzaKkTM",
@@ -156,7 +156,7 @@
       "liver_name": "01K2KXFY4WTXD0E42NN67KG73Q",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/qiza8gGkg6Q/maxresdefault_live.jpg",
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-07-15T00:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=qiza8gGkg6Q",
       "matched_keywords": [
