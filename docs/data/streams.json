@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-14T21:48:28.675140+09:00",
+  "updated_at": "2026-07-14T22:01:21.796496+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -133,6 +133,19 @@
       "status": "not_on_air",
       "start_time": "2026-07-13T00:30:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=f13Iv2CnVwE",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
+      "id": "01KXGB4X6PX6G697W0DQJPE34D",
+      "title": "【雑談】突然ですがまったりした夜を少しだけ共有しませんか？【NIJISANI EN | Seible】",
+      "liver_name": "01GHE21YHHT7MGCSEMXAN4GVHG",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/CoClbuVcz1Y/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-07-14T22:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=CoClbuVcz1Y",
       "matched_keywords": [
         "雑談"
       ]
