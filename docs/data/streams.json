@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-14T23:01:23.997223+09:00",
+  "updated_at": "2026-07-14T23:31:12.919536+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -138,12 +138,25 @@
       ]
     },
     {
+      "id": "01KXF07Q6Z5DX89CJMH44G7PDT",
+      "title": "【 Minecraft 】#あらなみマイクラ 多分テラコッタ鬼堀雑談【 Rei7 / にじさんじ 】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/8vCk-ZUpw8o/maxresdefault_live.jpg",
+      "status": "on_air",
+      "start_time": "2026-07-14T23:15:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=8vCk-ZUpw8o",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
       "id": "01KXGB4X6PX6G697W0DQJPE34D",
       "title": "【雑談】突然ですがまったりした夜を少しだけ共有しませんか？【NIJISANI EN | Seible】",
       "liver_name": "01GHE21YHHT7MGCSEMXAN4GVHG",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/CoClbuVcz1Y/maxresdefault_live.jpg",
-      "status": "on_air",
+      "status": "not_on_air",
       "start_time": "2026-07-14T22:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=CoClbuVcz1Y",
       "matched_keywords": [
@@ -156,7 +169,7 @@
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/CilM6_8XDhg/maxresdefault_live.jpg",
-      "status": "on_air",
+      "status": "not_on_air",
       "start_time": "2026-07-14T22:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=CilM6_8XDhg",
       "matched_keywords": [
@@ -169,7 +182,7 @@
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/ebAvjzaKkTM/maxresdefault_live.jpg",
-      "status": "on_air",
+      "status": "not_on_air",
       "start_time": "2026-07-14T22:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=ebAvjzaKkTM",
       "matched_keywords": [
