@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-14T08:31:08.420417+09:00",
+  "updated_at": "2026-07-14T09:01:17.796417+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -183,7 +183,7 @@
       "liver_name": "01J6CCJAK9N4AKCGFZ75P3W147",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/APCIAsK7DBo/maxresdefault_live.jpg",
-      "status": "on_air",
+      "status": "not_on_air",
       "start_time": "2026-07-14T07:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=APCIAsK7DBo",
       "matched_keywords": [
@@ -195,8 +195,8 @@
       "title": "【朝活#387】わあああああああああああああああ、なんですかその顔。【雪城眞尋/にじさんじ】",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/56UOWo8Zp5k/maxresdefault_live.jpg",
-      "status": "on_air",
+      "thumbnail": "https://i.ytimg.com/vi/56UOWo8Zp5k/maxresdefault.jpg",
+      "status": "not_on_air",
       "start_time": "2026-07-14T07:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=56UOWo8Zp5k",
       "matched_keywords": [
