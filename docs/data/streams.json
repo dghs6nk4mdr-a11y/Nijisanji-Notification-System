@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-16T00:31:13.510465+09:00",
+  "updated_at": "2026-07-16T01:01:19.861851+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -11,8 +11,8 @@
       "title": "【雑談】4周年ありがとう雑談！！【渡会雲雀/にじさんじ】",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/ryPLmHmFyCI/maxresdefault_live.jpg",
-      "status": "on_air",
+      "thumbnail": "https://i.ytimg.com/vi/ryPLmHmFyCI/maxresdefault.jpg",
+      "status": "not_on_air",
       "start_time": "2026-07-15T22:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=ryPLmHmFyCI",
       "matched_keywords": [
@@ -187,6 +187,19 @@
       "url": "https://www.youtube.com/watch?v=-xoF5hCvyXA",
       "matched_keywords": [
         "ラジオ"
+      ]
+    },
+    {
+      "id": "01KXK6PHJFFEGBMPY1D5M18WJ1",
+      "title": "【デュエプレ】朝活でデュエプレのストーリーを読もう！！【早乙女ベリー/にじさんじ】",
+      "liver_name": "01J6CCJAK9N4AKCGFZ75P3W147",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/hQs_nGj_jU0/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-07-16T08:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=hQs_nGj_jU0",
+      "matched_keywords": [
+        "朝活"
       ]
     },
     {
