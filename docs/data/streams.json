@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-15T20:31:17.808356+09:00",
+  "updated_at": "2026-07-15T21:01:16.331431+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -151,6 +151,19 @@
       ]
     },
     {
+      "id": "01KXJSTBF1FVH5MCAQZAA4D6TK",
+      "title": "【 #のぞめるRadio 】出張版!!✨あらなみマイクラでラジオブースつくるぞおお!! 【倉持めると/にじさんじ】",
+      "liver_name": "01GPWBQTMVSH0YB38Z5YGN12PX",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/4L7NRtjiMjw/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-07-15T22:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=4L7NRtjiMjw",
+      "matched_keywords": [
+        "ラジオ"
+      ]
+    },
+    {
       "id": "01KXJQSV1AEM35TQHK04D60NTG",
       "title": "【雑談】なちゅと夢の国に行ってきた！(念願)💙🩵【にじさんじ/来栖夏芽/山神カルタ】",
       "liver_name": "01G8WAJSWC1F033QKEX2VHSKK4",
@@ -164,12 +177,25 @@
       ]
     },
     {
+      "id": "01KXJST99CKYVZ6VBPW34PHP4T",
+      "title": "【雑談】4周年もありがとう。5年目も頑張ります。【セラフ・ダズルガーデン/にじさんじ】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": null,
+      "status": "not_on_air",
+      "start_time": "2026-07-15T21:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=PtDYNBShgeo",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
       "id": "01KXJKSR77C2FDZE41VPNESG8R",
       "title": "【雑談】同棲始めました【北小路ヒスイ/にじさんじ】",
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/5H00-uUriG0/maxresdefault_live.jpg",
-      "status": "on_air",
+      "status": "not_on_air",
       "start_time": "2026-07-15T19:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=5H00-uUriG0",
       "matched_keywords": [
