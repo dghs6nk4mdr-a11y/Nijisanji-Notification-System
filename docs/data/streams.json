@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-15T21:01:16.331431+09:00",
+  "updated_at": "2026-07-15T21:31:14.147463+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -151,6 +151,19 @@
       ]
     },
     {
+      "id": "01KXJTN96Q1NV6R83921AMEG2J",
+      "title": "まり(←俺のことが好きｗ)と俺(←まんざらでもないｗ) 【🔴雑談│にじさんじ/アンジュ・カトリーナ/兎鞠まり】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/sKMRD3W9Rr0/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-07-15T22:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=sKMRD3W9Rr0",
+      "matched_keywords": [
+        "雑談"
+      ]
+    },
+    {
       "id": "01KXJSTBF1FVH5MCAQZAA4D6TK",
       "title": "【 #のぞめるRadio 】出張版!!✨あらなみマイクラでラジオブースつくるぞおお!! 【倉持めると/にじさんじ】",
       "liver_name": "01GPWBQTMVSH0YB38Z5YGN12PX",
@@ -182,7 +195,7 @@
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": null,
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-07-15T21:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=PtDYNBShgeo",
       "matched_keywords": [
@@ -194,7 +207,7 @@
       "title": "【雑談】同棲始めました【北小路ヒスイ/にじさんじ】",
       "liver_name": "",
       "liver_icon": "",
-      "thumbnail": "https://i.ytimg.com/vi/5H00-uUriG0/maxresdefault_live.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/5H00-uUriG0/maxresdefault.jpg",
       "status": "not_on_air",
       "start_time": "2026-07-15T19:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=5H00-uUriG0",
