@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-16T07:31:06.398614+09:00",
+  "updated_at": "2026-07-16T08:01:14.996664+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -185,6 +185,19 @@
       "status": "not_on_air",
       "start_time": "2026-07-16T22:00:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=-xoF5hCvyXA",
+      "matched_keywords": [
+        "ラジオ"
+      ]
+    },
+    {
+      "id": "01KXKZK4ZM8PANZ1CHD0B4TRRK",
+      "title": "【 昼めしラジオ #22 】冷やし中華すすりながら、自由研究考える昼休み 【 篠宮ゆの / すぷれあ / にじさんじ 】",
+      "liver_name": "01K5BBDKSPBQHW595ESQWN8BBP",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/IKI4NAVXgx4/maxresdefault_live.jpg",
+      "status": "not_on_air",
+      "start_time": "2026-07-16T12:00:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=IKI4NAVXgx4",
       "matched_keywords": [
         "ラジオ"
       ]
