@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-15T10:31:10.460548+09:00",
+  "updated_at": "2026-07-15T11:01:11.338942+09:00",
   "keywords": [
     "雑談",
     "朝活",
@@ -12,7 +12,7 @@
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/8vCk-ZUpw8o/maxresdefault_live.jpg",
-      "status": "on_air",
+      "status": "not_on_air",
       "start_time": "2026-07-14T23:15:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=8vCk-ZUpw8o",
       "matched_keywords": [
@@ -151,12 +151,25 @@
       ]
     },
     {
+      "id": "01KXHQF1X39K3T5GHP651ZK5DH",
+      "title": "【スプラ３】朝活スプラ 私も働かせてください！【にじさんじ/桜凛月】",
+      "liver_name": "",
+      "liver_icon": "",
+      "thumbnail": "https://i.ytimg.com/vi/VHpQ64ksHhE/maxresdefault_live.jpg",
+      "status": "on_air",
+      "start_time": "2026-07-15T10:45:00.000+09:00",
+      "url": "https://www.youtube.com/watch?v=VHpQ64ksHhE",
+      "matched_keywords": [
+        "朝活"
+      ]
+    },
+    {
       "id": "01KXHPA9TX49DZ7M89XW6XDK2E",
       "title": "モイラの雑談配信【20260715】",
       "liver_name": "",
       "liver_icon": "",
       "thumbnail": "https://i.ytimg.com/vi/relNj3TKBBM/maxresdefault_live.jpg",
-      "status": "not_on_air",
+      "status": "on_air",
       "start_time": "2026-07-15T10:30:00.000+09:00",
       "url": "https://www.youtube.com/watch?v=relNj3TKBBM",
       "matched_keywords": [
